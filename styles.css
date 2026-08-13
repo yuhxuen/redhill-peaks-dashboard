@@ -30,7 +30,7 @@ h1 { margin: 0; font: 500 clamp(38px, 5vw, 66px)/.96 Georgia, serif; max-width: 
 .source-notice strong, .source-notice span { display: block; }
 .source-notice span { margin-top: 3px; font-size: 13px; line-height: 1.45; }
 .source-notice p { margin: 0; white-space: nowrap; font-size: 13px; font-weight: 700; }
-.metrics { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; margin-bottom: 12px; }
+.metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-bottom: 12px; }
 .metric, .panel { background: rgba(255,253,248,.94); border: 1px solid var(--line); border-radius: 16px; }
 .metric { padding: 22px; min-height: 130px; display: flex; flex-direction: column; justify-content: space-between; }
 .metric span { color: var(--muted); font-size: 14px; }
@@ -40,6 +40,7 @@ h1 { margin: 0; font: 500 clamp(38px, 5vw, 66px)/.96 Georgia, serif; max-width: 
 .panel { margin-top: 12px; overflow: hidden; }
 .panel-heading { padding: 22px 24px; border-bottom: 1px solid var(--line); }
 .panel-heading h2 { margin: 0; font: 500 25px Georgia, serif; }
+.heading-date { color: var(--green); font-size: .72em; white-space: nowrap; }
 .panel-heading p { margin: 5px 0 0; color: var(--muted); font-size: 14px; }
 .changes { padding-bottom: 18px; }
 .chips { display: flex; flex-wrap: wrap; gap: 8px; padding: 18px 24px 0; }

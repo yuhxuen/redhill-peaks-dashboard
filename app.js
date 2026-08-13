@@ -60,9 +60,14 @@ function renderChanges() {
     ...(state.changes.available || []).map((item) => ({ item, type: "available" })),
   ];
   const list = $("change-list");
+  const dateLabel = state.changes.date
+    ? new Date(`${state.changes.date}T00:00:00+08:00`).toLocaleDateString("en-SG", { dateStyle: "long" })
+    : "Latest update date";
+  $("change-date").textContent = `· ${dateLabel}`;
+  $("change-caption").textContent = `${state.changes.taken?.length || 0} taken · ${state.changes.available?.length || 0} returned to availability`;
   if (!changes.length) {
     list.className = "chips muted";
-    list.textContent = "No changes detected in the latest comparison.";
+    list.textContent = "No unit changes so far for this date.";
     return;
   }
   list.className = "chips";
@@ -78,7 +83,6 @@ function render(data) {
   $("taken").textContent = data.summary.taken.toLocaleString();
   $("total").textContent = data.summary.total.toLocaleString();
   const updated = new Date(data.updated_at).toLocaleString("en-SG", { dateStyle: "medium", timeStyle: "short" });
-  $("checked").textContent = updated;
   $("disclaimer-updated").textContent = updated;
   $("disclaimer-updated").dateTime = data.updated_at;
   $("block-select").innerHTML = state.blocks.map((item) => `<option value="${escapeHtml(item.block)}">Block ${escapeHtml(item.block)} · ${item.available} available · ${item.taken} taken</option>`).join("");
