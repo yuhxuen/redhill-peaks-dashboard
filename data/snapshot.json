@@ -2,7 +2,7 @@
   "schema_version": 1,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-13T04:06:39+00:00",
+  "updated_at": "2026-08-13T04:35:56+00:00",
   "summary": {
     "available": 569,
     "taken": 24,
@@ -5368,149 +5368,7 @@
     }
   ],
   "changes": {
-    "date": "2026-08-13",
-    "taken": [
-      {
-        "id": "146A-49-155",
-        "block": "146A",
-        "floor": "49",
-        "unit": "155",
-        "price": 782800
-      },
-      {
-        "id": "146A-48-155",
-        "block": "146A",
-        "floor": "48",
-        "unit": "155",
-        "price": 782800
-      },
-      {
-        "id": "146A-47-155",
-        "block": "146A",
-        "floor": "47",
-        "unit": "155",
-        "price": 781000
-      },
-      {
-        "id": "146A-45-155",
-        "block": "146A",
-        "floor": "45",
-        "unit": "155",
-        "price": 777400
-      },
-      {
-        "id": "146A-42-155",
-        "block": "146A",
-        "floor": "42",
-        "unit": "155",
-        "price": 772000
-      },
-      {
-        "id": "146A-28-155",
-        "block": "146A",
-        "floor": "28",
-        "unit": "155",
-        "price": 746800
-      },
-      {
-        "id": "146A-26-155",
-        "block": "146A",
-        "floor": "26",
-        "unit": "155",
-        "price": 743200
-      },
-      {
-        "id": "146A-13-155",
-        "block": "146A",
-        "floor": "13",
-        "unit": "155",
-        "price": 681600
-      },
-      {
-        "id": "146A-11-155",
-        "block": "146A",
-        "floor": "11",
-        "unit": "155",
-        "price": 674600
-      },
-      {
-        "id": "147A-49-173",
-        "block": "147A",
-        "floor": "49",
-        "unit": "173",
-        "price": 782800
-      },
-      {
-        "id": "148A-48-187",
-        "block": "148A",
-        "floor": "48",
-        "unit": "187",
-        "price": 765000
-      },
-      {
-        "id": "148A-47-187",
-        "block": "148A",
-        "floor": "47",
-        "unit": "187",
-        "price": 763200
-      },
-      {
-        "id": "148A-45-187",
-        "block": "148A",
-        "floor": "45",
-        "unit": "187",
-        "price": 759600
-      },
-      {
-        "id": "148A-40-187",
-        "block": "148A",
-        "floor": "40",
-        "unit": "187",
-        "price": 750600
-      },
-      {
-        "id": "148A-33-187",
-        "block": "148A",
-        "floor": "33",
-        "unit": "187",
-        "price": 738000
-      },
-      {
-        "id": "148A-30-187",
-        "block": "148A",
-        "floor": "30",
-        "unit": "187",
-        "price": 732600
-      },
-      {
-        "id": "148A-28-187",
-        "block": "148A",
-        "floor": "28",
-        "unit": "187",
-        "price": 729000
-      },
-      {
-        "id": "148A-26-187",
-        "block": "148A",
-        "floor": "26",
-        "unit": "187",
-        "price": 725400
-      },
-      {
-        "id": "148A-25-187",
-        "block": "148A",
-        "floor": "25",
-        "unit": "187",
-        "price": 723600
-      },
-      {
-        "id": "148A-18-187",
-        "block": "148A",
-        "floor": "18",
-        "unit": "187",
-        "price": 699100
-      }
-    ],
+    "taken": [],
     "available": []
   },
   "notice": "Availability is informational. Confirm all details directly with HDB."

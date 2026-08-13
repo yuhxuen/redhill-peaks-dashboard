@@ -57,14 +57,14 @@ function renderBuilding() {
 function renderChanges() {
   const changes = [
     ...(state.changes.taken || []).map((item) => ({ item, type: "taken" })),
-    ...(state.changes.available || []).map((item) => ({ item, type: "available" })),
   ];
   const list = $("change-list");
   const dateLabel = state.changes.date
     ? new Date(`${state.changes.date}T00:00:00+08:00`).toLocaleDateString("en-SG", { dateStyle: "long" })
     : "Latest update date";
   $("change-date").textContent = `· ${dateLabel}`;
-  $("change-caption").textContent = `${state.changes.taken?.length || 0} taken · ${state.changes.available?.length || 0} returned to availability`;
+  const takenCount = state.changes.taken?.length || 0;
+  $("change-caption").textContent = `${takenCount} ${takenCount === 1 ? "unit" : "units"} taken`;
   if (!changes.length) {
     list.className = "chips muted";
     list.textContent = "No unit changes so far for this date.";
