@@ -1,0 +1,5392 @@
+{
+  "schema_version": 1,
+  "project": "Redhill Peaks",
+  "room_type": "4-room",
+  "updated_at": "2026-08-13T03:44:08+00:00",
+  "summary": {
+    "available": 570,
+    "taken": 23,
+    "total": 593
+  },
+  "blocks": [
+    {
+      "block": "146A",
+      "available": 128,
+      "taken": 9,
+      "total": 137
+    },
+    {
+      "block": "147A",
+      "available": 226,
+      "taken": 2,
+      "total": 228
+    },
+    {
+      "block": "148A",
+      "available": 216,
+      "taken": 12,
+      "total": 228
+    }
+  ],
+  "units": [
+    {
+      "id": "146A-49-153",
+      "block": "146A",
+      "floor": "49",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "available"
+    },
+    {
+      "id": "146A-49-155",
+      "block": "146A",
+      "floor": "49",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "taken"
+    },
+    {
+      "id": "146A-49-163",
+      "block": "146A",
+      "floor": "49",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "146A-48-153",
+      "block": "146A",
+      "floor": "48",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "available"
+    },
+    {
+      "id": "146A-48-155",
+      "block": "146A",
+      "floor": "48",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "taken"
+    },
+    {
+      "id": "146A-48-163",
+      "block": "146A",
+      "floor": "48",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "146A-47-153",
+      "block": "146A",
+      "floor": "47",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 781000,
+      "status": "available"
+    },
+    {
+      "id": "146A-47-155",
+      "block": "146A",
+      "floor": "47",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 781000,
+      "status": "taken"
+    },
+    {
+      "id": "146A-47-163",
+      "block": "146A",
+      "floor": "47",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 763200,
+      "status": "available"
+    },
+    {
+      "id": "146A-46-153",
+      "block": "146A",
+      "floor": "46",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 779200,
+      "status": "available"
+    },
+    {
+      "id": "146A-46-155",
+      "block": "146A",
+      "floor": "46",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 779200,
+      "status": "available"
+    },
+    {
+      "id": "146A-46-163",
+      "block": "146A",
+      "floor": "46",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 761400,
+      "status": "available"
+    },
+    {
+      "id": "146A-45-153",
+      "block": "146A",
+      "floor": "45",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 777400,
+      "status": "available"
+    },
+    {
+      "id": "146A-45-155",
+      "block": "146A",
+      "floor": "45",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 777400,
+      "status": "taken"
+    },
+    {
+      "id": "146A-45-163",
+      "block": "146A",
+      "floor": "45",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 759600,
+      "status": "available"
+    },
+    {
+      "id": "146A-44-153",
+      "block": "146A",
+      "floor": "44",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 775600,
+      "status": "available"
+    },
+    {
+      "id": "146A-44-155",
+      "block": "146A",
+      "floor": "44",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 775600,
+      "status": "available"
+    },
+    {
+      "id": "146A-44-163",
+      "block": "146A",
+      "floor": "44",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 757800,
+      "status": "available"
+    },
+    {
+      "id": "146A-43-153",
+      "block": "146A",
+      "floor": "43",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 773800,
+      "status": "available"
+    },
+    {
+      "id": "146A-43-155",
+      "block": "146A",
+      "floor": "43",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 773800,
+      "status": "available"
+    },
+    {
+      "id": "146A-43-163",
+      "block": "146A",
+      "floor": "43",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "146A-42-153",
+      "block": "146A",
+      "floor": "42",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 772000,
+      "status": "available"
+    },
+    {
+      "id": "146A-42-155",
+      "block": "146A",
+      "floor": "42",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 772000,
+      "status": "taken"
+    },
+    {
+      "id": "146A-42-163",
+      "block": "146A",
+      "floor": "42",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "146A-41-153",
+      "block": "146A",
+      "floor": "41",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 770200,
+      "status": "available"
+    },
+    {
+      "id": "146A-41-155",
+      "block": "146A",
+      "floor": "41",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 770200,
+      "status": "available"
+    },
+    {
+      "id": "146A-41-163",
+      "block": "146A",
+      "floor": "41",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "146A-40-153",
+      "block": "146A",
+      "floor": "40",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 768400,
+      "status": "available"
+    },
+    {
+      "id": "146A-40-155",
+      "block": "146A",
+      "floor": "40",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 768400,
+      "status": "available"
+    },
+    {
+      "id": "146A-40-163",
+      "block": "146A",
+      "floor": "40",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "146A-38-153",
+      "block": "146A",
+      "floor": "38",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 764800,
+      "status": "available"
+    },
+    {
+      "id": "146A-38-155",
+      "block": "146A",
+      "floor": "38",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 764800,
+      "status": "available"
+    },
+    {
+      "id": "146A-38-163",
+      "block": "146A",
+      "floor": "38",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "146A-37-153",
+      "block": "146A",
+      "floor": "37",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 763000,
+      "status": "available"
+    },
+    {
+      "id": "146A-37-155",
+      "block": "146A",
+      "floor": "37",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 763000,
+      "status": "available"
+    },
+    {
+      "id": "146A-37-163",
+      "block": "146A",
+      "floor": "37",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "146A-36-153",
+      "block": "146A",
+      "floor": "36",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 761200,
+      "status": "available"
+    },
+    {
+      "id": "146A-36-155",
+      "block": "146A",
+      "floor": "36",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 761200,
+      "status": "available"
+    },
+    {
+      "id": "146A-36-163",
+      "block": "146A",
+      "floor": "36",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "146A-35-153",
+      "block": "146A",
+      "floor": "35",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 759400,
+      "status": "available"
+    },
+    {
+      "id": "146A-35-155",
+      "block": "146A",
+      "floor": "35",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 759400,
+      "status": "available"
+    },
+    {
+      "id": "146A-35-163",
+      "block": "146A",
+      "floor": "35",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "146A-34-153",
+      "block": "146A",
+      "floor": "34",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 757600,
+      "status": "available"
+    },
+    {
+      "id": "146A-34-155",
+      "block": "146A",
+      "floor": "34",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 757600,
+      "status": "available"
+    },
+    {
+      "id": "146A-34-163",
+      "block": "146A",
+      "floor": "34",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "146A-33-153",
+      "block": "146A",
+      "floor": "33",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 755800,
+      "status": "available"
+    },
+    {
+      "id": "146A-33-155",
+      "block": "146A",
+      "floor": "33",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 755800,
+      "status": "available"
+    },
+    {
+      "id": "146A-33-163",
+      "block": "146A",
+      "floor": "33",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "146A-32-153",
+      "block": "146A",
+      "floor": "32",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 754000,
+      "status": "available"
+    },
+    {
+      "id": "146A-32-155",
+      "block": "146A",
+      "floor": "32",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 754000,
+      "status": "available"
+    },
+    {
+      "id": "146A-32-163",
+      "block": "146A",
+      "floor": "32",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "146A-31-153",
+      "block": "146A",
+      "floor": "31",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 752200,
+      "status": "available"
+    },
+    {
+      "id": "146A-31-155",
+      "block": "146A",
+      "floor": "31",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 752200,
+      "status": "available"
+    },
+    {
+      "id": "146A-31-163",
+      "block": "146A",
+      "floor": "31",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "146A-30-153",
+      "block": "146A",
+      "floor": "30",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 750400,
+      "status": "available"
+    },
+    {
+      "id": "146A-30-155",
+      "block": "146A",
+      "floor": "30",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 750400,
+      "status": "available"
+    },
+    {
+      "id": "146A-30-163",
+      "block": "146A",
+      "floor": "30",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "146A-29-153",
+      "block": "146A",
+      "floor": "29",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 748600,
+      "status": "available"
+    },
+    {
+      "id": "146A-29-155",
+      "block": "146A",
+      "floor": "29",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 748600,
+      "status": "available"
+    },
+    {
+      "id": "146A-29-163",
+      "block": "146A",
+      "floor": "29",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "146A-28-153",
+      "block": "146A",
+      "floor": "28",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 746800,
+      "status": "available"
+    },
+    {
+      "id": "146A-28-155",
+      "block": "146A",
+      "floor": "28",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 746800,
+      "status": "taken"
+    },
+    {
+      "id": "146A-28-163",
+      "block": "146A",
+      "floor": "28",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "146A-27-153",
+      "block": "146A",
+      "floor": "27",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 745000,
+      "status": "available"
+    },
+    {
+      "id": "146A-27-155",
+      "block": "146A",
+      "floor": "27",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 745000,
+      "status": "available"
+    },
+    {
+      "id": "146A-27-163",
+      "block": "146A",
+      "floor": "27",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "146A-26-153",
+      "block": "146A",
+      "floor": "26",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 743200,
+      "status": "available"
+    },
+    {
+      "id": "146A-26-155",
+      "block": "146A",
+      "floor": "26",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 743200,
+      "status": "taken"
+    },
+    {
+      "id": "146A-26-163",
+      "block": "146A",
+      "floor": "26",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "available"
+    },
+    {
+      "id": "146A-25-153",
+      "block": "146A",
+      "floor": "25",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 741400,
+      "status": "available"
+    },
+    {
+      "id": "146A-25-155",
+      "block": "146A",
+      "floor": "25",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 741400,
+      "status": "available"
+    },
+    {
+      "id": "146A-25-163",
+      "block": "146A",
+      "floor": "25",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "146A-24-153",
+      "block": "146A",
+      "floor": "24",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 737900,
+      "status": "available"
+    },
+    {
+      "id": "146A-24-155",
+      "block": "146A",
+      "floor": "24",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 737900,
+      "status": "available"
+    },
+    {
+      "id": "146A-24-163",
+      "block": "146A",
+      "floor": "24",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "146A-23-153",
+      "block": "146A",
+      "floor": "23",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "146A-23-155",
+      "block": "146A",
+      "floor": "23",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "146A-23-163",
+      "block": "146A",
+      "floor": "23",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "146A-22-153",
+      "block": "146A",
+      "floor": "22",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 730900,
+      "status": "available"
+    },
+    {
+      "id": "146A-22-155",
+      "block": "146A",
+      "floor": "22",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 730900,
+      "status": "available"
+    },
+    {
+      "id": "146A-22-163",
+      "block": "146A",
+      "floor": "22",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "146A-21-153",
+      "block": "146A",
+      "floor": "21",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 727400,
+      "status": "available"
+    },
+    {
+      "id": "146A-21-155",
+      "block": "146A",
+      "floor": "21",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 727400,
+      "status": "available"
+    },
+    {
+      "id": "146A-21-163",
+      "block": "146A",
+      "floor": "21",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "146A-20-153",
+      "block": "146A",
+      "floor": "20",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 723900,
+      "status": "available"
+    },
+    {
+      "id": "146A-20-155",
+      "block": "146A",
+      "floor": "20",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 723900,
+      "status": "available"
+    },
+    {
+      "id": "146A-20-163",
+      "block": "146A",
+      "floor": "20",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "146A-18-153",
+      "block": "146A",
+      "floor": "18",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 716900,
+      "status": "available"
+    },
+    {
+      "id": "146A-18-155",
+      "block": "146A",
+      "floor": "18",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 716900,
+      "status": "available"
+    },
+    {
+      "id": "146A-18-163",
+      "block": "146A",
+      "floor": "18",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "146A-17-153",
+      "block": "146A",
+      "floor": "17",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 713400,
+      "status": "available"
+    },
+    {
+      "id": "146A-17-155",
+      "block": "146A",
+      "floor": "17",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 713400,
+      "status": "available"
+    },
+    {
+      "id": "146A-17-163",
+      "block": "146A",
+      "floor": "17",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "146A-16-153",
+      "block": "146A",
+      "floor": "16",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 709900,
+      "status": "available"
+    },
+    {
+      "id": "146A-16-155",
+      "block": "146A",
+      "floor": "16",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 709900,
+      "status": "available"
+    },
+    {
+      "id": "146A-16-163",
+      "block": "146A",
+      "floor": "16",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "146A-15-153",
+      "block": "146A",
+      "floor": "15",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 706400,
+      "status": "available"
+    },
+    {
+      "id": "146A-15-155",
+      "block": "146A",
+      "floor": "15",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 706400,
+      "status": "available"
+    },
+    {
+      "id": "146A-15-163",
+      "block": "146A",
+      "floor": "15",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "146A-14-153",
+      "block": "146A",
+      "floor": "14",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 694000,
+      "status": "available"
+    },
+    {
+      "id": "146A-14-155",
+      "block": "146A",
+      "floor": "14",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 694000,
+      "status": "available"
+    },
+    {
+      "id": "146A-14-163",
+      "block": "146A",
+      "floor": "14",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "146A-13-153",
+      "block": "146A",
+      "floor": "13",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "146A-13-155",
+      "block": "146A",
+      "floor": "13",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "taken"
+    },
+    {
+      "id": "146A-13-163",
+      "block": "146A",
+      "floor": "13",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "146A-12-153",
+      "block": "146A",
+      "floor": "12",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "146A-12-155",
+      "block": "146A",
+      "floor": "12",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "146A-12-163",
+      "block": "146A",
+      "floor": "12",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "146A-11-153",
+      "block": "146A",
+      "floor": "11",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "146A-11-155",
+      "block": "146A",
+      "floor": "11",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "taken"
+    },
+    {
+      "id": "146A-11-163",
+      "block": "146A",
+      "floor": "11",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "146A-10-153",
+      "block": "146A",
+      "floor": "10",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "146A-10-155",
+      "block": "146A",
+      "floor": "10",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "146A-10-163",
+      "block": "146A",
+      "floor": "10",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "146A-09-153",
+      "block": "146A",
+      "floor": "09",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "146A-09-155",
+      "block": "146A",
+      "floor": "09",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "146A-09-163",
+      "block": "146A",
+      "floor": "09",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "146A-08-153",
+      "block": "146A",
+      "floor": "08",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 646400,
+      "status": "available"
+    },
+    {
+      "id": "146A-08-155",
+      "block": "146A",
+      "floor": "08",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 646400,
+      "status": "available"
+    },
+    {
+      "id": "146A-08-163",
+      "block": "146A",
+      "floor": "08",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "146A-07-153",
+      "block": "146A",
+      "floor": "07",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 637500,
+      "status": "available"
+    },
+    {
+      "id": "146A-07-155",
+      "block": "146A",
+      "floor": "07",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 637500,
+      "status": "available"
+    },
+    {
+      "id": "146A-07-163",
+      "block": "146A",
+      "floor": "07",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "146A-06-153",
+      "block": "146A",
+      "floor": "06",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 628600,
+      "status": "available"
+    },
+    {
+      "id": "146A-06-155",
+      "block": "146A",
+      "floor": "06",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 628600,
+      "status": "available"
+    },
+    {
+      "id": "146A-06-163",
+      "block": "146A",
+      "floor": "06",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "146A-05-153",
+      "block": "146A",
+      "floor": "05",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 619700,
+      "status": "available"
+    },
+    {
+      "id": "146A-05-155",
+      "block": "146A",
+      "floor": "05",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 619700,
+      "status": "available"
+    },
+    {
+      "id": "146A-05-163",
+      "block": "146A",
+      "floor": "05",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 637400,
+      "status": "available"
+    },
+    {
+      "id": "146A-04-153",
+      "block": "146A",
+      "floor": "04",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 606400,
+      "status": "available"
+    },
+    {
+      "id": "146A-04-155",
+      "block": "146A",
+      "floor": "04",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 606400,
+      "status": "available"
+    },
+    {
+      "id": "146A-04-163",
+      "block": "146A",
+      "floor": "04",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 606400,
+      "status": "available"
+    },
+    {
+      "id": "146A-03-153",
+      "block": "146A",
+      "floor": "03",
+      "unit": "153",
+      "room_type": "4-room",
+      "price": 593100,
+      "status": "available"
+    },
+    {
+      "id": "146A-03-155",
+      "block": "146A",
+      "floor": "03",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 593100,
+      "status": "available"
+    },
+    {
+      "id": "146A-03-163",
+      "block": "146A",
+      "floor": "03",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 575400,
+      "status": "available"
+    },
+    {
+      "id": "146A-02-155",
+      "block": "146A",
+      "floor": "02",
+      "unit": "155",
+      "room_type": "4-room",
+      "price": 579800,
+      "status": "available"
+    },
+    {
+      "id": "146A-02-163",
+      "block": "146A",
+      "floor": "02",
+      "unit": "163",
+      "room_type": "4-room",
+      "price": 562100,
+      "status": "available"
+    },
+    {
+      "id": "147A-49-169",
+      "block": "147A",
+      "floor": "49",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "147A-49-171",
+      "block": "147A",
+      "floor": "49",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "147A-49-173",
+      "block": "147A",
+      "floor": "49",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "taken"
+    },
+    {
+      "id": "147A-49-175",
+      "block": "147A",
+      "floor": "49",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "available"
+    },
+    {
+      "id": "147A-49-179",
+      "block": "147A",
+      "floor": "49",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "available"
+    },
+    {
+      "id": "147A-48-169",
+      "block": "147A",
+      "floor": "48",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "147A-48-171",
+      "block": "147A",
+      "floor": "48",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "147A-48-173",
+      "block": "147A",
+      "floor": "48",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "available"
+    },
+    {
+      "id": "147A-48-175",
+      "block": "147A",
+      "floor": "48",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "available"
+    },
+    {
+      "id": "147A-48-179",
+      "block": "147A",
+      "floor": "48",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 782800,
+      "status": "available"
+    },
+    {
+      "id": "147A-47-169",
+      "block": "147A",
+      "floor": "47",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 763200,
+      "status": "available"
+    },
+    {
+      "id": "147A-47-171",
+      "block": "147A",
+      "floor": "47",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 763200,
+      "status": "available"
+    },
+    {
+      "id": "147A-47-173",
+      "block": "147A",
+      "floor": "47",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 781000,
+      "status": "available"
+    },
+    {
+      "id": "147A-47-175",
+      "block": "147A",
+      "floor": "47",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 781000,
+      "status": "available"
+    },
+    {
+      "id": "147A-47-179",
+      "block": "147A",
+      "floor": "47",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 781000,
+      "status": "available"
+    },
+    {
+      "id": "147A-46-169",
+      "block": "147A",
+      "floor": "46",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 761400,
+      "status": "available"
+    },
+    {
+      "id": "147A-46-171",
+      "block": "147A",
+      "floor": "46",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 761400,
+      "status": "available"
+    },
+    {
+      "id": "147A-46-173",
+      "block": "147A",
+      "floor": "46",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 779200,
+      "status": "available"
+    },
+    {
+      "id": "147A-46-175",
+      "block": "147A",
+      "floor": "46",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 779200,
+      "status": "available"
+    },
+    {
+      "id": "147A-46-179",
+      "block": "147A",
+      "floor": "46",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 779200,
+      "status": "available"
+    },
+    {
+      "id": "147A-45-169",
+      "block": "147A",
+      "floor": "45",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 759600,
+      "status": "available"
+    },
+    {
+      "id": "147A-45-171",
+      "block": "147A",
+      "floor": "45",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 759600,
+      "status": "available"
+    },
+    {
+      "id": "147A-45-173",
+      "block": "147A",
+      "floor": "45",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 777400,
+      "status": "available"
+    },
+    {
+      "id": "147A-45-175",
+      "block": "147A",
+      "floor": "45",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 777400,
+      "status": "available"
+    },
+    {
+      "id": "147A-45-179",
+      "block": "147A",
+      "floor": "45",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 777400,
+      "status": "available"
+    },
+    {
+      "id": "147A-44-169",
+      "block": "147A",
+      "floor": "44",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 757800,
+      "status": "available"
+    },
+    {
+      "id": "147A-44-171",
+      "block": "147A",
+      "floor": "44",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 757800,
+      "status": "available"
+    },
+    {
+      "id": "147A-44-173",
+      "block": "147A",
+      "floor": "44",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 766700,
+      "status": "available"
+    },
+    {
+      "id": "147A-44-175",
+      "block": "147A",
+      "floor": "44",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 766700,
+      "status": "available"
+    },
+    {
+      "id": "147A-44-179",
+      "block": "147A",
+      "floor": "44",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 766700,
+      "status": "available"
+    },
+    {
+      "id": "147A-43-169",
+      "block": "147A",
+      "floor": "43",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "147A-43-171",
+      "block": "147A",
+      "floor": "43",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "147A-43-173",
+      "block": "147A",
+      "floor": "43",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "147A-43-175",
+      "block": "147A",
+      "floor": "43",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "147A-43-179",
+      "block": "147A",
+      "floor": "43",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "147A-42-169",
+      "block": "147A",
+      "floor": "42",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "147A-42-171",
+      "block": "147A",
+      "floor": "42",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "147A-42-173",
+      "block": "147A",
+      "floor": "42",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "147A-42-175",
+      "block": "147A",
+      "floor": "42",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "147A-42-179",
+      "block": "147A",
+      "floor": "42",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "147A-41-169",
+      "block": "147A",
+      "floor": "41",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "147A-41-171",
+      "block": "147A",
+      "floor": "41",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "147A-41-173",
+      "block": "147A",
+      "floor": "41",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "147A-41-175",
+      "block": "147A",
+      "floor": "41",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "147A-41-179",
+      "block": "147A",
+      "floor": "41",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "147A-40-169",
+      "block": "147A",
+      "floor": "40",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "147A-40-171",
+      "block": "147A",
+      "floor": "40",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "147A-40-173",
+      "block": "147A",
+      "floor": "40",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "147A-40-175",
+      "block": "147A",
+      "floor": "40",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "147A-40-179",
+      "block": "147A",
+      "floor": "40",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "147A-38-169",
+      "block": "147A",
+      "floor": "38",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "147A-38-171",
+      "block": "147A",
+      "floor": "38",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "147A-38-173",
+      "block": "147A",
+      "floor": "38",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "147A-38-175",
+      "block": "147A",
+      "floor": "38",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "147A-38-179",
+      "block": "147A",
+      "floor": "38",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "147A-37-169",
+      "block": "147A",
+      "floor": "37",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "147A-37-171",
+      "block": "147A",
+      "floor": "37",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "147A-37-173",
+      "block": "147A",
+      "floor": "37",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "147A-37-175",
+      "block": "147A",
+      "floor": "37",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "147A-37-179",
+      "block": "147A",
+      "floor": "37",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "147A-36-169",
+      "block": "147A",
+      "floor": "36",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "147A-36-171",
+      "block": "147A",
+      "floor": "36",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "147A-36-173",
+      "block": "147A",
+      "floor": "36",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "147A-36-175",
+      "block": "147A",
+      "floor": "36",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "147A-36-179",
+      "block": "147A",
+      "floor": "36",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "147A-35-169",
+      "block": "147A",
+      "floor": "35",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "147A-35-171",
+      "block": "147A",
+      "floor": "35",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "147A-35-173",
+      "block": "147A",
+      "floor": "35",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "147A-35-175",
+      "block": "147A",
+      "floor": "35",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "147A-35-179",
+      "block": "147A",
+      "floor": "35",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "147A-34-169",
+      "block": "147A",
+      "floor": "34",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "147A-34-171",
+      "block": "147A",
+      "floor": "34",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "147A-34-173",
+      "block": "147A",
+      "floor": "34",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "147A-34-175",
+      "block": "147A",
+      "floor": "34",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "147A-34-179",
+      "block": "147A",
+      "floor": "34",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "147A-33-169",
+      "block": "147A",
+      "floor": "33",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "147A-33-171",
+      "block": "147A",
+      "floor": "33",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "taken"
+    },
+    {
+      "id": "147A-33-173",
+      "block": "147A",
+      "floor": "33",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "147A-33-175",
+      "block": "147A",
+      "floor": "33",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "147A-33-179",
+      "block": "147A",
+      "floor": "33",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "147A-32-169",
+      "block": "147A",
+      "floor": "32",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "147A-32-171",
+      "block": "147A",
+      "floor": "32",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "147A-32-173",
+      "block": "147A",
+      "floor": "32",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "147A-32-175",
+      "block": "147A",
+      "floor": "32",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "147A-32-179",
+      "block": "147A",
+      "floor": "32",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "147A-31-169",
+      "block": "147A",
+      "floor": "31",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "147A-31-171",
+      "block": "147A",
+      "floor": "31",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "147A-31-173",
+      "block": "147A",
+      "floor": "31",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "147A-31-175",
+      "block": "147A",
+      "floor": "31",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "147A-31-179",
+      "block": "147A",
+      "floor": "31",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "147A-30-169",
+      "block": "147A",
+      "floor": "30",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "147A-30-171",
+      "block": "147A",
+      "floor": "30",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "147A-30-173",
+      "block": "147A",
+      "floor": "30",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "147A-30-175",
+      "block": "147A",
+      "floor": "30",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "147A-30-179",
+      "block": "147A",
+      "floor": "30",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "147A-29-169",
+      "block": "147A",
+      "floor": "29",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "147A-29-171",
+      "block": "147A",
+      "floor": "29",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "147A-29-173",
+      "block": "147A",
+      "floor": "29",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "147A-29-175",
+      "block": "147A",
+      "floor": "29",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "147A-29-179",
+      "block": "147A",
+      "floor": "29",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "147A-28-169",
+      "block": "147A",
+      "floor": "28",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "147A-28-171",
+      "block": "147A",
+      "floor": "28",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "147A-28-173",
+      "block": "147A",
+      "floor": "28",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "147A-28-175",
+      "block": "147A",
+      "floor": "28",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "147A-28-179",
+      "block": "147A",
+      "floor": "28",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "147A-27-169",
+      "block": "147A",
+      "floor": "27",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "147A-27-171",
+      "block": "147A",
+      "floor": "27",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "147A-27-173",
+      "block": "147A",
+      "floor": "27",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "147A-27-175",
+      "block": "147A",
+      "floor": "27",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "147A-27-179",
+      "block": "147A",
+      "floor": "27",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "147A-26-169",
+      "block": "147A",
+      "floor": "26",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "available"
+    },
+    {
+      "id": "147A-26-171",
+      "block": "147A",
+      "floor": "26",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "available"
+    },
+    {
+      "id": "147A-26-173",
+      "block": "147A",
+      "floor": "26",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "available"
+    },
+    {
+      "id": "147A-26-175",
+      "block": "147A",
+      "floor": "26",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "available"
+    },
+    {
+      "id": "147A-26-179",
+      "block": "147A",
+      "floor": "26",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "available"
+    },
+    {
+      "id": "147A-25-169",
+      "block": "147A",
+      "floor": "25",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "147A-25-171",
+      "block": "147A",
+      "floor": "25",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "147A-25-173",
+      "block": "147A",
+      "floor": "25",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "147A-25-175",
+      "block": "147A",
+      "floor": "25",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "147A-25-179",
+      "block": "147A",
+      "floor": "25",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "147A-24-169",
+      "block": "147A",
+      "floor": "24",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "147A-24-171",
+      "block": "147A",
+      "floor": "24",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "147A-24-173",
+      "block": "147A",
+      "floor": "24",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "147A-24-175",
+      "block": "147A",
+      "floor": "24",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "147A-24-179",
+      "block": "147A",
+      "floor": "24",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "147A-23-169",
+      "block": "147A",
+      "floor": "23",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "147A-23-171",
+      "block": "147A",
+      "floor": "23",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "147A-23-173",
+      "block": "147A",
+      "floor": "23",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "147A-23-175",
+      "block": "147A",
+      "floor": "23",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "147A-23-179",
+      "block": "147A",
+      "floor": "23",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "147A-22-169",
+      "block": "147A",
+      "floor": "22",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "147A-22-171",
+      "block": "147A",
+      "floor": "22",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "147A-22-173",
+      "block": "147A",
+      "floor": "22",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "147A-22-175",
+      "block": "147A",
+      "floor": "22",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "147A-22-179",
+      "block": "147A",
+      "floor": "22",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "147A-21-169",
+      "block": "147A",
+      "floor": "21",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "147A-21-171",
+      "block": "147A",
+      "floor": "21",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "147A-21-173",
+      "block": "147A",
+      "floor": "21",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "147A-21-175",
+      "block": "147A",
+      "floor": "21",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "147A-21-179",
+      "block": "147A",
+      "floor": "21",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "147A-20-169",
+      "block": "147A",
+      "floor": "20",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "147A-20-171",
+      "block": "147A",
+      "floor": "20",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "147A-20-173",
+      "block": "147A",
+      "floor": "20",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "147A-20-175",
+      "block": "147A",
+      "floor": "20",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "147A-20-179",
+      "block": "147A",
+      "floor": "20",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "147A-18-169",
+      "block": "147A",
+      "floor": "18",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "147A-18-171",
+      "block": "147A",
+      "floor": "18",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "147A-18-173",
+      "block": "147A",
+      "floor": "18",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "147A-18-175",
+      "block": "147A",
+      "floor": "18",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "147A-18-179",
+      "block": "147A",
+      "floor": "18",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "147A-17-169",
+      "block": "147A",
+      "floor": "17",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "147A-17-171",
+      "block": "147A",
+      "floor": "17",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "147A-17-173",
+      "block": "147A",
+      "floor": "17",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "147A-17-175",
+      "block": "147A",
+      "floor": "17",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "147A-17-179",
+      "block": "147A",
+      "floor": "17",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "147A-16-169",
+      "block": "147A",
+      "floor": "16",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "147A-16-171",
+      "block": "147A",
+      "floor": "16",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "147A-16-173",
+      "block": "147A",
+      "floor": "16",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "147A-16-175",
+      "block": "147A",
+      "floor": "16",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "147A-16-179",
+      "block": "147A",
+      "floor": "16",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "147A-15-169",
+      "block": "147A",
+      "floor": "15",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "147A-15-171",
+      "block": "147A",
+      "floor": "15",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "147A-15-173",
+      "block": "147A",
+      "floor": "15",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "147A-15-175",
+      "block": "147A",
+      "floor": "15",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "147A-15-179",
+      "block": "147A",
+      "floor": "15",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "147A-14-169",
+      "block": "147A",
+      "floor": "14",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "147A-14-171",
+      "block": "147A",
+      "floor": "14",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "147A-14-173",
+      "block": "147A",
+      "floor": "14",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "147A-14-175",
+      "block": "147A",
+      "floor": "14",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "147A-14-179",
+      "block": "147A",
+      "floor": "14",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "147A-13-169",
+      "block": "147A",
+      "floor": "13",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "147A-13-171",
+      "block": "147A",
+      "floor": "13",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "147A-13-173",
+      "block": "147A",
+      "floor": "13",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "147A-13-175",
+      "block": "147A",
+      "floor": "13",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "147A-13-179",
+      "block": "147A",
+      "floor": "13",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "147A-12-169",
+      "block": "147A",
+      "floor": "12",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "147A-12-171",
+      "block": "147A",
+      "floor": "12",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "147A-12-173",
+      "block": "147A",
+      "floor": "12",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "147A-12-175",
+      "block": "147A",
+      "floor": "12",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "147A-12-179",
+      "block": "147A",
+      "floor": "12",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "147A-11-169",
+      "block": "147A",
+      "floor": "11",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "147A-11-171",
+      "block": "147A",
+      "floor": "11",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "147A-11-173",
+      "block": "147A",
+      "floor": "11",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "147A-11-175",
+      "block": "147A",
+      "floor": "11",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "147A-11-179",
+      "block": "147A",
+      "floor": "11",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "147A-10-169",
+      "block": "147A",
+      "floor": "10",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "147A-10-171",
+      "block": "147A",
+      "floor": "10",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "147A-10-173",
+      "block": "147A",
+      "floor": "10",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "147A-10-175",
+      "block": "147A",
+      "floor": "10",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "147A-10-179",
+      "block": "147A",
+      "floor": "10",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "147A-09-169",
+      "block": "147A",
+      "floor": "09",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "147A-09-171",
+      "block": "147A",
+      "floor": "09",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "147A-09-173",
+      "block": "147A",
+      "floor": "09",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "147A-09-175",
+      "block": "147A",
+      "floor": "09",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "147A-09-179",
+      "block": "147A",
+      "floor": "09",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "147A-08-169",
+      "block": "147A",
+      "floor": "08",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "147A-08-171",
+      "block": "147A",
+      "floor": "08",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "147A-08-173",
+      "block": "147A",
+      "floor": "08",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "147A-08-175",
+      "block": "147A",
+      "floor": "08",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "147A-08-179",
+      "block": "147A",
+      "floor": "08",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "147A-07-169",
+      "block": "147A",
+      "floor": "07",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "147A-07-171",
+      "block": "147A",
+      "floor": "07",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "147A-07-173",
+      "block": "147A",
+      "floor": "07",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "147A-07-175",
+      "block": "147A",
+      "floor": "07",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "147A-07-179",
+      "block": "147A",
+      "floor": "07",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "147A-06-169",
+      "block": "147A",
+      "floor": "06",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "147A-06-171",
+      "block": "147A",
+      "floor": "06",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "147A-06-173",
+      "block": "147A",
+      "floor": "06",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "147A-06-175",
+      "block": "147A",
+      "floor": "06",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "147A-06-179",
+      "block": "147A",
+      "floor": "06",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "147A-05-169",
+      "block": "147A",
+      "floor": "05",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 637400,
+      "status": "available"
+    },
+    {
+      "id": "147A-05-171",
+      "block": "147A",
+      "floor": "05",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 637400,
+      "status": "available"
+    },
+    {
+      "id": "147A-05-173",
+      "block": "147A",
+      "floor": "05",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 637400,
+      "status": "available"
+    },
+    {
+      "id": "147A-05-175",
+      "block": "147A",
+      "floor": "05",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 637400,
+      "status": "available"
+    },
+    {
+      "id": "147A-05-179",
+      "block": "147A",
+      "floor": "05",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 637400,
+      "status": "available"
+    },
+    {
+      "id": "147A-04-169",
+      "block": "147A",
+      "floor": "04",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 624100,
+      "status": "available"
+    },
+    {
+      "id": "147A-04-171",
+      "block": "147A",
+      "floor": "04",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 624100,
+      "status": "available"
+    },
+    {
+      "id": "147A-04-173",
+      "block": "147A",
+      "floor": "04",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 624100,
+      "status": "available"
+    },
+    {
+      "id": "147A-04-175",
+      "block": "147A",
+      "floor": "04",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 624100,
+      "status": "available"
+    },
+    {
+      "id": "147A-04-179",
+      "block": "147A",
+      "floor": "04",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 615300,
+      "status": "available"
+    },
+    {
+      "id": "147A-03-169",
+      "block": "147A",
+      "floor": "03",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 610800,
+      "status": "available"
+    },
+    {
+      "id": "147A-03-171",
+      "block": "147A",
+      "floor": "03",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 610800,
+      "status": "available"
+    },
+    {
+      "id": "147A-03-173",
+      "block": "147A",
+      "floor": "03",
+      "unit": "173",
+      "room_type": "4-room",
+      "price": 610800,
+      "status": "available"
+    },
+    {
+      "id": "147A-03-175",
+      "block": "147A",
+      "floor": "03",
+      "unit": "175",
+      "room_type": "4-room",
+      "price": 610800,
+      "status": "available"
+    },
+    {
+      "id": "147A-03-179",
+      "block": "147A",
+      "floor": "03",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 593100,
+      "status": "available"
+    },
+    {
+      "id": "147A-02-169",
+      "block": "147A",
+      "floor": "02",
+      "unit": "169",
+      "room_type": "4-room",
+      "price": 579800,
+      "status": "available"
+    },
+    {
+      "id": "147A-02-171",
+      "block": "147A",
+      "floor": "02",
+      "unit": "171",
+      "room_type": "4-room",
+      "price": 579800,
+      "status": "available"
+    },
+    {
+      "id": "147A-02-179",
+      "block": "147A",
+      "floor": "02",
+      "unit": "179",
+      "room_type": "4-room",
+      "price": 579800,
+      "status": "available"
+    },
+    {
+      "id": "148A-49-185",
+      "block": "148A",
+      "floor": "49",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "148A-49-187",
+      "block": "148A",
+      "floor": "49",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "148A-49-189",
+      "block": "148A",
+      "floor": "49",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "148A-49-191",
+      "block": "148A",
+      "floor": "49",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 773900,
+      "status": "available"
+    },
+    {
+      "id": "148A-49-195",
+      "block": "148A",
+      "floor": "49",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 773900,
+      "status": "available"
+    },
+    {
+      "id": "148A-48-185",
+      "block": "148A",
+      "floor": "48",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "148A-48-187",
+      "block": "148A",
+      "floor": "48",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "taken"
+    },
+    {
+      "id": "148A-48-189",
+      "block": "148A",
+      "floor": "48",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 765000,
+      "status": "available"
+    },
+    {
+      "id": "148A-48-191",
+      "block": "148A",
+      "floor": "48",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 773900,
+      "status": "available"
+    },
+    {
+      "id": "148A-48-195",
+      "block": "148A",
+      "floor": "48",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 773900,
+      "status": "available"
+    },
+    {
+      "id": "148A-47-185",
+      "block": "148A",
+      "floor": "47",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 763200,
+      "status": "available"
+    },
+    {
+      "id": "148A-47-187",
+      "block": "148A",
+      "floor": "47",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 763200,
+      "status": "taken"
+    },
+    {
+      "id": "148A-47-189",
+      "block": "148A",
+      "floor": "47",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 763200,
+      "status": "available"
+    },
+    {
+      "id": "148A-47-191",
+      "block": "148A",
+      "floor": "47",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 772100,
+      "status": "available"
+    },
+    {
+      "id": "148A-47-195",
+      "block": "148A",
+      "floor": "47",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 772100,
+      "status": "available"
+    },
+    {
+      "id": "148A-46-185",
+      "block": "148A",
+      "floor": "46",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 761400,
+      "status": "available"
+    },
+    {
+      "id": "148A-46-187",
+      "block": "148A",
+      "floor": "46",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 761400,
+      "status": "available"
+    },
+    {
+      "id": "148A-46-189",
+      "block": "148A",
+      "floor": "46",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 761400,
+      "status": "available"
+    },
+    {
+      "id": "148A-46-191",
+      "block": "148A",
+      "floor": "46",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 770300,
+      "status": "available"
+    },
+    {
+      "id": "148A-46-195",
+      "block": "148A",
+      "floor": "46",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 770300,
+      "status": "available"
+    },
+    {
+      "id": "148A-45-185",
+      "block": "148A",
+      "floor": "45",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 759600,
+      "status": "available"
+    },
+    {
+      "id": "148A-45-187",
+      "block": "148A",
+      "floor": "45",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 759600,
+      "status": "taken"
+    },
+    {
+      "id": "148A-45-189",
+      "block": "148A",
+      "floor": "45",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 759600,
+      "status": "available"
+    },
+    {
+      "id": "148A-45-191",
+      "block": "148A",
+      "floor": "45",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 768500,
+      "status": "available"
+    },
+    {
+      "id": "148A-45-195",
+      "block": "148A",
+      "floor": "45",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 768500,
+      "status": "available"
+    },
+    {
+      "id": "148A-44-185",
+      "block": "148A",
+      "floor": "44",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 757800,
+      "status": "available"
+    },
+    {
+      "id": "148A-44-187",
+      "block": "148A",
+      "floor": "44",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 757800,
+      "status": "available"
+    },
+    {
+      "id": "148A-44-189",
+      "block": "148A",
+      "floor": "44",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 757800,
+      "status": "available"
+    },
+    {
+      "id": "148A-44-191",
+      "block": "148A",
+      "floor": "44",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 766700,
+      "status": "available"
+    },
+    {
+      "id": "148A-44-195",
+      "block": "148A",
+      "floor": "44",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 766700,
+      "status": "available"
+    },
+    {
+      "id": "148A-43-185",
+      "block": "148A",
+      "floor": "43",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "148A-43-187",
+      "block": "148A",
+      "floor": "43",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "148A-43-189",
+      "block": "148A",
+      "floor": "43",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 756000,
+      "status": "available"
+    },
+    {
+      "id": "148A-43-191",
+      "block": "148A",
+      "floor": "43",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 764900,
+      "status": "available"
+    },
+    {
+      "id": "148A-43-195",
+      "block": "148A",
+      "floor": "43",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 764900,
+      "status": "available"
+    },
+    {
+      "id": "148A-42-185",
+      "block": "148A",
+      "floor": "42",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "148A-42-187",
+      "block": "148A",
+      "floor": "42",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "148A-42-189",
+      "block": "148A",
+      "floor": "42",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 754200,
+      "status": "available"
+    },
+    {
+      "id": "148A-42-191",
+      "block": "148A",
+      "floor": "42",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 763100,
+      "status": "available"
+    },
+    {
+      "id": "148A-42-195",
+      "block": "148A",
+      "floor": "42",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 763100,
+      "status": "available"
+    },
+    {
+      "id": "148A-41-185",
+      "block": "148A",
+      "floor": "41",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "148A-41-187",
+      "block": "148A",
+      "floor": "41",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "148A-41-189",
+      "block": "148A",
+      "floor": "41",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 752400,
+      "status": "available"
+    },
+    {
+      "id": "148A-41-191",
+      "block": "148A",
+      "floor": "41",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 761300,
+      "status": "available"
+    },
+    {
+      "id": "148A-41-195",
+      "block": "148A",
+      "floor": "41",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 761300,
+      "status": "available"
+    },
+    {
+      "id": "148A-40-185",
+      "block": "148A",
+      "floor": "40",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "148A-40-187",
+      "block": "148A",
+      "floor": "40",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "taken"
+    },
+    {
+      "id": "148A-40-189",
+      "block": "148A",
+      "floor": "40",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 750600,
+      "status": "available"
+    },
+    {
+      "id": "148A-40-191",
+      "block": "148A",
+      "floor": "40",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 759500,
+      "status": "available"
+    },
+    {
+      "id": "148A-40-195",
+      "block": "148A",
+      "floor": "40",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 759500,
+      "status": "available"
+    },
+    {
+      "id": "148A-38-185",
+      "block": "148A",
+      "floor": "38",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "148A-38-187",
+      "block": "148A",
+      "floor": "38",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "148A-38-189",
+      "block": "148A",
+      "floor": "38",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 747000,
+      "status": "available"
+    },
+    {
+      "id": "148A-38-191",
+      "block": "148A",
+      "floor": "38",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 755900,
+      "status": "available"
+    },
+    {
+      "id": "148A-38-195",
+      "block": "148A",
+      "floor": "38",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 755900,
+      "status": "available"
+    },
+    {
+      "id": "148A-37-185",
+      "block": "148A",
+      "floor": "37",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "148A-37-187",
+      "block": "148A",
+      "floor": "37",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "148A-37-189",
+      "block": "148A",
+      "floor": "37",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 745200,
+      "status": "available"
+    },
+    {
+      "id": "148A-37-191",
+      "block": "148A",
+      "floor": "37",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 754100,
+      "status": "available"
+    },
+    {
+      "id": "148A-37-195",
+      "block": "148A",
+      "floor": "37",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 754100,
+      "status": "available"
+    },
+    {
+      "id": "148A-36-185",
+      "block": "148A",
+      "floor": "36",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "148A-36-187",
+      "block": "148A",
+      "floor": "36",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "taken"
+    },
+    {
+      "id": "148A-36-189",
+      "block": "148A",
+      "floor": "36",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 743400,
+      "status": "available"
+    },
+    {
+      "id": "148A-36-191",
+      "block": "148A",
+      "floor": "36",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 752300,
+      "status": "available"
+    },
+    {
+      "id": "148A-36-195",
+      "block": "148A",
+      "floor": "36",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 752300,
+      "status": "available"
+    },
+    {
+      "id": "148A-35-185",
+      "block": "148A",
+      "floor": "35",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "148A-35-187",
+      "block": "148A",
+      "floor": "35",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "148A-35-189",
+      "block": "148A",
+      "floor": "35",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 741600,
+      "status": "available"
+    },
+    {
+      "id": "148A-35-191",
+      "block": "148A",
+      "floor": "35",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 750500,
+      "status": "available"
+    },
+    {
+      "id": "148A-35-195",
+      "block": "148A",
+      "floor": "35",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 750500,
+      "status": "available"
+    },
+    {
+      "id": "148A-34-185",
+      "block": "148A",
+      "floor": "34",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "148A-34-187",
+      "block": "148A",
+      "floor": "34",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "148A-34-189",
+      "block": "148A",
+      "floor": "34",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 739800,
+      "status": "available"
+    },
+    {
+      "id": "148A-34-191",
+      "block": "148A",
+      "floor": "34",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 748700,
+      "status": "available"
+    },
+    {
+      "id": "148A-34-195",
+      "block": "148A",
+      "floor": "34",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 748700,
+      "status": "available"
+    },
+    {
+      "id": "148A-33-185",
+      "block": "148A",
+      "floor": "33",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "148A-33-187",
+      "block": "148A",
+      "floor": "33",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "148A-33-189",
+      "block": "148A",
+      "floor": "33",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 738000,
+      "status": "available"
+    },
+    {
+      "id": "148A-33-191",
+      "block": "148A",
+      "floor": "33",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 746900,
+      "status": "available"
+    },
+    {
+      "id": "148A-33-195",
+      "block": "148A",
+      "floor": "33",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 746900,
+      "status": "available"
+    },
+    {
+      "id": "148A-32-185",
+      "block": "148A",
+      "floor": "32",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "148A-32-187",
+      "block": "148A",
+      "floor": "32",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "148A-32-189",
+      "block": "148A",
+      "floor": "32",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 736200,
+      "status": "available"
+    },
+    {
+      "id": "148A-32-191",
+      "block": "148A",
+      "floor": "32",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 745100,
+      "status": "available"
+    },
+    {
+      "id": "148A-32-195",
+      "block": "148A",
+      "floor": "32",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 745100,
+      "status": "available"
+    },
+    {
+      "id": "148A-31-185",
+      "block": "148A",
+      "floor": "31",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "148A-31-187",
+      "block": "148A",
+      "floor": "31",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "148A-31-189",
+      "block": "148A",
+      "floor": "31",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 734400,
+      "status": "available"
+    },
+    {
+      "id": "148A-31-191",
+      "block": "148A",
+      "floor": "31",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 743300,
+      "status": "available"
+    },
+    {
+      "id": "148A-31-195",
+      "block": "148A",
+      "floor": "31",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 743300,
+      "status": "available"
+    },
+    {
+      "id": "148A-30-185",
+      "block": "148A",
+      "floor": "30",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "148A-30-187",
+      "block": "148A",
+      "floor": "30",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "taken"
+    },
+    {
+      "id": "148A-30-189",
+      "block": "148A",
+      "floor": "30",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 732600,
+      "status": "available"
+    },
+    {
+      "id": "148A-30-191",
+      "block": "148A",
+      "floor": "30",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 741500,
+      "status": "available"
+    },
+    {
+      "id": "148A-30-195",
+      "block": "148A",
+      "floor": "30",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 741500,
+      "status": "available"
+    },
+    {
+      "id": "148A-29-185",
+      "block": "148A",
+      "floor": "29",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "148A-29-187",
+      "block": "148A",
+      "floor": "29",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "148A-29-189",
+      "block": "148A",
+      "floor": "29",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 730800,
+      "status": "available"
+    },
+    {
+      "id": "148A-29-191",
+      "block": "148A",
+      "floor": "29",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 739700,
+      "status": "available"
+    },
+    {
+      "id": "148A-29-195",
+      "block": "148A",
+      "floor": "29",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 739700,
+      "status": "available"
+    },
+    {
+      "id": "148A-28-185",
+      "block": "148A",
+      "floor": "28",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "148A-28-187",
+      "block": "148A",
+      "floor": "28",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "taken"
+    },
+    {
+      "id": "148A-28-189",
+      "block": "148A",
+      "floor": "28",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "148A-28-191",
+      "block": "148A",
+      "floor": "28",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 737900,
+      "status": "available"
+    },
+    {
+      "id": "148A-28-195",
+      "block": "148A",
+      "floor": "28",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 737900,
+      "status": "available"
+    },
+    {
+      "id": "148A-27-185",
+      "block": "148A",
+      "floor": "27",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "148A-27-187",
+      "block": "148A",
+      "floor": "27",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "148A-27-189",
+      "block": "148A",
+      "floor": "27",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 727200,
+      "status": "available"
+    },
+    {
+      "id": "148A-27-191",
+      "block": "148A",
+      "floor": "27",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 736100,
+      "status": "available"
+    },
+    {
+      "id": "148A-27-195",
+      "block": "148A",
+      "floor": "27",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 736100,
+      "status": "available"
+    },
+    {
+      "id": "148A-26-185",
+      "block": "148A",
+      "floor": "26",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "taken"
+    },
+    {
+      "id": "148A-26-187",
+      "block": "148A",
+      "floor": "26",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "taken"
+    },
+    {
+      "id": "148A-26-189",
+      "block": "148A",
+      "floor": "26",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 725400,
+      "status": "available"
+    },
+    {
+      "id": "148A-26-191",
+      "block": "148A",
+      "floor": "26",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 734300,
+      "status": "available"
+    },
+    {
+      "id": "148A-26-195",
+      "block": "148A",
+      "floor": "26",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 734300,
+      "status": "available"
+    },
+    {
+      "id": "148A-25-185",
+      "block": "148A",
+      "floor": "25",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "148A-25-187",
+      "block": "148A",
+      "floor": "25",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "taken"
+    },
+    {
+      "id": "148A-25-189",
+      "block": "148A",
+      "floor": "25",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 723600,
+      "status": "available"
+    },
+    {
+      "id": "148A-25-191",
+      "block": "148A",
+      "floor": "25",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 732500,
+      "status": "available"
+    },
+    {
+      "id": "148A-25-195",
+      "block": "148A",
+      "floor": "25",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 732500,
+      "status": "available"
+    },
+    {
+      "id": "148A-24-185",
+      "block": "148A",
+      "floor": "24",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "148A-24-187",
+      "block": "148A",
+      "floor": "24",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "148A-24-189",
+      "block": "148A",
+      "floor": "24",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 720100,
+      "status": "available"
+    },
+    {
+      "id": "148A-24-191",
+      "block": "148A",
+      "floor": "24",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "148A-24-195",
+      "block": "148A",
+      "floor": "24",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 729000,
+      "status": "available"
+    },
+    {
+      "id": "148A-23-185",
+      "block": "148A",
+      "floor": "23",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "148A-23-187",
+      "block": "148A",
+      "floor": "23",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "148A-23-189",
+      "block": "148A",
+      "floor": "23",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 716600,
+      "status": "available"
+    },
+    {
+      "id": "148A-23-191",
+      "block": "148A",
+      "floor": "23",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 725500,
+      "status": "available"
+    },
+    {
+      "id": "148A-23-195",
+      "block": "148A",
+      "floor": "23",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 725500,
+      "status": "available"
+    },
+    {
+      "id": "148A-22-185",
+      "block": "148A",
+      "floor": "22",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "148A-22-187",
+      "block": "148A",
+      "floor": "22",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "148A-22-189",
+      "block": "148A",
+      "floor": "22",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 713100,
+      "status": "available"
+    },
+    {
+      "id": "148A-22-191",
+      "block": "148A",
+      "floor": "22",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 722000,
+      "status": "available"
+    },
+    {
+      "id": "148A-22-195",
+      "block": "148A",
+      "floor": "22",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 722000,
+      "status": "available"
+    },
+    {
+      "id": "148A-21-185",
+      "block": "148A",
+      "floor": "21",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "148A-21-187",
+      "block": "148A",
+      "floor": "21",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "148A-21-189",
+      "block": "148A",
+      "floor": "21",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 709600,
+      "status": "available"
+    },
+    {
+      "id": "148A-21-191",
+      "block": "148A",
+      "floor": "21",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 718500,
+      "status": "available"
+    },
+    {
+      "id": "148A-21-195",
+      "block": "148A",
+      "floor": "21",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 718500,
+      "status": "available"
+    },
+    {
+      "id": "148A-20-185",
+      "block": "148A",
+      "floor": "20",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "148A-20-187",
+      "block": "148A",
+      "floor": "20",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "148A-20-189",
+      "block": "148A",
+      "floor": "20",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 706100,
+      "status": "available"
+    },
+    {
+      "id": "148A-20-191",
+      "block": "148A",
+      "floor": "20",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 715000,
+      "status": "available"
+    },
+    {
+      "id": "148A-20-195",
+      "block": "148A",
+      "floor": "20",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 715000,
+      "status": "available"
+    },
+    {
+      "id": "148A-18-185",
+      "block": "148A",
+      "floor": "18",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "148A-18-187",
+      "block": "148A",
+      "floor": "18",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "taken"
+    },
+    {
+      "id": "148A-18-189",
+      "block": "148A",
+      "floor": "18",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 699100,
+      "status": "available"
+    },
+    {
+      "id": "148A-18-191",
+      "block": "148A",
+      "floor": "18",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 708000,
+      "status": "available"
+    },
+    {
+      "id": "148A-18-195",
+      "block": "148A",
+      "floor": "18",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 708000,
+      "status": "available"
+    },
+    {
+      "id": "148A-17-185",
+      "block": "148A",
+      "floor": "17",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "148A-17-187",
+      "block": "148A",
+      "floor": "17",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "148A-17-189",
+      "block": "148A",
+      "floor": "17",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 695600,
+      "status": "available"
+    },
+    {
+      "id": "148A-17-191",
+      "block": "148A",
+      "floor": "17",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 704500,
+      "status": "available"
+    },
+    {
+      "id": "148A-17-195",
+      "block": "148A",
+      "floor": "17",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 704500,
+      "status": "available"
+    },
+    {
+      "id": "148A-16-185",
+      "block": "148A",
+      "floor": "16",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "148A-16-187",
+      "block": "148A",
+      "floor": "16",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "148A-16-189",
+      "block": "148A",
+      "floor": "16",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 692100,
+      "status": "available"
+    },
+    {
+      "id": "148A-16-191",
+      "block": "148A",
+      "floor": "16",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 701000,
+      "status": "available"
+    },
+    {
+      "id": "148A-16-195",
+      "block": "148A",
+      "floor": "16",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 701000,
+      "status": "available"
+    },
+    {
+      "id": "148A-15-185",
+      "block": "148A",
+      "floor": "15",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "taken"
+    },
+    {
+      "id": "148A-15-187",
+      "block": "148A",
+      "floor": "15",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "148A-15-189",
+      "block": "148A",
+      "floor": "15",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 688600,
+      "status": "available"
+    },
+    {
+      "id": "148A-15-191",
+      "block": "148A",
+      "floor": "15",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 697500,
+      "status": "available"
+    },
+    {
+      "id": "148A-15-195",
+      "block": "148A",
+      "floor": "15",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 697500,
+      "status": "available"
+    },
+    {
+      "id": "148A-14-185",
+      "block": "148A",
+      "floor": "14",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "148A-14-187",
+      "block": "148A",
+      "floor": "14",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "148A-14-189",
+      "block": "148A",
+      "floor": "14",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 685100,
+      "status": "available"
+    },
+    {
+      "id": "148A-14-191",
+      "block": "148A",
+      "floor": "14",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 694000,
+      "status": "available"
+    },
+    {
+      "id": "148A-14-195",
+      "block": "148A",
+      "floor": "14",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 694000,
+      "status": "available"
+    },
+    {
+      "id": "148A-13-185",
+      "block": "148A",
+      "floor": "13",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "148A-13-187",
+      "block": "148A",
+      "floor": "13",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "148A-13-189",
+      "block": "148A",
+      "floor": "13",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 681600,
+      "status": "available"
+    },
+    {
+      "id": "148A-13-191",
+      "block": "148A",
+      "floor": "13",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 690500,
+      "status": "available"
+    },
+    {
+      "id": "148A-13-195",
+      "block": "148A",
+      "floor": "13",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 690500,
+      "status": "available"
+    },
+    {
+      "id": "148A-12-185",
+      "block": "148A",
+      "floor": "12",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "148A-12-187",
+      "block": "148A",
+      "floor": "12",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "148A-12-189",
+      "block": "148A",
+      "floor": "12",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 678100,
+      "status": "available"
+    },
+    {
+      "id": "148A-12-191",
+      "block": "148A",
+      "floor": "12",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 687000,
+      "status": "available"
+    },
+    {
+      "id": "148A-12-195",
+      "block": "148A",
+      "floor": "12",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 687000,
+      "status": "available"
+    },
+    {
+      "id": "148A-11-185",
+      "block": "148A",
+      "floor": "11",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "148A-11-187",
+      "block": "148A",
+      "floor": "11",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "148A-11-189",
+      "block": "148A",
+      "floor": "11",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 674600,
+      "status": "available"
+    },
+    {
+      "id": "148A-11-191",
+      "block": "148A",
+      "floor": "11",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 683500,
+      "status": "available"
+    },
+    {
+      "id": "148A-11-195",
+      "block": "148A",
+      "floor": "11",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 683500,
+      "status": "available"
+    },
+    {
+      "id": "148A-10-185",
+      "block": "148A",
+      "floor": "10",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "148A-10-187",
+      "block": "148A",
+      "floor": "10",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "148A-10-189",
+      "block": "148A",
+      "floor": "10",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 671100,
+      "status": "available"
+    },
+    {
+      "id": "148A-10-191",
+      "block": "148A",
+      "floor": "10",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 680000,
+      "status": "available"
+    },
+    {
+      "id": "148A-10-195",
+      "block": "148A",
+      "floor": "10",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 680000,
+      "status": "available"
+    },
+    {
+      "id": "148A-09-185",
+      "block": "148A",
+      "floor": "09",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "148A-09-187",
+      "block": "148A",
+      "floor": "09",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "148A-09-189",
+      "block": "148A",
+      "floor": "09",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 667600,
+      "status": "available"
+    },
+    {
+      "id": "148A-09-191",
+      "block": "148A",
+      "floor": "09",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 676500,
+      "status": "available"
+    },
+    {
+      "id": "148A-09-195",
+      "block": "148A",
+      "floor": "09",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 676500,
+      "status": "available"
+    },
+    {
+      "id": "148A-08-185",
+      "block": "148A",
+      "floor": "08",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "148A-08-187",
+      "block": "148A",
+      "floor": "08",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "148A-08-189",
+      "block": "148A",
+      "floor": "08",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "148A-08-191",
+      "block": "148A",
+      "floor": "08",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 673000,
+      "status": "available"
+    },
+    {
+      "id": "148A-08-195",
+      "block": "148A",
+      "floor": "08",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 673000,
+      "status": "available"
+    },
+    {
+      "id": "148A-07-185",
+      "block": "148A",
+      "floor": "07",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "148A-07-187",
+      "block": "148A",
+      "floor": "07",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "148A-07-189",
+      "block": "148A",
+      "floor": "07",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "148A-07-191",
+      "block": "148A",
+      "floor": "07",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "148A-07-195",
+      "block": "148A",
+      "floor": "07",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 664100,
+      "status": "available"
+    },
+    {
+      "id": "148A-06-185",
+      "block": "148A",
+      "floor": "06",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "148A-06-187",
+      "block": "148A",
+      "floor": "06",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "148A-06-189",
+      "block": "148A",
+      "floor": "06",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "148A-06-191",
+      "block": "148A",
+      "floor": "06",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "148A-06-195",
+      "block": "148A",
+      "floor": "06",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 655200,
+      "status": "available"
+    },
+    {
+      "id": "148A-05-185",
+      "block": "148A",
+      "floor": "05",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 619700,
+      "status": "available"
+    },
+    {
+      "id": "148A-05-187",
+      "block": "148A",
+      "floor": "05",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 619700,
+      "status": "available"
+    },
+    {
+      "id": "148A-05-189",
+      "block": "148A",
+      "floor": "05",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 637400,
+      "status": "available"
+    },
+    {
+      "id": "148A-05-191",
+      "block": "148A",
+      "floor": "05",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "148A-05-195",
+      "block": "148A",
+      "floor": "05",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 646300,
+      "status": "available"
+    },
+    {
+      "id": "148A-04-185",
+      "block": "148A",
+      "floor": "04",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 606400,
+      "status": "available"
+    },
+    {
+      "id": "148A-04-187",
+      "block": "148A",
+      "floor": "04",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 606400,
+      "status": "available"
+    },
+    {
+      "id": "148A-04-189",
+      "block": "148A",
+      "floor": "04",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 624100,
+      "status": "available"
+    },
+    {
+      "id": "148A-04-191",
+      "block": "148A",
+      "floor": "04",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 633000,
+      "status": "available"
+    },
+    {
+      "id": "148A-04-195",
+      "block": "148A",
+      "floor": "04",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 624100,
+      "status": "available"
+    },
+    {
+      "id": "148A-03-185",
+      "block": "148A",
+      "floor": "03",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 593100,
+      "status": "available"
+    },
+    {
+      "id": "148A-03-187",
+      "block": "148A",
+      "floor": "03",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 593100,
+      "status": "available"
+    },
+    {
+      "id": "148A-03-189",
+      "block": "148A",
+      "floor": "03",
+      "unit": "189",
+      "room_type": "4-room",
+      "price": 610800,
+      "status": "available"
+    },
+    {
+      "id": "148A-03-191",
+      "block": "148A",
+      "floor": "03",
+      "unit": "191",
+      "room_type": "4-room",
+      "price": 619700,
+      "status": "available"
+    },
+    {
+      "id": "148A-03-195",
+      "block": "148A",
+      "floor": "03",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 602000,
+      "status": "available"
+    },
+    {
+      "id": "148A-02-185",
+      "block": "148A",
+      "floor": "02",
+      "unit": "185",
+      "room_type": "4-room",
+      "price": 579800,
+      "status": "available"
+    },
+    {
+      "id": "148A-02-187",
+      "block": "148A",
+      "floor": "02",
+      "unit": "187",
+      "room_type": "4-room",
+      "price": 579800,
+      "status": "available"
+    },
+    {
+      "id": "148A-02-195",
+      "block": "148A",
+      "floor": "02",
+      "unit": "195",
+      "room_type": "4-room",
+      "price": 588700,
+      "status": "available"
+    }
+  ],
+  "quotas": [
+    {
+      "block": "146A",
+      "room_type": "4-room",
+      "chinese": 107
+    },
+    {
+      "block": "147A",
+      "room_type": "4-room",
+      "chinese": 190
+    },
+    {
+      "block": "148A",
+      "room_type": "4-room",
+      "chinese": 180
+    }
+  ],
+  "changes": {
+    "taken": [],
+    "available": []
+  },
+  "notice": "Availability is informational. Confirm all details directly with HDB."
+}

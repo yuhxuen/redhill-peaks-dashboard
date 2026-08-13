@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Public read-only view of Redhill Peaks 4-room flat availability.">
+  <title>Redhill Peaks 4-room Availability</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div>
+        <div class="title-row"><p class="eyebrow">Public read-only dashboard</p><span class="live-badge"><i></i>Latest published check</span></div>
+        <h1>Redhill Peaks<br>4-room flats</h1>
+        <p class="subtitle">Explore every unit by block, floor, price, and published availability.</p>
+      </div>
+      <a class="refresh-link" href="./">Reload latest data</a>
+    </header>
+
+    <div id="notice" class="notice hidden" role="status"></div>
+
+    <section class="source-notice" aria-label="Important information">
+      <div>
+        <strong>Refer to HDB for the latest information.</strong>
+        <span>This independent dashboard may not reflect changes made after the owner's latest successful update.</span>
+      </div>
+      <p>Last private update: <time id="disclaimer-updated">Loading…</time></p>
+    </section>
+
+    <section class="metrics" aria-label="Latest summary">
+      <article class="metric available-metric"><span>Available</span><strong id="available">—</strong></article>
+      <article class="metric"><span>Taken</span><strong id="taken">—</strong></article>
+      <article class="metric"><span>Total 4-room</span><strong id="total">—</strong></article>
+      <article class="metric"><span>Last successful private update</span><strong id="checked" class="small">Loading…</strong></article>
+    </section>
+
+    <section class="panel changes">
+      <div class="panel-heading"><h2>Changes since the previous check</h2></div>
+      <div id="change-list" class="chips muted">Loading changes…</div>
+    </section>
+
+    <section class="panel building-panel">
+      <div class="panel-heading table-tools">
+        <div><h2>Explore the block</h2><p>Select a flat to see its price and current published status.</p></div>
+        <select id="block-select" aria-label="Choose block"></select>
+      </div>
+      <div class="building-toolbar">
+        <span class="legend"><i class="legend-dot available"></i>Available</span>
+        <span class="legend"><i class="legend-dot taken"></i>Taken</span>
+        <span class="legend"><i class="legend-dot void"></i>No flat</span>
+      </div>
+      <div class="building-layout">
+        <div id="building" class="building"><p class="empty">Loading the block…</p></div>
+        <aside id="unit-detail" class="unit-detail">
+          <p class="eyebrow">Selected flat</p>
+          <h3>Choose a unit</h3>
+          <p>Select any coloured unit in the block to see its details.</p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-heading table-tools">
+        <div><h2>Available units</h2><p id="unit-caption">Loading…</p></div>
+        <input id="search" type="search" placeholder="Search floor or unit" aria-label="Search available units">
+      </div>
+      <div class="table-wrap list-table">
+        <table>
+          <thead><tr><th>Block</th><th>Flat</th><th>Price</th><th>Status</th></tr></thead>
+          <tbody id="units"><tr><td colspan="4" class="empty">Loading…</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel taken-panel">
+      <div class="panel-heading table-tools">
+        <div><h2>Taken units</h2><p id="taken-caption">Loading…</p></div>
+        <input id="taken-search" type="search" placeholder="Search floor or unit" aria-label="Search taken units">
+      </div>
+      <div class="table-wrap list-table short">
+        <table>
+          <thead><tr><th>Block</th><th>Flat</th><th>Price</th><th>Status</th></tr></thead>
+          <tbody id="taken-units"><tr><td colspan="4" class="empty">Loading…</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-heading"><h2>Chinese quota · 4-room</h2><p>Shown by block when reported in the owner's latest HDB check.</p></div>
+      <div class="table-wrap quota-table">
+        <table>
+          <thead><tr><th>Block</th><th>Room type</th><th>Chinese quota</th></tr></thead>
+          <tbody id="quota-rows"><tr><td colspan="3" class="empty">Loading…</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer>
+      <strong>Refer to HDB for the latest information.</strong> This independent informational dashboard is not an HDB website and is not endorsed by HDB.
+      Prices come from the supplied flat list; availability reflects the owner's most recently published successful check.
+      Data may be delayed. Always confirm availability, quota, price, and eligibility directly with HDB before acting.
+    </footer>
+  </main>
+  <script src="./app.js" defer></script>
+</body>
+</html>
