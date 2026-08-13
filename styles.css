@@ -93,7 +93,7 @@ th { position: sticky; top: 0; background: var(--card); color: var(--muted); fon
 .list-table { max-height: 560px; }
 .list-table.short { max-height: 360px; }
 .quota-table { max-height: 320px; }
-footer { color: var(--muted); font-size: 12px; line-height: 1.7; margin: 24px 2px 0; max-width: 820px; }
+footer { width: 100%; color: var(--muted); font-size: 12px; line-height: 1.7; margin: 24px 2px 0; }
 @media (max-width: 820px) {
   header { align-items: flex-start; flex-direction: column; }
   .source-notice { align-items: flex-start; flex-direction: column; gap: 10px; }
