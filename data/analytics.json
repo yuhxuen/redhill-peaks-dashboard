@@ -1,4 +1,4 @@
 {
-  "enabled": true,
-  "endpoint": "https://yuhxuen.goatcounter.com/count"
+    "endpoint":  "https://yuhxuen.goatcounter.com/count",
+    "enabled":  true
 }
