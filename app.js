@@ -54,14 +54,15 @@ function renderBuilding() {
   document.querySelectorAll(".flat-cell[data-id]").forEach((button) => button.addEventListener("click", () => showUnit(button.dataset.id)));
 }
 
-function renderChanges() {
+function renderChanges(updatedAt) {
   const changes = [
     ...(state.changes.taken || []).map((item) => ({ item, type: "taken" })),
   ];
   const list = $("change-list");
-  const dateLabel = state.changes.date
-    ? new Date(`${state.changes.date}T00:00:00+08:00`).toLocaleDateString("en-SG", { dateStyle: "long" })
-    : "Latest update date";
+  const updateDate = state.changes.date || new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Singapore", year: "numeric", month: "2-digit", day: "2-digit",
+  }).format(new Date(updatedAt));
+  const dateLabel = new Date(`${updateDate}T00:00:00+08:00`).toLocaleDateString("en-SG", { dateStyle: "long" });
   $("change-date").textContent = `· ${dateLabel}`;
   const takenCount = state.changes.taken?.length || 0;
   $("change-caption").textContent = `${takenCount} ${takenCount === 1 ? "unit" : "units"} taken`;
@@ -86,7 +87,7 @@ function render(data) {
   $("disclaimer-updated").textContent = updated;
   $("disclaimer-updated").dateTime = data.updated_at;
   $("block-select").innerHTML = state.blocks.map((item) => `<option value="${escapeHtml(item.block)}">Block ${escapeHtml(item.block)} · ${item.available} available · ${item.taken} taken</option>`).join("");
-  renderChanges();
+  renderChanges(data.updated_at);
   renderBuilding();
 }
 
