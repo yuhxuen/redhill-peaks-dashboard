@@ -1,4 +1,4 @@
-const state = { units: [], blocks: [], quotas: [], changes: {}, activeBlock: "" };
+const state = { units: [], blocks: [], changes: {}, activeBlock: "" };
 const $ = (id) => document.getElementById(id);
 const money = new Intl.NumberFormat("en-SG", { style: "currency", currency: "SGD", maximumFractionDigits: 0 });
 
@@ -9,35 +9,11 @@ function escapeHtml(value) {
 }
 
 function unitLabel(item) { return `${item.block} #${item.floor}-${item.unit}`; }
-function unitsWithStatus(status) { return state.units.filter((item) => item.status === status); }
 
 function showError(message) {
   const notice = $("notice");
   notice.textContent = message;
   notice.className = "notice error";
-}
-
-function matchesSearch(item, query) {
-  return !query || `${item.block} ${item.floor} ${item.unit} ${item.floor}-${item.unit} ${item.price}`.toLowerCase().includes(query);
-}
-
-function tableRows(items, status) {
-  return items.map((item) => `<tr>
-    <td>${escapeHtml(item.block)}</td>
-    <td><strong>#${escapeHtml(item.floor)}-${escapeHtml(item.unit)}</strong></td>
-    <td>${money.format(item.price)}</td>
-    <td><span class="status-dot ${status}"></span>${status === "available" ? "Available" : "Taken"}</td>
-  </tr>`).join("");
-}
-
-function renderTable(status) {
-  const available = status === "available";
-  const query = $(available ? "search" : "taken-search").value.trim().toLowerCase();
-  const items = unitsWithStatus(status).filter((item) => item.block === state.activeBlock && matchesSearch(item, query));
-  $(available ? "unit-caption" : "taken-caption").textContent = `${items.length} ${status} in block ${state.activeBlock}`;
-  $(available ? "units" : "taken-units").innerHTML = items.length
-    ? tableRows(items, status)
-    : `<tr><td colspan="4" class="empty">No matching ${status} units in this block.</td></tr>`;
 }
 
 function showUnit(id) {
@@ -93,16 +69,9 @@ function renderChanges() {
   list.innerHTML = changes.map(({ item, type }) => `<span class="chip ${type}">${escapeHtml(unitLabel(item))} · ${type}</span>`).join("");
 }
 
-function renderQuotas() {
-  $("quota-rows").innerHTML = state.quotas.length
-    ? state.quotas.map((item) => `<tr><td>${escapeHtml(item.block)}</td><td>4-room</td><td><strong>${item.chinese ?? "Not reported"}</strong></td></tr>`).join("")
-    : `<tr><td colspan="3" class="empty">No block quota data was reported in the latest check.</td></tr>`;
-}
-
 function render(data) {
   state.units = data.units || [];
   state.blocks = data.blocks || [];
-  state.quotas = data.quotas || [];
   state.changes = data.changes || {};
   state.activeBlock = state.blocks[0]?.block || "";
   $("available").textContent = data.summary.available.toLocaleString();
@@ -115,20 +84,13 @@ function render(data) {
   $("block-select").innerHTML = state.blocks.map((item) => `<option value="${escapeHtml(item.block)}">Block ${escapeHtml(item.block)} · ${item.available} available · ${item.taken} taken</option>`).join("");
   renderChanges();
   renderBuilding();
-  renderTable("available");
-  renderTable("taken");
-  renderQuotas();
 }
 
 $("block-select").addEventListener("change", (event) => {
   state.activeBlock = event.target.value;
   renderBuilding();
-  renderTable("available");
-  renderTable("taken");
   $("unit-detail").innerHTML = `<p class="eyebrow">Selected flat</p><h3>Choose a unit</h3><p>Select any coloured unit in the block to see its details.</p>`;
 });
-$("search").addEventListener("input", () => renderTable("available"));
-$("taken-search").addEventListener("input", () => renderTable("taken"));
 
 fetch(`./data/snapshot.json?v=${Date.now()}`, { cache: "no-store" })
   .then((response) => {

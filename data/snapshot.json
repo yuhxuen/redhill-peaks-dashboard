@@ -5367,23 +5367,6 @@
       "status": "available"
     }
   ],
-  "quotas": [
-    {
-      "block": "146A",
-      "room_type": "4-room",
-      "chinese": 107
-    },
-    {
-      "block": "147A",
-      "room_type": "4-room",
-      "chinese": 190
-    },
-    {
-      "block": "148A",
-      "room_type": "4-room",
-      "chinese": 179
-    }
-  ],
   "changes": {
     "taken": [
       {
