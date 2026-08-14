@@ -5369,7 +5369,15 @@
   ],
   "changes": {
     "date": "2026-08-14",
-    "taken": []
+    "taken": [
+      {
+        "id": "148A-24-187",
+        "block": "148A",
+        "floor": "24",
+        "unit": "187",
+        "price": 720100
+      }
+    ]
   },
   "notice": "Availability is informational. Confirm all details directly with HDB."
 }

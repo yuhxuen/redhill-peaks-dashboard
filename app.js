@@ -62,7 +62,7 @@ function renderChanges(updatedAt) {
   const updateDate = state.changes.date || new Intl.DateTimeFormat("en-CA", {
     timeZone: "Asia/Singapore", year: "numeric", month: "2-digit", day: "2-digit",
   }).format(new Date(updatedAt));
-  const dateLabel = new Date(`${updateDate}T00:00:00+08:00`).toLocaleDateString("en-SG", { dateStyle: "long" });
+  const dateLabel = new Date(`${updateDate}T00:00:00+08:00`).toLocaleDateString("en-SG", { dateStyle: "long", timeZone: "Asia/Singapore" });
   $("change-date").textContent = `· ${dateLabel}`;
   const takenCount = state.changes.taken?.length || 0;
   $("change-caption").textContent = `${takenCount} ${takenCount === 1 ? "unit" : "units"} taken`;
@@ -83,7 +83,7 @@ function render(data) {
   $("available").textContent = data.summary.available.toLocaleString();
   $("taken").textContent = data.summary.taken.toLocaleString();
   $("total").textContent = data.summary.total.toLocaleString();
-  const updated = new Date(data.updated_at).toLocaleString("en-SG", { dateStyle: "medium", timeStyle: "short" });
+  const updated = `${new Date(data.updated_at).toLocaleString("en-SG", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Singapore" })} SGT`;
   $("disclaimer-updated").textContent = updated;
   $("disclaimer-updated").dateTime = data.updated_at;
   $("block-select").innerHTML = state.blocks.map((item) => `<option value="${escapeHtml(item.block)}">Block ${escapeHtml(item.block)} · ${item.available} available · ${item.taken} taken</option>`).join("");
