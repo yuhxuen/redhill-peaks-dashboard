@@ -2,17 +2,17 @@
   "schema_version": 1,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-14T10:49:47+08:00",
+  "updated_at": "2026-08-14T11:55:52+08:00",
   "summary": {
-    "available": 566,
-    "taken": 27,
+    "available": 565,
+    "taken": 28,
     "total": 593
   },
   "blocks": [
     {
       "block": "146A",
-      "available": 127,
-      "taken": 10,
+      "available": 126,
+      "taken": 11,
       "total": 137
     },
     {
@@ -144,7 +144,7 @@
       "unit": "153",
       "room_type": "4-room",
       "price": 777400,
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-45-155",
@@ -5370,6 +5370,13 @@
   "changes": {
     "date": "2026-08-14",
     "taken": [
+      {
+        "id": "146A-45-153",
+        "block": "146A",
+        "floor": "45",
+        "unit": "153",
+        "price": 777400
+      },
       {
         "id": "148A-24-187",
         "block": "148A",
