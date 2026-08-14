@@ -33,6 +33,38 @@
       <article class="metric available-metric"><span>Available</span><strong id="available">—</strong></article>
       <article class="metric"><span>Taken</span><strong id="taken">—</strong></article>
       <article class="metric"><span>Total 4-room</span><strong id="total">—</strong></article>
+      <article class="metric dropout-metric"><span>Estimated drop-outs</span><strong id="dropout">—</strong><small>Calculated only after the daily HDB update at or after 5:30 pm.</small></article>
+    </section>
+
+    <section id="public-queue" class="panel queue-public-panel hidden">
+      <div class="queue-public-layout">
+        <div class="queue-public-main">
+          <p class="eyebrow">Selection queue progress</p>
+          <p class="queue-kicker">Every update brings you closer</p>
+          <div class="queue-road" aria-hidden="true">
+            <div id="queue-traveller" class="queue-traveller">🚶🏻‍♀️</div>
+            <div class="queue-destination">🏠</div>
+            <span id="queue-percent" class="queue-percent">0%</span>
+          </div>
+          <div class="queue-progress-copy">
+            <strong id="queue-remaining">Enter your queue number below</strong>
+            <span id="queue-latest"></span>
+          </div>
+          <div class="queue-result-grid">
+            <article><span>Average pace</span><strong id="queue-average">—</strong><small>per Singapore working day</small></article>
+            <article><span>Estimated turn</span><strong id="queue-estimate">—</strong></article>
+          </div>
+          <label class="public-queue-input">Your queue number
+            <input id="public-queue-number" type="number" min="1" max="593" step="1" inputmode="numeric" autocomplete="off" placeholder="Enter 1–593">
+          </label>
+          <p class="queue-privacy"><strong>Your number is not saved or sent anywhere.</strong> You will need to enter it again whenever you reload or return to this page.</p>
+          <p class="queue-warning"><strong>Estimate only.</strong> This is based on reported queue-number progress. Do not use it for leave planning or other commitments. Always wait for your official HDB appointment notice.</p>
+        </div>
+        <div class="queue-public-diary">
+          <h3>Progress diary</h3>
+          <div id="public-queue-history" class="public-queue-history"></div>
+        </div>
+      </div>
     </section>
 
     <section class="panel changes">

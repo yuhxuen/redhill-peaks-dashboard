@@ -1,4 +1,4 @@
-const state = { units: [], blocks: [], changes: {}, activeBlock: "" };
+const state = { units: [], blocks: [], changes: {}, activeBlock: "", queueTracker: null };
 const $ = (id) => document.getElementById(id);
 const money = new Intl.NumberFormat("en-SG", { style: "currency", currency: "SGD", maximumFractionDigits: 0 });
 
@@ -9,6 +9,55 @@ function escapeHtml(value) {
 }
 
 function unitLabel(item) { return `${item.block} #${item.floor}-${item.unit}`; }
+
+function dateLabel(value, options = { dateStyle: "medium" }) {
+  return new Date(`${value}T12:00:00+08:00`).toLocaleDateString("en-SG", {
+    timeZone: "Asia/Singapore", ...options,
+  });
+}
+
+function addSingaporeWorkingDays(start, days, publicHolidays) {
+  const holidays = new Set(publicHolidays || []);
+  const result = new Date(`${start}T12:00:00Z`);
+  let remaining = Math.max(0, days);
+  while (remaining) {
+    result.setUTCDate(result.getUTCDate() + 1);
+    const isoDate = result.toISOString().slice(0, 10);
+    if (result.getUTCDay() !== 0 && result.getUTCDay() !== 6 && !holidays.has(isoDate)) remaining -= 1;
+  }
+  return result.toISOString().slice(0, 10);
+}
+
+function renderPublicQueue() {
+  const tracker = state.queueTracker;
+  if (!tracker?.latest) return;
+  $("public-queue").className = "panel queue-public-panel";
+  const latest = tracker.latest;
+  const input = $("public-queue-number");
+  input.max = tracker.target_queue_number;
+  const entered = Number(input.value);
+  const hasPersonalQueue = Number.isInteger(entered) && entered >= 1 && entered <= tracker.target_queue_number;
+  const target = hasPersonalQueue ? entered : tracker.target_queue_number;
+  const remaining = Math.max(0, target - latest.last_queue_number);
+  const percentage = Math.min(100, Math.round((latest.last_queue_number / target) * 1000) / 10);
+  $("queue-traveller").style.left = `calc(${Math.min(88, percentage * 0.88)}% - 10px)`;
+  $("queue-percent").textContent = `${percentage}%`;
+  $("queue-latest").textContent = `${dateLabel(latest.date)} · latest reported queue ${latest.last_queue_number}`;
+  $("queue-average").textContent = Number(latest.average_per_working_day).toFixed(2);
+  if (hasPersonalQueue) {
+    $("queue-remaining").textContent = remaining ? `${remaining} queue numbers to go` : "Your queue number has been reached";
+    const exactAverage = latest.average_per_working_day_exact || latest.average_per_working_day;
+    const remainingDays = exactAverage ? Math.ceil(remaining / exactAverage) : 0;
+    const estimate = addSingaporeWorkingDays(latest.date, remainingDays, tracker.mom_public_holidays);
+    $("queue-estimate").textContent = remaining ? dateLabel(estimate, { day: "numeric", month: "short", year: "numeric" }) : "Reached";
+  } else {
+    $("queue-remaining").textContent = `Overall queue progress · ${latest.last_queue_number} of ${tracker.target_queue_number}`;
+    $("queue-estimate").textContent = "Enter yours";
+  }
+  $("public-queue-history").innerHTML = (tracker.history || []).map((item) => `
+    <div><time datetime="${escapeHtml(item.date)}">${escapeHtml(dateLabel(item.date, { day: "numeric", month: "short" }))}</time><span>Queue ${item.from_queue_number}–${item.last_queue_number}</span><b>${item.progress >= 0 ? "+" : ""}${item.progress}</b></div>
+  `).join("");
+}
 
 function showError(message) {
   const notice = $("notice");
@@ -79,15 +128,18 @@ function render(data) {
   state.units = data.units || [];
   state.blocks = data.blocks || [];
   state.changes = data.changes || {};
+  state.queueTracker = data.queue_tracker || null;
   state.activeBlock = state.blocks[0]?.block || "";
   $("available").textContent = data.summary.available.toLocaleString();
   $("taken").textContent = data.summary.taken.toLocaleString();
   $("total").textContent = data.summary.total.toLocaleString();
+  $("dropout").textContent = data.dropout_summary ? data.dropout_summary.dropout_count.toLocaleString() : "—";
   const updated = new Date(data.updated_at).toLocaleString("en-SG", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Singapore" });
   $("disclaimer-updated").textContent = updated;
   $("disclaimer-updated").dateTime = data.updated_at;
   $("block-select").innerHTML = state.blocks.map((item) => `<option value="${escapeHtml(item.block)}">Block ${escapeHtml(item.block)} · ${item.available} available · ${item.taken} taken</option>`).join("");
   renderChanges(data.updated_at);
+  renderPublicQueue();
   renderBuilding();
 }
 
@@ -96,6 +148,8 @@ $("block-select").addEventListener("change", (event) => {
   renderBuilding();
   $("unit-detail").innerHTML = `<p class="eyebrow">Selected flat</p><h3>Choose a unit</h3><p>Select any coloured unit in the block to see its details.</p>`;
 });
+
+$("public-queue-number").addEventListener("input", renderPublicQueue);
 
 fetch(`./data/snapshot.json?v=${Date.now()}`, { cache: "no-store" })
   .then((response) => {
