@@ -1,8 +1,8 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-14T15:04:18+08:00",
+  "updated_at": "2026-08-14T15:10:03+08:00",
   "summary": {
     "available": 565,
     "taken": 28,
@@ -5385,6 +5385,103 @@
         "price": 720100
       }
     ]
+  },
+  "queue_tracker": {
+    "target_queue_number": 593,
+    "latest": {
+      "date": "2026-08-14",
+      "last_queue_number": 30,
+      "remaining": 563,
+      "progress_percent": 5.1,
+      "average_per_working_day": 3.33,
+      "average_per_working_day_exact": 3.3333333333333335,
+      "estimated_date": "2027-04-16"
+    },
+    "history": [
+      {
+        "date": "2026-08-14",
+        "from_queue_number": 27,
+        "last_queue_number": 30,
+        "progress": 3
+      },
+      {
+        "date": "2026-08-13",
+        "from_queue_number": 23,
+        "last_queue_number": 27,
+        "progress": 4
+      },
+      {
+        "date": "2026-08-12",
+        "from_queue_number": 18,
+        "last_queue_number": 23,
+        "progress": 5
+      },
+      {
+        "date": "2026-08-11",
+        "from_queue_number": 15,
+        "last_queue_number": 18,
+        "progress": 3
+      },
+      {
+        "date": "2026-08-07",
+        "from_queue_number": 12,
+        "last_queue_number": 15,
+        "progress": 3
+      },
+      {
+        "date": "2026-08-06",
+        "from_queue_number": 8,
+        "last_queue_number": 12,
+        "progress": 4
+      },
+      {
+        "date": "2026-08-05",
+        "from_queue_number": 4,
+        "last_queue_number": 8,
+        "progress": 4
+      },
+      {
+        "date": "2026-08-03",
+        "from_queue_number": 1,
+        "last_queue_number": 4,
+        "progress": 4
+      }
+    ],
+    "mom_public_holidays": [
+      "2026-01-01",
+      "2026-02-17",
+      "2026-02-18",
+      "2026-03-21",
+      "2026-04-03",
+      "2026-05-01",
+      "2026-05-27",
+      "2026-05-31",
+      "2026-06-01",
+      "2026-08-09",
+      "2026-08-10",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-12-25",
+      "2027-01-01",
+      "2027-02-06",
+      "2027-02-07",
+      "2027-02-08",
+      "2027-03-10",
+      "2027-03-26",
+      "2027-05-01",
+      "2027-05-17",
+      "2027-05-20",
+      "2027-08-09",
+      "2027-10-28",
+      "2027-12-25"
+    ]
+  },
+  "dropout_summary": {
+    "date": "2026-08-13",
+    "calculated_at": "2026-08-13T09:35:29+00:00",
+    "queue_number": 27,
+    "flats_taken": 26,
+    "dropout_count": 1
   },
   "notice": "Availability is informational. Confirm all details directly with HDB."
 }
