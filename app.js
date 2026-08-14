@@ -1,6 +1,5 @@
 const state = { units: [], blocks: [], changes: {}, activeBlock: "", queueTracker: null };
 const $ = (id) => document.getElementById(id);
-const money = new Intl.NumberFormat("en-SG", { style: "currency", currency: "SGD", maximumFractionDigits: 0 });
 
 function escapeHtml(value) {
   return String(value).replace(/[&<>'"]/g, (character) => ({
@@ -72,7 +71,6 @@ function showUnit(id) {
   $("unit-detail").innerHTML = `
     <p class="eyebrow">Selected flat</p>
     <h3>${escapeHtml(item.block)} <span>#${escapeHtml(item.floor)}-${escapeHtml(item.unit)}</span></h3>
-    <strong class="detail-price">${money.format(item.price)}</strong>
     <p><span class="status-pill ${item.status}">${isAvailable ? "Available" : "Taken"}</span></p>
     <dl><div><dt>Room type</dt><dd>4-room</dd></div><div><dt>Floor</dt><dd>${Number(item.floor)}</dd></div><div><dt>Stack</dt><dd>${escapeHtml(item.unit)}</dd></div></dl>`;
 }
@@ -95,7 +93,7 @@ function renderBuilding() {
     const cells = stacks.map((stack) => {
       const item = byPosition.get(`${floorText}-${stack}`);
       if (!item) return `<td><span class="flat-cell void" title="No flat"></span></td>`;
-      return `<td><button class="flat-cell ${item.status}" data-id="${escapeHtml(item.id)}" title="${escapeHtml(unitLabel(item))} · ${money.format(item.price)}"><b>${escapeHtml(stack)}</b><small>${money.format(item.price).replace("SGD", "$")}</small></button></td>`;
+      return `<td><button class="flat-cell ${item.status}" data-id="${escapeHtml(item.id)}" title="${escapeHtml(unitLabel(item))}"><b>${escapeHtml(stack)}</b></button></td>`;
     }).join("");
     rows.push(`<tr><th>${floor}</th>${cells}</tr>`);
   }

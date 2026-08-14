@@ -95,7 +95,6 @@ select { min-width: 260px; }
 .unit-detail h3 { margin: 4px 0 8px; font: 500 30px Georgia, serif; }
 .unit-detail h3 span { display: block; color: var(--green); }
 .unit-detail > p:not(.eyebrow) { color: var(--muted); line-height: 1.5; }
-.detail-price { display: block; margin: 22px 0 14px; font: 500 28px Georgia, serif; }
 .status-pill { display: inline-block; padding: 6px 9px; border-radius: 999px; font-size: 12px; font-weight: 750; }
 .status-pill.available { color: var(--green); background: var(--green-soft); }
 .status-pill.taken { color: #545956; background: #e0e1df; }
@@ -113,7 +112,6 @@ button.flat-cell { border: 1px solid #72ac94; background: #d8eee4; color: #174f3
 button.flat-cell:hover { outline: 3px solid rgba(30,105,81,.18); transform: translateY(-1px); }
 button.flat-cell.taken { border-color: #858b87; background: #a8adaa; color: #353a37; }
 .flat-cell b { font-size: 13px; }
-.flat-cell small { margin-top: 3px; font-size: 9px; font-weight: 650; opacity: .75; }
 .flat-cell.void { border: 1px dashed #cbc9c0; background: rgba(255,255,255,.25); }
 .sky-row th, .sky-row td { background: #777c79 !important; color: white !important; }
 .sky-row td { padding: 8px; border-radius: 6px; text-transform: uppercase; letter-spacing: .15em; font-size: 10px; font-weight: 750; }
