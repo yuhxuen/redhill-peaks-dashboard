@@ -83,7 +83,7 @@ function render(data) {
   $("available").textContent = data.summary.available.toLocaleString();
   $("taken").textContent = data.summary.taken.toLocaleString();
   $("total").textContent = data.summary.total.toLocaleString();
-  const updated = `${new Date(data.updated_at).toLocaleString("en-SG", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Singapore" })} SGT`;
+  const updated = new Date(data.updated_at).toLocaleString("en-SG", { dateStyle: "medium", timeStyle: "short", timeZone: "Asia/Singapore" });
   $("disclaimer-updated").textContent = updated;
   $("disclaimer-updated").dateTime = data.updated_at;
   $("block-select").innerHTML = state.blocks.map((item) => `<option value="${escapeHtml(item.block)}">Block ${escapeHtml(item.block)} · ${item.available} available · ${item.taken} taken</option>`).join("");
