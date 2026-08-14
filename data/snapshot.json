@@ -1,5 +1,5 @@
 {
-  "schema_version": 2,
+  "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
   "updated_at": "2026-08-14T17:21:03+08:00",
@@ -35,7 +35,6 @@
       "floor": "49",
       "unit": "153",
       "room_type": "4-room",
-      "price": 782800,
       "status": "available"
     },
     {
@@ -44,7 +43,6 @@
       "floor": "49",
       "unit": "155",
       "room_type": "4-room",
-      "price": 782800,
       "status": "taken"
     },
     {
@@ -53,7 +51,6 @@
       "floor": "49",
       "unit": "163",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -62,7 +59,6 @@
       "floor": "48",
       "unit": "153",
       "room_type": "4-room",
-      "price": 782800,
       "status": "available"
     },
     {
@@ -71,7 +67,6 @@
       "floor": "48",
       "unit": "155",
       "room_type": "4-room",
-      "price": 782800,
       "status": "taken"
     },
     {
@@ -80,7 +75,6 @@
       "floor": "48",
       "unit": "163",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -89,7 +83,6 @@
       "floor": "47",
       "unit": "153",
       "room_type": "4-room",
-      "price": 781000,
       "status": "available"
     },
     {
@@ -98,7 +91,6 @@
       "floor": "47",
       "unit": "155",
       "room_type": "4-room",
-      "price": 781000,
       "status": "taken"
     },
     {
@@ -107,7 +99,6 @@
       "floor": "47",
       "unit": "163",
       "room_type": "4-room",
-      "price": 763200,
       "status": "available"
     },
     {
@@ -116,7 +107,6 @@
       "floor": "46",
       "unit": "153",
       "room_type": "4-room",
-      "price": 779200,
       "status": "available"
     },
     {
@@ -125,7 +115,6 @@
       "floor": "46",
       "unit": "155",
       "room_type": "4-room",
-      "price": 779200,
       "status": "available"
     },
     {
@@ -134,7 +123,6 @@
       "floor": "46",
       "unit": "163",
       "room_type": "4-room",
-      "price": 761400,
       "status": "available"
     },
     {
@@ -143,7 +131,6 @@
       "floor": "45",
       "unit": "153",
       "room_type": "4-room",
-      "price": 777400,
       "status": "taken"
     },
     {
@@ -152,7 +139,6 @@
       "floor": "45",
       "unit": "155",
       "room_type": "4-room",
-      "price": 777400,
       "status": "taken"
     },
     {
@@ -161,7 +147,6 @@
       "floor": "45",
       "unit": "163",
       "room_type": "4-room",
-      "price": 759600,
       "status": "available"
     },
     {
@@ -170,7 +155,6 @@
       "floor": "44",
       "unit": "153",
       "room_type": "4-room",
-      "price": 775600,
       "status": "available"
     },
     {
@@ -179,7 +163,6 @@
       "floor": "44",
       "unit": "155",
       "room_type": "4-room",
-      "price": 775600,
       "status": "available"
     },
     {
@@ -188,7 +171,6 @@
       "floor": "44",
       "unit": "163",
       "room_type": "4-room",
-      "price": 757800,
       "status": "available"
     },
     {
@@ -197,7 +179,6 @@
       "floor": "43",
       "unit": "153",
       "room_type": "4-room",
-      "price": 773800,
       "status": "available"
     },
     {
@@ -206,7 +187,6 @@
       "floor": "43",
       "unit": "155",
       "room_type": "4-room",
-      "price": 773800,
       "status": "available"
     },
     {
@@ -215,7 +195,6 @@
       "floor": "43",
       "unit": "163",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -224,7 +203,6 @@
       "floor": "42",
       "unit": "153",
       "room_type": "4-room",
-      "price": 772000,
       "status": "available"
     },
     {
@@ -233,7 +211,6 @@
       "floor": "42",
       "unit": "155",
       "room_type": "4-room",
-      "price": 772000,
       "status": "taken"
     },
     {
@@ -242,7 +219,6 @@
       "floor": "42",
       "unit": "163",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -251,7 +227,6 @@
       "floor": "41",
       "unit": "153",
       "room_type": "4-room",
-      "price": 770200,
       "status": "available"
     },
     {
@@ -260,7 +235,6 @@
       "floor": "41",
       "unit": "155",
       "room_type": "4-room",
-      "price": 770200,
       "status": "available"
     },
     {
@@ -269,7 +243,6 @@
       "floor": "41",
       "unit": "163",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -278,7 +251,6 @@
       "floor": "40",
       "unit": "153",
       "room_type": "4-room",
-      "price": 768400,
       "status": "available"
     },
     {
@@ -287,7 +259,6 @@
       "floor": "40",
       "unit": "155",
       "room_type": "4-room",
-      "price": 768400,
       "status": "available"
     },
     {
@@ -296,7 +267,6 @@
       "floor": "40",
       "unit": "163",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -305,7 +275,6 @@
       "floor": "38",
       "unit": "153",
       "room_type": "4-room",
-      "price": 764800,
       "status": "available"
     },
     {
@@ -314,7 +283,6 @@
       "floor": "38",
       "unit": "155",
       "room_type": "4-room",
-      "price": 764800,
       "status": "available"
     },
     {
@@ -323,7 +291,6 @@
       "floor": "38",
       "unit": "163",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -332,7 +299,6 @@
       "floor": "37",
       "unit": "153",
       "room_type": "4-room",
-      "price": 763000,
       "status": "available"
     },
     {
@@ -341,7 +307,6 @@
       "floor": "37",
       "unit": "155",
       "room_type": "4-room",
-      "price": 763000,
       "status": "available"
     },
     {
@@ -350,7 +315,6 @@
       "floor": "37",
       "unit": "163",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -359,7 +323,6 @@
       "floor": "36",
       "unit": "153",
       "room_type": "4-room",
-      "price": 761200,
       "status": "available"
     },
     {
@@ -368,7 +331,6 @@
       "floor": "36",
       "unit": "155",
       "room_type": "4-room",
-      "price": 761200,
       "status": "available"
     },
     {
@@ -377,7 +339,6 @@
       "floor": "36",
       "unit": "163",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -386,7 +347,6 @@
       "floor": "35",
       "unit": "153",
       "room_type": "4-room",
-      "price": 759400,
       "status": "available"
     },
     {
@@ -395,7 +355,6 @@
       "floor": "35",
       "unit": "155",
       "room_type": "4-room",
-      "price": 759400,
       "status": "available"
     },
     {
@@ -404,7 +363,6 @@
       "floor": "35",
       "unit": "163",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -413,7 +371,6 @@
       "floor": "34",
       "unit": "153",
       "room_type": "4-room",
-      "price": 757600,
       "status": "available"
     },
     {
@@ -422,7 +379,6 @@
       "floor": "34",
       "unit": "155",
       "room_type": "4-room",
-      "price": 757600,
       "status": "available"
     },
     {
@@ -431,7 +387,6 @@
       "floor": "34",
       "unit": "163",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -440,7 +395,6 @@
       "floor": "33",
       "unit": "153",
       "room_type": "4-room",
-      "price": 755800,
       "status": "available"
     },
     {
@@ -449,7 +403,6 @@
       "floor": "33",
       "unit": "155",
       "room_type": "4-room",
-      "price": 755800,
       "status": "taken"
     },
     {
@@ -458,7 +411,6 @@
       "floor": "33",
       "unit": "163",
       "room_type": "4-room",
-      "price": 738000,
       "status": "available"
     },
     {
@@ -467,7 +419,6 @@
       "floor": "32",
       "unit": "153",
       "room_type": "4-room",
-      "price": 754000,
       "status": "available"
     },
     {
@@ -476,7 +427,6 @@
       "floor": "32",
       "unit": "155",
       "room_type": "4-room",
-      "price": 754000,
       "status": "available"
     },
     {
@@ -485,7 +435,6 @@
       "floor": "32",
       "unit": "163",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -494,7 +443,6 @@
       "floor": "31",
       "unit": "153",
       "room_type": "4-room",
-      "price": 752200,
       "status": "available"
     },
     {
@@ -503,7 +451,6 @@
       "floor": "31",
       "unit": "155",
       "room_type": "4-room",
-      "price": 752200,
       "status": "available"
     },
     {
@@ -512,7 +459,6 @@
       "floor": "31",
       "unit": "163",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -521,7 +467,6 @@
       "floor": "30",
       "unit": "153",
       "room_type": "4-room",
-      "price": 750400,
       "status": "available"
     },
     {
@@ -530,7 +475,6 @@
       "floor": "30",
       "unit": "155",
       "room_type": "4-room",
-      "price": 750400,
       "status": "available"
     },
     {
@@ -539,7 +483,6 @@
       "floor": "30",
       "unit": "163",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -548,7 +491,6 @@
       "floor": "29",
       "unit": "153",
       "room_type": "4-room",
-      "price": 748600,
       "status": "available"
     },
     {
@@ -557,7 +499,6 @@
       "floor": "29",
       "unit": "155",
       "room_type": "4-room",
-      "price": 748600,
       "status": "available"
     },
     {
@@ -566,7 +507,6 @@
       "floor": "29",
       "unit": "163",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -575,7 +515,6 @@
       "floor": "28",
       "unit": "153",
       "room_type": "4-room",
-      "price": 746800,
       "status": "available"
     },
     {
@@ -584,7 +523,6 @@
       "floor": "28",
       "unit": "155",
       "room_type": "4-room",
-      "price": 746800,
       "status": "taken"
     },
     {
@@ -593,7 +531,6 @@
       "floor": "28",
       "unit": "163",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -602,7 +539,6 @@
       "floor": "27",
       "unit": "153",
       "room_type": "4-room",
-      "price": 745000,
       "status": "available"
     },
     {
@@ -611,7 +547,6 @@
       "floor": "27",
       "unit": "155",
       "room_type": "4-room",
-      "price": 745000,
       "status": "available"
     },
     {
@@ -620,7 +555,6 @@
       "floor": "27",
       "unit": "163",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -629,7 +563,6 @@
       "floor": "26",
       "unit": "153",
       "room_type": "4-room",
-      "price": 743200,
       "status": "available"
     },
     {
@@ -638,7 +571,6 @@
       "floor": "26",
       "unit": "155",
       "room_type": "4-room",
-      "price": 743200,
       "status": "taken"
     },
     {
@@ -647,7 +579,6 @@
       "floor": "26",
       "unit": "163",
       "room_type": "4-room",
-      "price": 725400,
       "status": "available"
     },
     {
@@ -656,7 +587,6 @@
       "floor": "25",
       "unit": "153",
       "room_type": "4-room",
-      "price": 741400,
       "status": "available"
     },
     {
@@ -665,7 +595,6 @@
       "floor": "25",
       "unit": "155",
       "room_type": "4-room",
-      "price": 741400,
       "status": "available"
     },
     {
@@ -674,7 +603,6 @@
       "floor": "25",
       "unit": "163",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -683,7 +611,6 @@
       "floor": "24",
       "unit": "153",
       "room_type": "4-room",
-      "price": 737900,
       "status": "available"
     },
     {
@@ -692,7 +619,6 @@
       "floor": "24",
       "unit": "155",
       "room_type": "4-room",
-      "price": 737900,
       "status": "available"
     },
     {
@@ -701,7 +627,6 @@
       "floor": "24",
       "unit": "163",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -710,7 +635,6 @@
       "floor": "23",
       "unit": "153",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -719,7 +643,6 @@
       "floor": "23",
       "unit": "155",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -728,7 +651,6 @@
       "floor": "23",
       "unit": "163",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -737,7 +659,6 @@
       "floor": "22",
       "unit": "153",
       "room_type": "4-room",
-      "price": 730900,
       "status": "available"
     },
     {
@@ -746,7 +667,6 @@
       "floor": "22",
       "unit": "155",
       "room_type": "4-room",
-      "price": 730900,
       "status": "available"
     },
     {
@@ -755,7 +675,6 @@
       "floor": "22",
       "unit": "163",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -764,7 +683,6 @@
       "floor": "21",
       "unit": "153",
       "room_type": "4-room",
-      "price": 727400,
       "status": "available"
     },
     {
@@ -773,7 +691,6 @@
       "floor": "21",
       "unit": "155",
       "room_type": "4-room",
-      "price": 727400,
       "status": "available"
     },
     {
@@ -782,7 +699,6 @@
       "floor": "21",
       "unit": "163",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -791,7 +707,6 @@
       "floor": "20",
       "unit": "153",
       "room_type": "4-room",
-      "price": 723900,
       "status": "available"
     },
     {
@@ -800,7 +715,6 @@
       "floor": "20",
       "unit": "155",
       "room_type": "4-room",
-      "price": 723900,
       "status": "available"
     },
     {
@@ -809,7 +723,6 @@
       "floor": "20",
       "unit": "163",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -818,7 +731,6 @@
       "floor": "18",
       "unit": "153",
       "room_type": "4-room",
-      "price": 716900,
       "status": "available"
     },
     {
@@ -827,7 +739,6 @@
       "floor": "18",
       "unit": "155",
       "room_type": "4-room",
-      "price": 716900,
       "status": "available"
     },
     {
@@ -836,7 +747,6 @@
       "floor": "18",
       "unit": "163",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -845,7 +755,6 @@
       "floor": "17",
       "unit": "153",
       "room_type": "4-room",
-      "price": 713400,
       "status": "available"
     },
     {
@@ -854,7 +763,6 @@
       "floor": "17",
       "unit": "155",
       "room_type": "4-room",
-      "price": 713400,
       "status": "available"
     },
     {
@@ -863,7 +771,6 @@
       "floor": "17",
       "unit": "163",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -872,7 +779,6 @@
       "floor": "16",
       "unit": "153",
       "room_type": "4-room",
-      "price": 709900,
       "status": "available"
     },
     {
@@ -881,7 +787,6 @@
       "floor": "16",
       "unit": "155",
       "room_type": "4-room",
-      "price": 709900,
       "status": "available"
     },
     {
@@ -890,7 +795,6 @@
       "floor": "16",
       "unit": "163",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -899,7 +803,6 @@
       "floor": "15",
       "unit": "153",
       "room_type": "4-room",
-      "price": 706400,
       "status": "available"
     },
     {
@@ -908,7 +811,6 @@
       "floor": "15",
       "unit": "155",
       "room_type": "4-room",
-      "price": 706400,
       "status": "available"
     },
     {
@@ -917,7 +819,6 @@
       "floor": "15",
       "unit": "163",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -926,7 +827,6 @@
       "floor": "14",
       "unit": "153",
       "room_type": "4-room",
-      "price": 694000,
       "status": "available"
     },
     {
@@ -935,7 +835,6 @@
       "floor": "14",
       "unit": "155",
       "room_type": "4-room",
-      "price": 694000,
       "status": "available"
     },
     {
@@ -944,7 +843,6 @@
       "floor": "14",
       "unit": "163",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -953,7 +851,6 @@
       "floor": "13",
       "unit": "153",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -962,7 +859,6 @@
       "floor": "13",
       "unit": "155",
       "room_type": "4-room",
-      "price": 681600,
       "status": "taken"
     },
     {
@@ -971,7 +867,6 @@
       "floor": "13",
       "unit": "163",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -980,7 +875,6 @@
       "floor": "12",
       "unit": "153",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -989,7 +883,6 @@
       "floor": "12",
       "unit": "155",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -998,7 +891,6 @@
       "floor": "12",
       "unit": "163",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -1007,7 +899,6 @@
       "floor": "11",
       "unit": "153",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -1016,7 +907,6 @@
       "floor": "11",
       "unit": "155",
       "room_type": "4-room",
-      "price": 674600,
       "status": "taken"
     },
     {
@@ -1025,7 +915,6 @@
       "floor": "11",
       "unit": "163",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -1034,7 +923,6 @@
       "floor": "10",
       "unit": "153",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -1043,7 +931,6 @@
       "floor": "10",
       "unit": "155",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -1052,7 +939,6 @@
       "floor": "10",
       "unit": "163",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -1061,7 +947,6 @@
       "floor": "09",
       "unit": "153",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -1070,7 +955,6 @@
       "floor": "09",
       "unit": "155",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -1079,7 +963,6 @@
       "floor": "09",
       "unit": "163",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -1088,7 +971,6 @@
       "floor": "08",
       "unit": "153",
       "room_type": "4-room",
-      "price": 646400,
       "status": "available"
     },
     {
@@ -1097,7 +979,6 @@
       "floor": "08",
       "unit": "155",
       "room_type": "4-room",
-      "price": 646400,
       "status": "available"
     },
     {
@@ -1106,7 +987,6 @@
       "floor": "08",
       "unit": "163",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -1115,7 +995,6 @@
       "floor": "07",
       "unit": "153",
       "room_type": "4-room",
-      "price": 637500,
       "status": "available"
     },
     {
@@ -1124,7 +1003,6 @@
       "floor": "07",
       "unit": "155",
       "room_type": "4-room",
-      "price": 637500,
       "status": "available"
     },
     {
@@ -1133,7 +1011,6 @@
       "floor": "07",
       "unit": "163",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -1142,7 +1019,6 @@
       "floor": "06",
       "unit": "153",
       "room_type": "4-room",
-      "price": 628600,
       "status": "available"
     },
     {
@@ -1151,7 +1027,6 @@
       "floor": "06",
       "unit": "155",
       "room_type": "4-room",
-      "price": 628600,
       "status": "available"
     },
     {
@@ -1160,7 +1035,6 @@
       "floor": "06",
       "unit": "163",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -1169,7 +1043,6 @@
       "floor": "05",
       "unit": "153",
       "room_type": "4-room",
-      "price": 619700,
       "status": "available"
     },
     {
@@ -1178,7 +1051,6 @@
       "floor": "05",
       "unit": "155",
       "room_type": "4-room",
-      "price": 619700,
       "status": "available"
     },
     {
@@ -1187,7 +1059,6 @@
       "floor": "05",
       "unit": "163",
       "room_type": "4-room",
-      "price": 637400,
       "status": "available"
     },
     {
@@ -1196,7 +1067,6 @@
       "floor": "04",
       "unit": "153",
       "room_type": "4-room",
-      "price": 606400,
       "status": "available"
     },
     {
@@ -1205,7 +1075,6 @@
       "floor": "04",
       "unit": "155",
       "room_type": "4-room",
-      "price": 606400,
       "status": "available"
     },
     {
@@ -1214,7 +1083,6 @@
       "floor": "04",
       "unit": "163",
       "room_type": "4-room",
-      "price": 606400,
       "status": "available"
     },
     {
@@ -1223,7 +1091,6 @@
       "floor": "03",
       "unit": "153",
       "room_type": "4-room",
-      "price": 593100,
       "status": "available"
     },
     {
@@ -1232,7 +1099,6 @@
       "floor": "03",
       "unit": "155",
       "room_type": "4-room",
-      "price": 593100,
       "status": "available"
     },
     {
@@ -1241,7 +1107,6 @@
       "floor": "03",
       "unit": "163",
       "room_type": "4-room",
-      "price": 575400,
       "status": "available"
     },
     {
@@ -1250,7 +1115,6 @@
       "floor": "02",
       "unit": "155",
       "room_type": "4-room",
-      "price": 579800,
       "status": "available"
     },
     {
@@ -1259,7 +1123,6 @@
       "floor": "02",
       "unit": "163",
       "room_type": "4-room",
-      "price": 562100,
       "status": "available"
     },
     {
@@ -1268,7 +1131,6 @@
       "floor": "49",
       "unit": "169",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -1277,7 +1139,6 @@
       "floor": "49",
       "unit": "171",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -1286,7 +1147,6 @@
       "floor": "49",
       "unit": "173",
       "room_type": "4-room",
-      "price": 782800,
       "status": "taken"
     },
     {
@@ -1295,7 +1155,6 @@
       "floor": "49",
       "unit": "175",
       "room_type": "4-room",
-      "price": 782800,
       "status": "available"
     },
     {
@@ -1304,7 +1163,6 @@
       "floor": "49",
       "unit": "179",
       "room_type": "4-room",
-      "price": 782800,
       "status": "available"
     },
     {
@@ -1313,7 +1171,6 @@
       "floor": "48",
       "unit": "169",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -1322,7 +1179,6 @@
       "floor": "48",
       "unit": "171",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -1331,7 +1187,6 @@
       "floor": "48",
       "unit": "173",
       "room_type": "4-room",
-      "price": 782800,
       "status": "available"
     },
     {
@@ -1340,7 +1195,6 @@
       "floor": "48",
       "unit": "175",
       "room_type": "4-room",
-      "price": 782800,
       "status": "available"
     },
     {
@@ -1349,7 +1203,6 @@
       "floor": "48",
       "unit": "179",
       "room_type": "4-room",
-      "price": 782800,
       "status": "available"
     },
     {
@@ -1358,7 +1211,6 @@
       "floor": "47",
       "unit": "169",
       "room_type": "4-room",
-      "price": 763200,
       "status": "available"
     },
     {
@@ -1367,7 +1219,6 @@
       "floor": "47",
       "unit": "171",
       "room_type": "4-room",
-      "price": 763200,
       "status": "available"
     },
     {
@@ -1376,7 +1227,6 @@
       "floor": "47",
       "unit": "173",
       "room_type": "4-room",
-      "price": 781000,
       "status": "available"
     },
     {
@@ -1385,7 +1235,6 @@
       "floor": "47",
       "unit": "175",
       "room_type": "4-room",
-      "price": 781000,
       "status": "available"
     },
     {
@@ -1394,7 +1243,6 @@
       "floor": "47",
       "unit": "179",
       "room_type": "4-room",
-      "price": 781000,
       "status": "available"
     },
     {
@@ -1403,7 +1251,6 @@
       "floor": "46",
       "unit": "169",
       "room_type": "4-room",
-      "price": 761400,
       "status": "available"
     },
     {
@@ -1412,7 +1259,6 @@
       "floor": "46",
       "unit": "171",
       "room_type": "4-room",
-      "price": 761400,
       "status": "available"
     },
     {
@@ -1421,7 +1267,6 @@
       "floor": "46",
       "unit": "173",
       "room_type": "4-room",
-      "price": 779200,
       "status": "available"
     },
     {
@@ -1430,7 +1275,6 @@
       "floor": "46",
       "unit": "175",
       "room_type": "4-room",
-      "price": 779200,
       "status": "available"
     },
     {
@@ -1439,7 +1283,6 @@
       "floor": "46",
       "unit": "179",
       "room_type": "4-room",
-      "price": 779200,
       "status": "available"
     },
     {
@@ -1448,7 +1291,6 @@
       "floor": "45",
       "unit": "169",
       "room_type": "4-room",
-      "price": 759600,
       "status": "available"
     },
     {
@@ -1457,7 +1299,6 @@
       "floor": "45",
       "unit": "171",
       "room_type": "4-room",
-      "price": 759600,
       "status": "available"
     },
     {
@@ -1466,7 +1307,6 @@
       "floor": "45",
       "unit": "173",
       "room_type": "4-room",
-      "price": 777400,
       "status": "available"
     },
     {
@@ -1475,7 +1315,6 @@
       "floor": "45",
       "unit": "175",
       "room_type": "4-room",
-      "price": 777400,
       "status": "available"
     },
     {
@@ -1484,7 +1323,6 @@
       "floor": "45",
       "unit": "179",
       "room_type": "4-room",
-      "price": 777400,
       "status": "available"
     },
     {
@@ -1493,7 +1331,6 @@
       "floor": "44",
       "unit": "169",
       "room_type": "4-room",
-      "price": 757800,
       "status": "available"
     },
     {
@@ -1502,7 +1339,6 @@
       "floor": "44",
       "unit": "171",
       "room_type": "4-room",
-      "price": 757800,
       "status": "available"
     },
     {
@@ -1511,7 +1347,6 @@
       "floor": "44",
       "unit": "173",
       "room_type": "4-room",
-      "price": 766700,
       "status": "available"
     },
     {
@@ -1520,7 +1355,6 @@
       "floor": "44",
       "unit": "175",
       "room_type": "4-room",
-      "price": 766700,
       "status": "available"
     },
     {
@@ -1529,7 +1363,6 @@
       "floor": "44",
       "unit": "179",
       "room_type": "4-room",
-      "price": 766700,
       "status": "available"
     },
     {
@@ -1538,7 +1371,6 @@
       "floor": "43",
       "unit": "169",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -1547,7 +1379,6 @@
       "floor": "43",
       "unit": "171",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -1556,7 +1387,6 @@
       "floor": "43",
       "unit": "173",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -1565,7 +1395,6 @@
       "floor": "43",
       "unit": "175",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -1574,7 +1403,6 @@
       "floor": "43",
       "unit": "179",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -1583,7 +1411,6 @@
       "floor": "42",
       "unit": "169",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -1592,7 +1419,6 @@
       "floor": "42",
       "unit": "171",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -1601,7 +1427,6 @@
       "floor": "42",
       "unit": "173",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -1610,7 +1435,6 @@
       "floor": "42",
       "unit": "175",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -1619,7 +1443,6 @@
       "floor": "42",
       "unit": "179",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -1628,7 +1451,6 @@
       "floor": "41",
       "unit": "169",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -1637,7 +1459,6 @@
       "floor": "41",
       "unit": "171",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -1646,7 +1467,6 @@
       "floor": "41",
       "unit": "173",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -1655,7 +1475,6 @@
       "floor": "41",
       "unit": "175",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -1664,7 +1483,6 @@
       "floor": "41",
       "unit": "179",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -1673,7 +1491,6 @@
       "floor": "40",
       "unit": "169",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -1682,7 +1499,6 @@
       "floor": "40",
       "unit": "171",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -1691,7 +1507,6 @@
       "floor": "40",
       "unit": "173",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -1700,7 +1515,6 @@
       "floor": "40",
       "unit": "175",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -1709,7 +1523,6 @@
       "floor": "40",
       "unit": "179",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -1718,7 +1531,6 @@
       "floor": "38",
       "unit": "169",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -1727,7 +1539,6 @@
       "floor": "38",
       "unit": "171",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -1736,7 +1547,6 @@
       "floor": "38",
       "unit": "173",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -1745,7 +1555,6 @@
       "floor": "38",
       "unit": "175",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -1754,7 +1563,6 @@
       "floor": "38",
       "unit": "179",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -1763,7 +1571,6 @@
       "floor": "37",
       "unit": "169",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -1772,7 +1579,6 @@
       "floor": "37",
       "unit": "171",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -1781,7 +1587,6 @@
       "floor": "37",
       "unit": "173",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -1790,7 +1595,6 @@
       "floor": "37",
       "unit": "175",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -1799,7 +1603,6 @@
       "floor": "37",
       "unit": "179",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -1808,7 +1611,6 @@
       "floor": "36",
       "unit": "169",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -1817,7 +1619,6 @@
       "floor": "36",
       "unit": "171",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -1826,7 +1627,6 @@
       "floor": "36",
       "unit": "173",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -1835,7 +1635,6 @@
       "floor": "36",
       "unit": "175",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -1844,7 +1643,6 @@
       "floor": "36",
       "unit": "179",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -1853,7 +1651,6 @@
       "floor": "35",
       "unit": "169",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -1862,7 +1659,6 @@
       "floor": "35",
       "unit": "171",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -1871,7 +1667,6 @@
       "floor": "35",
       "unit": "173",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -1880,7 +1675,6 @@
       "floor": "35",
       "unit": "175",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -1889,7 +1683,6 @@
       "floor": "35",
       "unit": "179",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -1898,7 +1691,6 @@
       "floor": "34",
       "unit": "169",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -1907,7 +1699,6 @@
       "floor": "34",
       "unit": "171",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -1916,7 +1707,6 @@
       "floor": "34",
       "unit": "173",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -1925,7 +1715,6 @@
       "floor": "34",
       "unit": "175",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -1934,7 +1723,6 @@
       "floor": "34",
       "unit": "179",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -1943,7 +1731,6 @@
       "floor": "33",
       "unit": "169",
       "room_type": "4-room",
-      "price": 738000,
       "status": "available"
     },
     {
@@ -1952,7 +1739,6 @@
       "floor": "33",
       "unit": "171",
       "room_type": "4-room",
-      "price": 738000,
       "status": "taken"
     },
     {
@@ -1961,7 +1747,6 @@
       "floor": "33",
       "unit": "173",
       "room_type": "4-room",
-      "price": 738000,
       "status": "available"
     },
     {
@@ -1970,7 +1755,6 @@
       "floor": "33",
       "unit": "175",
       "room_type": "4-room",
-      "price": 738000,
       "status": "available"
     },
     {
@@ -1979,7 +1763,6 @@
       "floor": "33",
       "unit": "179",
       "room_type": "4-room",
-      "price": 738000,
       "status": "available"
     },
     {
@@ -1988,7 +1771,6 @@
       "floor": "32",
       "unit": "169",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -1997,7 +1779,6 @@
       "floor": "32",
       "unit": "171",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -2006,7 +1787,6 @@
       "floor": "32",
       "unit": "173",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -2015,7 +1795,6 @@
       "floor": "32",
       "unit": "175",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -2024,7 +1803,6 @@
       "floor": "32",
       "unit": "179",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -2033,7 +1811,6 @@
       "floor": "31",
       "unit": "169",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -2042,7 +1819,6 @@
       "floor": "31",
       "unit": "171",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -2051,7 +1827,6 @@
       "floor": "31",
       "unit": "173",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -2060,7 +1835,6 @@
       "floor": "31",
       "unit": "175",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -2069,7 +1843,6 @@
       "floor": "31",
       "unit": "179",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -2078,7 +1851,6 @@
       "floor": "30",
       "unit": "169",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -2087,7 +1859,6 @@
       "floor": "30",
       "unit": "171",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -2096,7 +1867,6 @@
       "floor": "30",
       "unit": "173",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -2105,7 +1875,6 @@
       "floor": "30",
       "unit": "175",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -2114,7 +1883,6 @@
       "floor": "30",
       "unit": "179",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -2123,7 +1891,6 @@
       "floor": "29",
       "unit": "169",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -2132,7 +1899,6 @@
       "floor": "29",
       "unit": "171",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -2141,7 +1907,6 @@
       "floor": "29",
       "unit": "173",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -2150,7 +1915,6 @@
       "floor": "29",
       "unit": "175",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -2159,7 +1923,6 @@
       "floor": "29",
       "unit": "179",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -2168,7 +1931,6 @@
       "floor": "28",
       "unit": "169",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -2177,7 +1939,6 @@
       "floor": "28",
       "unit": "171",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -2186,7 +1947,6 @@
       "floor": "28",
       "unit": "173",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -2195,7 +1955,6 @@
       "floor": "28",
       "unit": "175",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -2204,7 +1963,6 @@
       "floor": "28",
       "unit": "179",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -2213,7 +1971,6 @@
       "floor": "27",
       "unit": "169",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -2222,7 +1979,6 @@
       "floor": "27",
       "unit": "171",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -2231,7 +1987,6 @@
       "floor": "27",
       "unit": "173",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -2240,7 +1995,6 @@
       "floor": "27",
       "unit": "175",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -2249,7 +2003,6 @@
       "floor": "27",
       "unit": "179",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -2258,7 +2011,6 @@
       "floor": "26",
       "unit": "169",
       "room_type": "4-room",
-      "price": 725400,
       "status": "available"
     },
     {
@@ -2267,7 +2019,6 @@
       "floor": "26",
       "unit": "171",
       "room_type": "4-room",
-      "price": 725400,
       "status": "available"
     },
     {
@@ -2276,7 +2027,6 @@
       "floor": "26",
       "unit": "173",
       "room_type": "4-room",
-      "price": 725400,
       "status": "available"
     },
     {
@@ -2285,7 +2035,6 @@
       "floor": "26",
       "unit": "175",
       "room_type": "4-room",
-      "price": 725400,
       "status": "available"
     },
     {
@@ -2294,7 +2043,6 @@
       "floor": "26",
       "unit": "179",
       "room_type": "4-room",
-      "price": 725400,
       "status": "available"
     },
     {
@@ -2303,7 +2051,6 @@
       "floor": "25",
       "unit": "169",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -2312,7 +2059,6 @@
       "floor": "25",
       "unit": "171",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -2321,7 +2067,6 @@
       "floor": "25",
       "unit": "173",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -2330,7 +2075,6 @@
       "floor": "25",
       "unit": "175",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -2339,7 +2083,6 @@
       "floor": "25",
       "unit": "179",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -2348,7 +2091,6 @@
       "floor": "24",
       "unit": "169",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -2357,7 +2099,6 @@
       "floor": "24",
       "unit": "171",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -2366,7 +2107,6 @@
       "floor": "24",
       "unit": "173",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -2375,7 +2115,6 @@
       "floor": "24",
       "unit": "175",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -2384,7 +2123,6 @@
       "floor": "24",
       "unit": "179",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -2393,7 +2131,6 @@
       "floor": "23",
       "unit": "169",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -2402,7 +2139,6 @@
       "floor": "23",
       "unit": "171",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -2411,7 +2147,6 @@
       "floor": "23",
       "unit": "173",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -2420,7 +2155,6 @@
       "floor": "23",
       "unit": "175",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -2429,7 +2163,6 @@
       "floor": "23",
       "unit": "179",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -2438,7 +2171,6 @@
       "floor": "22",
       "unit": "169",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -2447,7 +2179,6 @@
       "floor": "22",
       "unit": "171",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -2456,7 +2187,6 @@
       "floor": "22",
       "unit": "173",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -2465,7 +2195,6 @@
       "floor": "22",
       "unit": "175",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -2474,7 +2203,6 @@
       "floor": "22",
       "unit": "179",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -2483,7 +2211,6 @@
       "floor": "21",
       "unit": "169",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -2492,7 +2219,6 @@
       "floor": "21",
       "unit": "171",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -2501,7 +2227,6 @@
       "floor": "21",
       "unit": "173",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -2510,7 +2235,6 @@
       "floor": "21",
       "unit": "175",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -2519,7 +2243,6 @@
       "floor": "21",
       "unit": "179",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -2528,7 +2251,6 @@
       "floor": "20",
       "unit": "169",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -2537,7 +2259,6 @@
       "floor": "20",
       "unit": "171",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -2546,7 +2267,6 @@
       "floor": "20",
       "unit": "173",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -2555,7 +2275,6 @@
       "floor": "20",
       "unit": "175",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -2564,7 +2283,6 @@
       "floor": "20",
       "unit": "179",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -2573,7 +2291,6 @@
       "floor": "18",
       "unit": "169",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -2582,7 +2299,6 @@
       "floor": "18",
       "unit": "171",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -2591,7 +2307,6 @@
       "floor": "18",
       "unit": "173",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -2600,7 +2315,6 @@
       "floor": "18",
       "unit": "175",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -2609,7 +2323,6 @@
       "floor": "18",
       "unit": "179",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -2618,7 +2331,6 @@
       "floor": "17",
       "unit": "169",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -2627,7 +2339,6 @@
       "floor": "17",
       "unit": "171",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -2636,7 +2347,6 @@
       "floor": "17",
       "unit": "173",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -2645,7 +2355,6 @@
       "floor": "17",
       "unit": "175",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -2654,7 +2363,6 @@
       "floor": "17",
       "unit": "179",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -2663,7 +2371,6 @@
       "floor": "16",
       "unit": "169",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -2672,7 +2379,6 @@
       "floor": "16",
       "unit": "171",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -2681,7 +2387,6 @@
       "floor": "16",
       "unit": "173",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -2690,7 +2395,6 @@
       "floor": "16",
       "unit": "175",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -2699,7 +2403,6 @@
       "floor": "16",
       "unit": "179",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -2708,7 +2411,6 @@
       "floor": "15",
       "unit": "169",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -2717,7 +2419,6 @@
       "floor": "15",
       "unit": "171",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -2726,7 +2427,6 @@
       "floor": "15",
       "unit": "173",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -2735,7 +2435,6 @@
       "floor": "15",
       "unit": "175",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -2744,7 +2443,6 @@
       "floor": "15",
       "unit": "179",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -2753,7 +2451,6 @@
       "floor": "14",
       "unit": "169",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -2762,7 +2459,6 @@
       "floor": "14",
       "unit": "171",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -2771,7 +2467,6 @@
       "floor": "14",
       "unit": "173",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -2780,7 +2475,6 @@
       "floor": "14",
       "unit": "175",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -2789,7 +2483,6 @@
       "floor": "14",
       "unit": "179",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -2798,7 +2491,6 @@
       "floor": "13",
       "unit": "169",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -2807,7 +2499,6 @@
       "floor": "13",
       "unit": "171",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -2816,7 +2507,6 @@
       "floor": "13",
       "unit": "173",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -2825,7 +2515,6 @@
       "floor": "13",
       "unit": "175",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -2834,7 +2523,6 @@
       "floor": "13",
       "unit": "179",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -2843,7 +2531,6 @@
       "floor": "12",
       "unit": "169",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -2852,7 +2539,6 @@
       "floor": "12",
       "unit": "171",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -2861,7 +2547,6 @@
       "floor": "12",
       "unit": "173",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -2870,7 +2555,6 @@
       "floor": "12",
       "unit": "175",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -2879,7 +2563,6 @@
       "floor": "12",
       "unit": "179",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -2888,7 +2571,6 @@
       "floor": "11",
       "unit": "169",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -2897,7 +2579,6 @@
       "floor": "11",
       "unit": "171",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -2906,7 +2587,6 @@
       "floor": "11",
       "unit": "173",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -2915,7 +2595,6 @@
       "floor": "11",
       "unit": "175",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -2924,7 +2603,6 @@
       "floor": "11",
       "unit": "179",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -2933,7 +2611,6 @@
       "floor": "10",
       "unit": "169",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -2942,7 +2619,6 @@
       "floor": "10",
       "unit": "171",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -2951,7 +2627,6 @@
       "floor": "10",
       "unit": "173",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -2960,7 +2635,6 @@
       "floor": "10",
       "unit": "175",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -2969,7 +2643,6 @@
       "floor": "10",
       "unit": "179",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -2978,7 +2651,6 @@
       "floor": "09",
       "unit": "169",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -2987,7 +2659,6 @@
       "floor": "09",
       "unit": "171",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -2996,7 +2667,6 @@
       "floor": "09",
       "unit": "173",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -3005,7 +2675,6 @@
       "floor": "09",
       "unit": "175",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -3014,7 +2683,6 @@
       "floor": "09",
       "unit": "179",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -3023,7 +2691,6 @@
       "floor": "08",
       "unit": "169",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -3032,7 +2699,6 @@
       "floor": "08",
       "unit": "171",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -3041,7 +2707,6 @@
       "floor": "08",
       "unit": "173",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -3050,7 +2715,6 @@
       "floor": "08",
       "unit": "175",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -3059,7 +2723,6 @@
       "floor": "08",
       "unit": "179",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -3068,7 +2731,6 @@
       "floor": "07",
       "unit": "169",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -3077,7 +2739,6 @@
       "floor": "07",
       "unit": "171",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -3086,7 +2747,6 @@
       "floor": "07",
       "unit": "173",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -3095,7 +2755,6 @@
       "floor": "07",
       "unit": "175",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -3104,7 +2763,6 @@
       "floor": "07",
       "unit": "179",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -3113,7 +2771,6 @@
       "floor": "06",
       "unit": "169",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -3122,7 +2779,6 @@
       "floor": "06",
       "unit": "171",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -3131,7 +2787,6 @@
       "floor": "06",
       "unit": "173",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -3140,7 +2795,6 @@
       "floor": "06",
       "unit": "175",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -3149,7 +2803,6 @@
       "floor": "06",
       "unit": "179",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -3158,7 +2811,6 @@
       "floor": "05",
       "unit": "169",
       "room_type": "4-room",
-      "price": 637400,
       "status": "available"
     },
     {
@@ -3167,7 +2819,6 @@
       "floor": "05",
       "unit": "171",
       "room_type": "4-room",
-      "price": 637400,
       "status": "available"
     },
     {
@@ -3176,7 +2827,6 @@
       "floor": "05",
       "unit": "173",
       "room_type": "4-room",
-      "price": 637400,
       "status": "available"
     },
     {
@@ -3185,7 +2835,6 @@
       "floor": "05",
       "unit": "175",
       "room_type": "4-room",
-      "price": 637400,
       "status": "available"
     },
     {
@@ -3194,7 +2843,6 @@
       "floor": "05",
       "unit": "179",
       "room_type": "4-room",
-      "price": 637400,
       "status": "available"
     },
     {
@@ -3203,7 +2851,6 @@
       "floor": "04",
       "unit": "169",
       "room_type": "4-room",
-      "price": 624100,
       "status": "available"
     },
     {
@@ -3212,7 +2859,6 @@
       "floor": "04",
       "unit": "171",
       "room_type": "4-room",
-      "price": 624100,
       "status": "available"
     },
     {
@@ -3221,7 +2867,6 @@
       "floor": "04",
       "unit": "173",
       "room_type": "4-room",
-      "price": 624100,
       "status": "available"
     },
     {
@@ -3230,7 +2875,6 @@
       "floor": "04",
       "unit": "175",
       "room_type": "4-room",
-      "price": 624100,
       "status": "available"
     },
     {
@@ -3239,7 +2883,6 @@
       "floor": "04",
       "unit": "179",
       "room_type": "4-room",
-      "price": 615300,
       "status": "available"
     },
     {
@@ -3248,7 +2891,6 @@
       "floor": "03",
       "unit": "169",
       "room_type": "4-room",
-      "price": 610800,
       "status": "available"
     },
     {
@@ -3257,7 +2899,6 @@
       "floor": "03",
       "unit": "171",
       "room_type": "4-room",
-      "price": 610800,
       "status": "available"
     },
     {
@@ -3266,7 +2907,6 @@
       "floor": "03",
       "unit": "173",
       "room_type": "4-room",
-      "price": 610800,
       "status": "available"
     },
     {
@@ -3275,7 +2915,6 @@
       "floor": "03",
       "unit": "175",
       "room_type": "4-room",
-      "price": 610800,
       "status": "available"
     },
     {
@@ -3284,7 +2923,6 @@
       "floor": "03",
       "unit": "179",
       "room_type": "4-room",
-      "price": 593100,
       "status": "available"
     },
     {
@@ -3293,7 +2931,6 @@
       "floor": "02",
       "unit": "169",
       "room_type": "4-room",
-      "price": 579800,
       "status": "available"
     },
     {
@@ -3302,7 +2939,6 @@
       "floor": "02",
       "unit": "171",
       "room_type": "4-room",
-      "price": 579800,
       "status": "available"
     },
     {
@@ -3311,7 +2947,6 @@
       "floor": "02",
       "unit": "179",
       "room_type": "4-room",
-      "price": 579800,
       "status": "available"
     },
     {
@@ -3320,7 +2955,6 @@
       "floor": "49",
       "unit": "185",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -3329,7 +2963,6 @@
       "floor": "49",
       "unit": "187",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -3338,7 +2971,6 @@
       "floor": "49",
       "unit": "189",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -3347,7 +2979,6 @@
       "floor": "49",
       "unit": "191",
       "room_type": "4-room",
-      "price": 773900,
       "status": "available"
     },
     {
@@ -3356,7 +2987,6 @@
       "floor": "49",
       "unit": "195",
       "room_type": "4-room",
-      "price": 773900,
       "status": "available"
     },
     {
@@ -3365,7 +2995,6 @@
       "floor": "48",
       "unit": "185",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -3374,7 +3003,6 @@
       "floor": "48",
       "unit": "187",
       "room_type": "4-room",
-      "price": 765000,
       "status": "taken"
     },
     {
@@ -3383,7 +3011,6 @@
       "floor": "48",
       "unit": "189",
       "room_type": "4-room",
-      "price": 765000,
       "status": "available"
     },
     {
@@ -3392,7 +3019,6 @@
       "floor": "48",
       "unit": "191",
       "room_type": "4-room",
-      "price": 773900,
       "status": "available"
     },
     {
@@ -3401,7 +3027,6 @@
       "floor": "48",
       "unit": "195",
       "room_type": "4-room",
-      "price": 773900,
       "status": "available"
     },
     {
@@ -3410,7 +3035,6 @@
       "floor": "47",
       "unit": "185",
       "room_type": "4-room",
-      "price": 763200,
       "status": "available"
     },
     {
@@ -3419,7 +3043,6 @@
       "floor": "47",
       "unit": "187",
       "room_type": "4-room",
-      "price": 763200,
       "status": "taken"
     },
     {
@@ -3428,7 +3051,6 @@
       "floor": "47",
       "unit": "189",
       "room_type": "4-room",
-      "price": 763200,
       "status": "available"
     },
     {
@@ -3437,7 +3059,6 @@
       "floor": "47",
       "unit": "191",
       "room_type": "4-room",
-      "price": 772100,
       "status": "available"
     },
     {
@@ -3446,7 +3067,6 @@
       "floor": "47",
       "unit": "195",
       "room_type": "4-room",
-      "price": 772100,
       "status": "available"
     },
     {
@@ -3455,7 +3075,6 @@
       "floor": "46",
       "unit": "185",
       "room_type": "4-room",
-      "price": 761400,
       "status": "available"
     },
     {
@@ -3464,7 +3083,6 @@
       "floor": "46",
       "unit": "187",
       "room_type": "4-room",
-      "price": 761400,
       "status": "available"
     },
     {
@@ -3473,7 +3091,6 @@
       "floor": "46",
       "unit": "189",
       "room_type": "4-room",
-      "price": 761400,
       "status": "available"
     },
     {
@@ -3482,7 +3099,6 @@
       "floor": "46",
       "unit": "191",
       "room_type": "4-room",
-      "price": 770300,
       "status": "available"
     },
     {
@@ -3491,7 +3107,6 @@
       "floor": "46",
       "unit": "195",
       "room_type": "4-room",
-      "price": 770300,
       "status": "available"
     },
     {
@@ -3500,7 +3115,6 @@
       "floor": "45",
       "unit": "185",
       "room_type": "4-room",
-      "price": 759600,
       "status": "available"
     },
     {
@@ -3509,7 +3123,6 @@
       "floor": "45",
       "unit": "187",
       "room_type": "4-room",
-      "price": 759600,
       "status": "taken"
     },
     {
@@ -3518,7 +3131,6 @@
       "floor": "45",
       "unit": "189",
       "room_type": "4-room",
-      "price": 759600,
       "status": "available"
     },
     {
@@ -3527,7 +3139,6 @@
       "floor": "45",
       "unit": "191",
       "room_type": "4-room",
-      "price": 768500,
       "status": "available"
     },
     {
@@ -3536,7 +3147,6 @@
       "floor": "45",
       "unit": "195",
       "room_type": "4-room",
-      "price": 768500,
       "status": "available"
     },
     {
@@ -3545,7 +3155,6 @@
       "floor": "44",
       "unit": "185",
       "room_type": "4-room",
-      "price": 757800,
       "status": "available"
     },
     {
@@ -3554,7 +3163,6 @@
       "floor": "44",
       "unit": "187",
       "room_type": "4-room",
-      "price": 757800,
       "status": "available"
     },
     {
@@ -3563,7 +3171,6 @@
       "floor": "44",
       "unit": "189",
       "room_type": "4-room",
-      "price": 757800,
       "status": "available"
     },
     {
@@ -3572,7 +3179,6 @@
       "floor": "44",
       "unit": "191",
       "room_type": "4-room",
-      "price": 766700,
       "status": "available"
     },
     {
@@ -3581,7 +3187,6 @@
       "floor": "44",
       "unit": "195",
       "room_type": "4-room",
-      "price": 766700,
       "status": "available"
     },
     {
@@ -3590,7 +3195,6 @@
       "floor": "43",
       "unit": "185",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -3599,7 +3203,6 @@
       "floor": "43",
       "unit": "187",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -3608,7 +3211,6 @@
       "floor": "43",
       "unit": "189",
       "room_type": "4-room",
-      "price": 756000,
       "status": "available"
     },
     {
@@ -3617,7 +3219,6 @@
       "floor": "43",
       "unit": "191",
       "room_type": "4-room",
-      "price": 764900,
       "status": "available"
     },
     {
@@ -3626,7 +3227,6 @@
       "floor": "43",
       "unit": "195",
       "room_type": "4-room",
-      "price": 764900,
       "status": "available"
     },
     {
@@ -3635,7 +3235,6 @@
       "floor": "42",
       "unit": "185",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -3644,7 +3243,6 @@
       "floor": "42",
       "unit": "187",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -3653,7 +3251,6 @@
       "floor": "42",
       "unit": "189",
       "room_type": "4-room",
-      "price": 754200,
       "status": "available"
     },
     {
@@ -3662,7 +3259,6 @@
       "floor": "42",
       "unit": "191",
       "room_type": "4-room",
-      "price": 763100,
       "status": "available"
     },
     {
@@ -3671,7 +3267,6 @@
       "floor": "42",
       "unit": "195",
       "room_type": "4-room",
-      "price": 763100,
       "status": "available"
     },
     {
@@ -3680,7 +3275,6 @@
       "floor": "41",
       "unit": "185",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -3689,7 +3283,6 @@
       "floor": "41",
       "unit": "187",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -3698,7 +3291,6 @@
       "floor": "41",
       "unit": "189",
       "room_type": "4-room",
-      "price": 752400,
       "status": "available"
     },
     {
@@ -3707,7 +3299,6 @@
       "floor": "41",
       "unit": "191",
       "room_type": "4-room",
-      "price": 761300,
       "status": "available"
     },
     {
@@ -3716,7 +3307,6 @@
       "floor": "41",
       "unit": "195",
       "room_type": "4-room",
-      "price": 761300,
       "status": "available"
     },
     {
@@ -3725,7 +3315,6 @@
       "floor": "40",
       "unit": "185",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -3734,7 +3323,6 @@
       "floor": "40",
       "unit": "187",
       "room_type": "4-room",
-      "price": 750600,
       "status": "taken"
     },
     {
@@ -3743,7 +3331,6 @@
       "floor": "40",
       "unit": "189",
       "room_type": "4-room",
-      "price": 750600,
       "status": "available"
     },
     {
@@ -3752,7 +3339,6 @@
       "floor": "40",
       "unit": "191",
       "room_type": "4-room",
-      "price": 759500,
       "status": "available"
     },
     {
@@ -3761,7 +3347,6 @@
       "floor": "40",
       "unit": "195",
       "room_type": "4-room",
-      "price": 759500,
       "status": "available"
     },
     {
@@ -3770,7 +3355,6 @@
       "floor": "38",
       "unit": "185",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -3779,7 +3363,6 @@
       "floor": "38",
       "unit": "187",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -3788,7 +3371,6 @@
       "floor": "38",
       "unit": "189",
       "room_type": "4-room",
-      "price": 747000,
       "status": "available"
     },
     {
@@ -3797,7 +3379,6 @@
       "floor": "38",
       "unit": "191",
       "room_type": "4-room",
-      "price": 755900,
       "status": "available"
     },
     {
@@ -3806,7 +3387,6 @@
       "floor": "38",
       "unit": "195",
       "room_type": "4-room",
-      "price": 755900,
       "status": "available"
     },
     {
@@ -3815,7 +3395,6 @@
       "floor": "37",
       "unit": "185",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -3824,7 +3403,6 @@
       "floor": "37",
       "unit": "187",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -3833,7 +3411,6 @@
       "floor": "37",
       "unit": "189",
       "room_type": "4-room",
-      "price": 745200,
       "status": "available"
     },
     {
@@ -3842,7 +3419,6 @@
       "floor": "37",
       "unit": "191",
       "room_type": "4-room",
-      "price": 754100,
       "status": "available"
     },
     {
@@ -3851,7 +3427,6 @@
       "floor": "37",
       "unit": "195",
       "room_type": "4-room",
-      "price": 754100,
       "status": "available"
     },
     {
@@ -3860,7 +3435,6 @@
       "floor": "36",
       "unit": "185",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -3869,7 +3443,6 @@
       "floor": "36",
       "unit": "187",
       "room_type": "4-room",
-      "price": 743400,
       "status": "taken"
     },
     {
@@ -3878,7 +3451,6 @@
       "floor": "36",
       "unit": "189",
       "room_type": "4-room",
-      "price": 743400,
       "status": "available"
     },
     {
@@ -3887,7 +3459,6 @@
       "floor": "36",
       "unit": "191",
       "room_type": "4-room",
-      "price": 752300,
       "status": "available"
     },
     {
@@ -3896,7 +3467,6 @@
       "floor": "36",
       "unit": "195",
       "room_type": "4-room",
-      "price": 752300,
       "status": "available"
     },
     {
@@ -3905,7 +3475,6 @@
       "floor": "35",
       "unit": "185",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -3914,7 +3483,6 @@
       "floor": "35",
       "unit": "187",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -3923,7 +3491,6 @@
       "floor": "35",
       "unit": "189",
       "room_type": "4-room",
-      "price": 741600,
       "status": "available"
     },
     {
@@ -3932,7 +3499,6 @@
       "floor": "35",
       "unit": "191",
       "room_type": "4-room",
-      "price": 750500,
       "status": "available"
     },
     {
@@ -3941,7 +3507,6 @@
       "floor": "35",
       "unit": "195",
       "room_type": "4-room",
-      "price": 750500,
       "status": "available"
     },
     {
@@ -3950,7 +3515,6 @@
       "floor": "34",
       "unit": "185",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -3959,7 +3523,6 @@
       "floor": "34",
       "unit": "187",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -3968,7 +3531,6 @@
       "floor": "34",
       "unit": "189",
       "room_type": "4-room",
-      "price": 739800,
       "status": "available"
     },
     {
@@ -3977,7 +3539,6 @@
       "floor": "34",
       "unit": "191",
       "room_type": "4-room",
-      "price": 748700,
       "status": "available"
     },
     {
@@ -3986,7 +3547,6 @@
       "floor": "34",
       "unit": "195",
       "room_type": "4-room",
-      "price": 748700,
       "status": "available"
     },
     {
@@ -3995,7 +3555,6 @@
       "floor": "33",
       "unit": "185",
       "room_type": "4-room",
-      "price": 738000,
       "status": "available"
     },
     {
@@ -4004,7 +3563,6 @@
       "floor": "33",
       "unit": "187",
       "room_type": "4-room",
-      "price": 738000,
       "status": "taken"
     },
     {
@@ -4013,7 +3571,6 @@
       "floor": "33",
       "unit": "189",
       "room_type": "4-room",
-      "price": 738000,
       "status": "available"
     },
     {
@@ -4022,7 +3579,6 @@
       "floor": "33",
       "unit": "191",
       "room_type": "4-room",
-      "price": 746900,
       "status": "available"
     },
     {
@@ -4031,7 +3587,6 @@
       "floor": "33",
       "unit": "195",
       "room_type": "4-room",
-      "price": 746900,
       "status": "available"
     },
     {
@@ -4040,7 +3595,6 @@
       "floor": "32",
       "unit": "185",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -4049,7 +3603,6 @@
       "floor": "32",
       "unit": "187",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -4058,7 +3611,6 @@
       "floor": "32",
       "unit": "189",
       "room_type": "4-room",
-      "price": 736200,
       "status": "available"
     },
     {
@@ -4067,7 +3619,6 @@
       "floor": "32",
       "unit": "191",
       "room_type": "4-room",
-      "price": 745100,
       "status": "available"
     },
     {
@@ -4076,7 +3627,6 @@
       "floor": "32",
       "unit": "195",
       "room_type": "4-room",
-      "price": 745100,
       "status": "available"
     },
     {
@@ -4085,7 +3635,6 @@
       "floor": "31",
       "unit": "185",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -4094,7 +3643,6 @@
       "floor": "31",
       "unit": "187",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -4103,7 +3651,6 @@
       "floor": "31",
       "unit": "189",
       "room_type": "4-room",
-      "price": 734400,
       "status": "available"
     },
     {
@@ -4112,7 +3659,6 @@
       "floor": "31",
       "unit": "191",
       "room_type": "4-room",
-      "price": 743300,
       "status": "available"
     },
     {
@@ -4121,7 +3667,6 @@
       "floor": "31",
       "unit": "195",
       "room_type": "4-room",
-      "price": 743300,
       "status": "available"
     },
     {
@@ -4130,7 +3675,6 @@
       "floor": "30",
       "unit": "185",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -4139,7 +3683,6 @@
       "floor": "30",
       "unit": "187",
       "room_type": "4-room",
-      "price": 732600,
       "status": "taken"
     },
     {
@@ -4148,7 +3691,6 @@
       "floor": "30",
       "unit": "189",
       "room_type": "4-room",
-      "price": 732600,
       "status": "available"
     },
     {
@@ -4157,7 +3699,6 @@
       "floor": "30",
       "unit": "191",
       "room_type": "4-room",
-      "price": 741500,
       "status": "available"
     },
     {
@@ -4166,7 +3707,6 @@
       "floor": "30",
       "unit": "195",
       "room_type": "4-room",
-      "price": 741500,
       "status": "available"
     },
     {
@@ -4175,7 +3715,6 @@
       "floor": "29",
       "unit": "185",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -4184,7 +3723,6 @@
       "floor": "29",
       "unit": "187",
       "room_type": "4-room",
-      "price": 730800,
       "status": "taken"
     },
     {
@@ -4193,7 +3731,6 @@
       "floor": "29",
       "unit": "189",
       "room_type": "4-room",
-      "price": 730800,
       "status": "available"
     },
     {
@@ -4202,7 +3739,6 @@
       "floor": "29",
       "unit": "191",
       "room_type": "4-room",
-      "price": 739700,
       "status": "available"
     },
     {
@@ -4211,7 +3747,6 @@
       "floor": "29",
       "unit": "195",
       "room_type": "4-room",
-      "price": 739700,
       "status": "available"
     },
     {
@@ -4220,7 +3755,6 @@
       "floor": "28",
       "unit": "185",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -4229,7 +3763,6 @@
       "floor": "28",
       "unit": "187",
       "room_type": "4-room",
-      "price": 729000,
       "status": "taken"
     },
     {
@@ -4238,7 +3771,6 @@
       "floor": "28",
       "unit": "189",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -4247,7 +3779,6 @@
       "floor": "28",
       "unit": "191",
       "room_type": "4-room",
-      "price": 737900,
       "status": "available"
     },
     {
@@ -4256,7 +3787,6 @@
       "floor": "28",
       "unit": "195",
       "room_type": "4-room",
-      "price": 737900,
       "status": "available"
     },
     {
@@ -4265,7 +3795,6 @@
       "floor": "27",
       "unit": "185",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -4274,7 +3803,6 @@
       "floor": "27",
       "unit": "187",
       "room_type": "4-room",
-      "price": 727200,
       "status": "taken"
     },
     {
@@ -4283,7 +3811,6 @@
       "floor": "27",
       "unit": "189",
       "room_type": "4-room",
-      "price": 727200,
       "status": "available"
     },
     {
@@ -4292,7 +3819,6 @@
       "floor": "27",
       "unit": "191",
       "room_type": "4-room",
-      "price": 736100,
       "status": "available"
     },
     {
@@ -4301,7 +3827,6 @@
       "floor": "27",
       "unit": "195",
       "room_type": "4-room",
-      "price": 736100,
       "status": "available"
     },
     {
@@ -4310,7 +3835,6 @@
       "floor": "26",
       "unit": "185",
       "room_type": "4-room",
-      "price": 725400,
       "status": "taken"
     },
     {
@@ -4319,7 +3843,6 @@
       "floor": "26",
       "unit": "187",
       "room_type": "4-room",
-      "price": 725400,
       "status": "taken"
     },
     {
@@ -4328,7 +3851,6 @@
       "floor": "26",
       "unit": "189",
       "room_type": "4-room",
-      "price": 725400,
       "status": "available"
     },
     {
@@ -4337,7 +3859,6 @@
       "floor": "26",
       "unit": "191",
       "room_type": "4-room",
-      "price": 734300,
       "status": "available"
     },
     {
@@ -4346,7 +3867,6 @@
       "floor": "26",
       "unit": "195",
       "room_type": "4-room",
-      "price": 734300,
       "status": "available"
     },
     {
@@ -4355,7 +3875,6 @@
       "floor": "25",
       "unit": "185",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -4364,7 +3883,6 @@
       "floor": "25",
       "unit": "187",
       "room_type": "4-room",
-      "price": 723600,
       "status": "taken"
     },
     {
@@ -4373,7 +3891,6 @@
       "floor": "25",
       "unit": "189",
       "room_type": "4-room",
-      "price": 723600,
       "status": "available"
     },
     {
@@ -4382,7 +3899,6 @@
       "floor": "25",
       "unit": "191",
       "room_type": "4-room",
-      "price": 732500,
       "status": "available"
     },
     {
@@ -4391,7 +3907,6 @@
       "floor": "25",
       "unit": "195",
       "room_type": "4-room",
-      "price": 732500,
       "status": "available"
     },
     {
@@ -4400,7 +3915,6 @@
       "floor": "24",
       "unit": "185",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -4409,7 +3923,6 @@
       "floor": "24",
       "unit": "187",
       "room_type": "4-room",
-      "price": 720100,
       "status": "taken"
     },
     {
@@ -4418,7 +3931,6 @@
       "floor": "24",
       "unit": "189",
       "room_type": "4-room",
-      "price": 720100,
       "status": "available"
     },
     {
@@ -4427,7 +3939,6 @@
       "floor": "24",
       "unit": "191",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -4436,7 +3947,6 @@
       "floor": "24",
       "unit": "195",
       "room_type": "4-room",
-      "price": 729000,
       "status": "available"
     },
     {
@@ -4445,7 +3955,6 @@
       "floor": "23",
       "unit": "185",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -4454,7 +3963,6 @@
       "floor": "23",
       "unit": "187",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -4463,7 +3971,6 @@
       "floor": "23",
       "unit": "189",
       "room_type": "4-room",
-      "price": 716600,
       "status": "available"
     },
     {
@@ -4472,7 +3979,6 @@
       "floor": "23",
       "unit": "191",
       "room_type": "4-room",
-      "price": 725500,
       "status": "available"
     },
     {
@@ -4481,7 +3987,6 @@
       "floor": "23",
       "unit": "195",
       "room_type": "4-room",
-      "price": 725500,
       "status": "available"
     },
     {
@@ -4490,7 +3995,6 @@
       "floor": "22",
       "unit": "185",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -4499,7 +4003,6 @@
       "floor": "22",
       "unit": "187",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -4508,7 +4011,6 @@
       "floor": "22",
       "unit": "189",
       "room_type": "4-room",
-      "price": 713100,
       "status": "available"
     },
     {
@@ -4517,7 +4019,6 @@
       "floor": "22",
       "unit": "191",
       "room_type": "4-room",
-      "price": 722000,
       "status": "available"
     },
     {
@@ -4526,7 +4027,6 @@
       "floor": "22",
       "unit": "195",
       "room_type": "4-room",
-      "price": 722000,
       "status": "available"
     },
     {
@@ -4535,7 +4035,6 @@
       "floor": "21",
       "unit": "185",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -4544,7 +4043,6 @@
       "floor": "21",
       "unit": "187",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -4553,7 +4051,6 @@
       "floor": "21",
       "unit": "189",
       "room_type": "4-room",
-      "price": 709600,
       "status": "available"
     },
     {
@@ -4562,7 +4059,6 @@
       "floor": "21",
       "unit": "191",
       "room_type": "4-room",
-      "price": 718500,
       "status": "available"
     },
     {
@@ -4571,7 +4067,6 @@
       "floor": "21",
       "unit": "195",
       "room_type": "4-room",
-      "price": 718500,
       "status": "available"
     },
     {
@@ -4580,7 +4075,6 @@
       "floor": "20",
       "unit": "185",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -4589,7 +4083,6 @@
       "floor": "20",
       "unit": "187",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -4598,7 +4091,6 @@
       "floor": "20",
       "unit": "189",
       "room_type": "4-room",
-      "price": 706100,
       "status": "available"
     },
     {
@@ -4607,7 +4099,6 @@
       "floor": "20",
       "unit": "191",
       "room_type": "4-room",
-      "price": 715000,
       "status": "available"
     },
     {
@@ -4616,7 +4107,6 @@
       "floor": "20",
       "unit": "195",
       "room_type": "4-room",
-      "price": 715000,
       "status": "available"
     },
     {
@@ -4625,7 +4115,6 @@
       "floor": "18",
       "unit": "185",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -4634,7 +4123,6 @@
       "floor": "18",
       "unit": "187",
       "room_type": "4-room",
-      "price": 699100,
       "status": "taken"
     },
     {
@@ -4643,7 +4131,6 @@
       "floor": "18",
       "unit": "189",
       "room_type": "4-room",
-      "price": 699100,
       "status": "available"
     },
     {
@@ -4652,7 +4139,6 @@
       "floor": "18",
       "unit": "191",
       "room_type": "4-room",
-      "price": 708000,
       "status": "available"
     },
     {
@@ -4661,7 +4147,6 @@
       "floor": "18",
       "unit": "195",
       "room_type": "4-room",
-      "price": 708000,
       "status": "available"
     },
     {
@@ -4670,7 +4155,6 @@
       "floor": "17",
       "unit": "185",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -4679,7 +4163,6 @@
       "floor": "17",
       "unit": "187",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -4688,7 +4171,6 @@
       "floor": "17",
       "unit": "189",
       "room_type": "4-room",
-      "price": 695600,
       "status": "available"
     },
     {
@@ -4697,7 +4179,6 @@
       "floor": "17",
       "unit": "191",
       "room_type": "4-room",
-      "price": 704500,
       "status": "available"
     },
     {
@@ -4706,7 +4187,6 @@
       "floor": "17",
       "unit": "195",
       "room_type": "4-room",
-      "price": 704500,
       "status": "available"
     },
     {
@@ -4715,7 +4195,6 @@
       "floor": "16",
       "unit": "185",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -4724,7 +4203,6 @@
       "floor": "16",
       "unit": "187",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -4733,7 +4211,6 @@
       "floor": "16",
       "unit": "189",
       "room_type": "4-room",
-      "price": 692100,
       "status": "available"
     },
     {
@@ -4742,7 +4219,6 @@
       "floor": "16",
       "unit": "191",
       "room_type": "4-room",
-      "price": 701000,
       "status": "available"
     },
     {
@@ -4751,7 +4227,6 @@
       "floor": "16",
       "unit": "195",
       "room_type": "4-room",
-      "price": 701000,
       "status": "available"
     },
     {
@@ -4760,7 +4235,6 @@
       "floor": "15",
       "unit": "185",
       "room_type": "4-room",
-      "price": 688600,
       "status": "taken"
     },
     {
@@ -4769,7 +4243,6 @@
       "floor": "15",
       "unit": "187",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -4778,7 +4251,6 @@
       "floor": "15",
       "unit": "189",
       "room_type": "4-room",
-      "price": 688600,
       "status": "available"
     },
     {
@@ -4787,7 +4259,6 @@
       "floor": "15",
       "unit": "191",
       "room_type": "4-room",
-      "price": 697500,
       "status": "available"
     },
     {
@@ -4796,7 +4267,6 @@
       "floor": "15",
       "unit": "195",
       "room_type": "4-room",
-      "price": 697500,
       "status": "available"
     },
     {
@@ -4805,7 +4275,6 @@
       "floor": "14",
       "unit": "185",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -4814,7 +4283,6 @@
       "floor": "14",
       "unit": "187",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -4823,7 +4291,6 @@
       "floor": "14",
       "unit": "189",
       "room_type": "4-room",
-      "price": 685100,
       "status": "available"
     },
     {
@@ -4832,7 +4299,6 @@
       "floor": "14",
       "unit": "191",
       "room_type": "4-room",
-      "price": 694000,
       "status": "available"
     },
     {
@@ -4841,7 +4307,6 @@
       "floor": "14",
       "unit": "195",
       "room_type": "4-room",
-      "price": 694000,
       "status": "available"
     },
     {
@@ -4850,7 +4315,6 @@
       "floor": "13",
       "unit": "185",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -4859,7 +4323,6 @@
       "floor": "13",
       "unit": "187",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -4868,7 +4331,6 @@
       "floor": "13",
       "unit": "189",
       "room_type": "4-room",
-      "price": 681600,
       "status": "available"
     },
     {
@@ -4877,7 +4339,6 @@
       "floor": "13",
       "unit": "191",
       "room_type": "4-room",
-      "price": 690500,
       "status": "available"
     },
     {
@@ -4886,7 +4347,6 @@
       "floor": "13",
       "unit": "195",
       "room_type": "4-room",
-      "price": 690500,
       "status": "available"
     },
     {
@@ -4895,7 +4355,6 @@
       "floor": "12",
       "unit": "185",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -4904,7 +4363,6 @@
       "floor": "12",
       "unit": "187",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -4913,7 +4371,6 @@
       "floor": "12",
       "unit": "189",
       "room_type": "4-room",
-      "price": 678100,
       "status": "available"
     },
     {
@@ -4922,7 +4379,6 @@
       "floor": "12",
       "unit": "191",
       "room_type": "4-room",
-      "price": 687000,
       "status": "available"
     },
     {
@@ -4931,7 +4387,6 @@
       "floor": "12",
       "unit": "195",
       "room_type": "4-room",
-      "price": 687000,
       "status": "available"
     },
     {
@@ -4940,7 +4395,6 @@
       "floor": "11",
       "unit": "185",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -4949,7 +4403,6 @@
       "floor": "11",
       "unit": "187",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -4958,7 +4411,6 @@
       "floor": "11",
       "unit": "189",
       "room_type": "4-room",
-      "price": 674600,
       "status": "available"
     },
     {
@@ -4967,7 +4419,6 @@
       "floor": "11",
       "unit": "191",
       "room_type": "4-room",
-      "price": 683500,
       "status": "available"
     },
     {
@@ -4976,7 +4427,6 @@
       "floor": "11",
       "unit": "195",
       "room_type": "4-room",
-      "price": 683500,
       "status": "available"
     },
     {
@@ -4985,7 +4435,6 @@
       "floor": "10",
       "unit": "185",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -4994,7 +4443,6 @@
       "floor": "10",
       "unit": "187",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -5003,7 +4451,6 @@
       "floor": "10",
       "unit": "189",
       "room_type": "4-room",
-      "price": 671100,
       "status": "available"
     },
     {
@@ -5012,7 +4459,6 @@
       "floor": "10",
       "unit": "191",
       "room_type": "4-room",
-      "price": 680000,
       "status": "available"
     },
     {
@@ -5021,7 +4467,6 @@
       "floor": "10",
       "unit": "195",
       "room_type": "4-room",
-      "price": 680000,
       "status": "available"
     },
     {
@@ -5030,7 +4475,6 @@
       "floor": "09",
       "unit": "185",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -5039,7 +4483,6 @@
       "floor": "09",
       "unit": "187",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -5048,7 +4491,6 @@
       "floor": "09",
       "unit": "189",
       "room_type": "4-room",
-      "price": 667600,
       "status": "available"
     },
     {
@@ -5057,7 +4499,6 @@
       "floor": "09",
       "unit": "191",
       "room_type": "4-room",
-      "price": 676500,
       "status": "available"
     },
     {
@@ -5066,7 +4507,6 @@
       "floor": "09",
       "unit": "195",
       "room_type": "4-room",
-      "price": 676500,
       "status": "available"
     },
     {
@@ -5075,7 +4515,6 @@
       "floor": "08",
       "unit": "185",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -5084,7 +4523,6 @@
       "floor": "08",
       "unit": "187",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -5093,7 +4531,6 @@
       "floor": "08",
       "unit": "189",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -5102,7 +4539,6 @@
       "floor": "08",
       "unit": "191",
       "room_type": "4-room",
-      "price": 673000,
       "status": "available"
     },
     {
@@ -5111,7 +4547,6 @@
       "floor": "08",
       "unit": "195",
       "room_type": "4-room",
-      "price": 673000,
       "status": "available"
     },
     {
@@ -5120,7 +4555,6 @@
       "floor": "07",
       "unit": "185",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -5129,7 +4563,6 @@
       "floor": "07",
       "unit": "187",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -5138,7 +4571,6 @@
       "floor": "07",
       "unit": "189",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -5147,7 +4579,6 @@
       "floor": "07",
       "unit": "191",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -5156,7 +4587,6 @@
       "floor": "07",
       "unit": "195",
       "room_type": "4-room",
-      "price": 664100,
       "status": "available"
     },
     {
@@ -5165,7 +4595,6 @@
       "floor": "06",
       "unit": "185",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -5174,7 +4603,6 @@
       "floor": "06",
       "unit": "187",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -5183,7 +4611,6 @@
       "floor": "06",
       "unit": "189",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -5192,7 +4619,6 @@
       "floor": "06",
       "unit": "191",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -5201,7 +4627,6 @@
       "floor": "06",
       "unit": "195",
       "room_type": "4-room",
-      "price": 655200,
       "status": "available"
     },
     {
@@ -5210,7 +4635,6 @@
       "floor": "05",
       "unit": "185",
       "room_type": "4-room",
-      "price": 619700,
       "status": "available"
     },
     {
@@ -5219,7 +4643,6 @@
       "floor": "05",
       "unit": "187",
       "room_type": "4-room",
-      "price": 619700,
       "status": "available"
     },
     {
@@ -5228,7 +4651,6 @@
       "floor": "05",
       "unit": "189",
       "room_type": "4-room",
-      "price": 637400,
       "status": "available"
     },
     {
@@ -5237,7 +4659,6 @@
       "floor": "05",
       "unit": "191",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -5246,7 +4667,6 @@
       "floor": "05",
       "unit": "195",
       "room_type": "4-room",
-      "price": 646300,
       "status": "available"
     },
     {
@@ -5255,7 +4675,6 @@
       "floor": "04",
       "unit": "185",
       "room_type": "4-room",
-      "price": 606400,
       "status": "available"
     },
     {
@@ -5264,7 +4683,6 @@
       "floor": "04",
       "unit": "187",
       "room_type": "4-room",
-      "price": 606400,
       "status": "available"
     },
     {
@@ -5273,7 +4691,6 @@
       "floor": "04",
       "unit": "189",
       "room_type": "4-room",
-      "price": 624100,
       "status": "available"
     },
     {
@@ -5282,7 +4699,6 @@
       "floor": "04",
       "unit": "191",
       "room_type": "4-room",
-      "price": 633000,
       "status": "available"
     },
     {
@@ -5291,7 +4707,6 @@
       "floor": "04",
       "unit": "195",
       "room_type": "4-room",
-      "price": 624100,
       "status": "available"
     },
     {
@@ -5300,7 +4715,6 @@
       "floor": "03",
       "unit": "185",
       "room_type": "4-room",
-      "price": 593100,
       "status": "available"
     },
     {
@@ -5309,7 +4723,6 @@
       "floor": "03",
       "unit": "187",
       "room_type": "4-room",
-      "price": 593100,
       "status": "available"
     },
     {
@@ -5318,7 +4731,6 @@
       "floor": "03",
       "unit": "189",
       "room_type": "4-room",
-      "price": 610800,
       "status": "available"
     },
     {
@@ -5327,7 +4739,6 @@
       "floor": "03",
       "unit": "191",
       "room_type": "4-room",
-      "price": 619700,
       "status": "available"
     },
     {
@@ -5336,7 +4747,6 @@
       "floor": "03",
       "unit": "195",
       "room_type": "4-room",
-      "price": 602000,
       "status": "available"
     },
     {
@@ -5345,7 +4755,6 @@
       "floor": "02",
       "unit": "185",
       "room_type": "4-room",
-      "price": 579800,
       "status": "available"
     },
     {
@@ -5354,7 +4763,6 @@
       "floor": "02",
       "unit": "187",
       "room_type": "4-room",
-      "price": 579800,
       "status": "available"
     },
     {
@@ -5363,7 +4771,6 @@
       "floor": "02",
       "unit": "195",
       "room_type": "4-room",
-      "price": 588700,
       "status": "available"
     }
   ],
@@ -5374,22 +4781,19 @@
         "id": "146A-45-153",
         "block": "146A",
         "floor": "45",
-        "unit": "153",
-        "price": 777400
+        "unit": "153"
       },
       {
         "id": "148A-27-187",
         "block": "148A",
         "floor": "27",
-        "unit": "187",
-        "price": 727200
+        "unit": "187"
       },
       {
         "id": "148A-24-187",
         "block": "148A",
         "floor": "24",
-        "unit": "187",
-        "price": 720100
+        "unit": "187"
       }
     ]
   },
@@ -5490,5 +4894,25 @@
     "flats_taken": 26,
     "dropout_count": 1
   },
+  "ethnic_quotas": [
+    {
+      "block": "146A",
+      "chinese": 105,
+      "malay": 29,
+      "indian_other": 17
+    },
+    {
+      "block": "147A",
+      "chinese": 190,
+      "malay": 50,
+      "indian_other": 27
+    },
+    {
+      "block": "148A",
+      "chinese": 177,
+      "malay": 50,
+      "indian_other": 26
+    }
+  ],
   "notice": "Availability is informational. Confirm all details directly with HDB."
 }

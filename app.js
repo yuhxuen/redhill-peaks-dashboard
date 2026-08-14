@@ -1,4 +1,4 @@
-const state = { units: [], blocks: [], changes: {}, activeBlock: "", queueTracker: null };
+const state = { units: [], blocks: [], quotas: [], changes: {}, activeBlock: "", queueTracker: null };
 const $ = (id) => document.getElementById(id);
 
 function escapeHtml(value) {
@@ -122,9 +122,18 @@ function renderChanges(updatedAt) {
   list.innerHTML = changes.map(({ item, type }) => `<span class="chip ${type}">${escapeHtml(unitLabel(item))} · ${type}</span>`).join("");
 }
 
+function renderQuotas() {
+  const quota = state.quotas.find((item) => item.block === state.activeBlock);
+  $("quota-block-label").textContent = `· Block ${state.activeBlock} · 4-room`;
+  $("quota-rows").innerHTML = quota ? `
+    <tr><td><strong>${quota.chinese ?? "Not reported"}</strong></td><td><strong>${quota.malay ?? "Not reported"}</strong></td><td><strong>${quota.indian_other ?? "Not reported"}</strong></td></tr>
+  ` : `<tr><td colspan="3" class="empty">No 4-room ethnic quota data was reported for Block ${escapeHtml(state.activeBlock)}.</td></tr>`;
+}
+
 function render(data) {
   state.units = data.units || [];
   state.blocks = data.blocks || [];
+  state.quotas = data.ethnic_quotas || [];
   state.changes = data.changes || {};
   state.queueTracker = data.queue_tracker || null;
   state.activeBlock = state.blocks[0]?.block || "";
@@ -139,11 +148,13 @@ function render(data) {
   renderChanges(data.updated_at);
   renderPublicQueue();
   renderBuilding();
+  renderQuotas();
 }
 
 $("block-select").addEventListener("change", (event) => {
   state.activeBlock = event.target.value;
   renderBuilding();
+  renderQuotas();
   $("unit-detail").innerHTML = `<p class="eyebrow">Selected flat</p><h3>Choose a unit</h3><p>Select any coloured unit in the block to see its details.</p>`;
 });
 

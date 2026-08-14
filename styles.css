@@ -42,7 +42,8 @@ h1 { margin: 0; font: 500 clamp(38px, 5vw, 66px)/.96 Georgia, serif; max-width: 
 .public-dashboard-layout > .metrics { grid-column: 1; grid-row: 1; }
 .public-dashboard-layout > .changes { grid-column: 1; grid-row: 2; }
 .public-dashboard-layout > .building-panel { grid-column: 1; grid-row: 3; }
-.queue-public-panel { position: sticky; top: 16px; grid-column: 2; grid-row: 1 / span 3; max-height: calc(100vh - 32px); margin-top: 0; overflow-y: auto; border-color: #b7d5c8; scrollbar-gutter: stable; }
+.public-dashboard-layout > .quota-panel { grid-column: 1; grid-row: 4; }
+.queue-public-panel { position: sticky; top: 16px; grid-column: 2; grid-row: 1 / span 4; max-height: calc(100vh - 32px); margin-top: 0; overflow-y: auto; border-color: #b7d5c8; scrollbar-gutter: stable; }
 .queue-public-layout { display: grid; grid-template-columns: 1fr; }
 .queue-public-main { padding: 18px 16px; background: linear-gradient(145deg, #f2f8f4, #fffdf8 72%); }
 .queue-kicker { margin: 0 0 2px; color: var(--muted); font: italic 14px Georgia, serif; }
@@ -132,6 +133,7 @@ footer { width: 100%; color: var(--muted); font-size: 12px; line-height: 1.7; ma
   .public-dashboard-layout > .changes { grid-column: 1; grid-row: 2; }
   .queue-public-panel { position: static; grid-column: 1; grid-row: 3; max-height: none; }
   .public-dashboard-layout > .building-panel { grid-column: 1; grid-row: 4; }
+  .public-dashboard-layout > .quota-panel { grid-column: 1; grid-row: 5; }
 }
 @media (max-width: 820px) {
   header { align-items: flex-start; flex-direction: column; }
