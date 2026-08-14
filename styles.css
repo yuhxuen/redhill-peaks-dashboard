@@ -106,6 +106,7 @@ select { min-width: 260px; }
 .facade-table { width: 100%; min-width: 500px; table-layout: fixed; border-collapse: separate; border-spacing: 4px; }
 .facade-table th, .facade-table td { border: 0; padding: 0; text-align: center; }
 .facade-table thead th { position: sticky; top: -18px; z-index: 2; background: #ebe9e1; padding: 9px 4px; color: var(--muted); font-size: 12px; }
+.facade-table thead th:first-child { width: 54px; }
 .facade-table tbody th { position: sticky; left: -18px; z-index: 1; width: 54px; background: #ebe9e1; color: var(--muted); font-size: 12px; }
 button.flat-cell, .flat-cell.void { width: 100%; min-width: 0; min-height: 52px; border-radius: 7px; padding: 7px 5px; display: flex; flex-direction: column; align-items: center; justify-content: center; }
 button.flat-cell { border: 1px solid #72ac94; background: #d8eee4; color: #174f3e; cursor: pointer; }
