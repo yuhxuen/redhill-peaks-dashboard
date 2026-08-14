@@ -66,7 +66,7 @@ h1 { margin: 0; font: 500 clamp(38px, 5vw, 66px)/.96 Georgia, serif; max-width: 
 .queue-warning { border: 1px solid #e2d4a9; background: #fff8df; color: #5b4d24; }
 .queue-public-diary { padding: 16px; border-top: 1px solid var(--line); background: var(--card); }
 .queue-public-diary h3 { margin: 0 0 10px; color: var(--muted); font-size: 11px; text-transform: uppercase; letter-spacing: .12em; }
-.public-queue-history { max-height: 78px; overflow-y: auto; scrollbar-gutter: stable; }
+.public-queue-history { max-height: 184px; overflow-y: auto; scrollbar-gutter: stable; }
 .public-queue-history div { display: grid; grid-template-columns: 58px 1fr auto; gap: 8px; padding: 6px 0; border-top: 1px solid #ece9df; color: var(--muted); font-size: 11px; }
 .public-queue-history b { color: var(--green); }
 .panel { margin-top: 12px; overflow: hidden; }
