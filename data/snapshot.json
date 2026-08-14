@@ -2,10 +2,10 @@
   "schema_version": 1,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-13T09:35:29+00:00",
+  "updated_at": "2026-08-14T01:50:36+00:00",
   "summary": {
-    "available": 567,
-    "taken": 26,
+    "available": 566,
+    "taken": 27,
     "total": 593
   },
   "blocks": [
@@ -23,8 +23,8 @@
     },
     {
       "block": "148A",
-      "available": 214,
-      "taken": 14,
+      "available": 213,
+      "taken": 15,
       "total": 228
     }
   ],
@@ -4410,7 +4410,7 @@
       "unit": "187",
       "room_type": "4-room",
       "price": 720100,
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-24-189",
@@ -5368,30 +5368,8 @@
     }
   ],
   "changes": {
-    "date": "2026-08-13",
-    "taken": [
-      {
-        "id": "146A-33-155",
-        "block": "146A",
-        "floor": "33",
-        "unit": "155",
-        "price": 755800
-      },
-      {
-        "id": "148A-33-187",
-        "block": "148A",
-        "floor": "33",
-        "unit": "187",
-        "price": 738000
-      },
-      {
-        "id": "148A-29-187",
-        "block": "148A",
-        "floor": "29",
-        "unit": "187",
-        "price": 730800
-      }
-    ]
+    "date": "2026-08-14",
+    "taken": []
   },
   "notice": "Availability is informational. Confirm all details directly with HDB."
 }
