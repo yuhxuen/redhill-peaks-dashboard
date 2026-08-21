@@ -2,10 +2,10 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-21T09:20:36+08:00",
+  "updated_at": "2026-08-21T17:54:38+08:00",
   "summary": {
-    "available": 559,
-    "taken": 34,
+    "available": 556,
+    "taken": 37,
     "total": 593
   },
   "blocks": [
@@ -23,8 +23,8 @@
     },
     {
       "block": "148A",
-      "available": 209,
-      "taken": 19,
+      "available": 206,
+      "taken": 22,
       "total": 228
     }
   ],
@@ -3083,7 +3083,7 @@
       "floor": "46",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-46-189",
@@ -3603,7 +3603,7 @@
       "floor": "32",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-32-189",
@@ -4363,7 +4363,7 @@
       "floor": "12",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-12-189",
@@ -4776,7 +4776,26 @@
   ],
   "changes": {
     "date": "2026-08-21",
-    "taken": []
+    "taken": [
+      {
+        "id": "148A-46-187",
+        "block": "148A",
+        "floor": "46",
+        "unit": "187"
+      },
+      {
+        "id": "148A-32-187",
+        "block": "148A",
+        "floor": "32",
+        "unit": "187"
+      },
+      {
+        "id": "148A-12-187",
+        "block": "148A",
+        "floor": "12",
+        "unit": "187"
+      }
+    ]
   },
   "queue_tracker": {
     "target_queue_number": 593,
@@ -4914,7 +4933,7 @@
     },
     {
       "block": "148A",
-      "chinese": 174,
+      "chinese": 171,
       "malay": 50,
       "indian_other": 26
     }
