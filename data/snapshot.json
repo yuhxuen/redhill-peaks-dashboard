@@ -2,7 +2,7 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-21T17:54:38+08:00",
+  "updated_at": "2026-08-25T05:55:29+08:00",
   "summary": {
     "available": 556,
     "taken": 37,
@@ -4775,40 +4775,27 @@
     }
   ],
   "changes": {
-    "date": "2026-08-21",
-    "taken": [
-      {
-        "id": "148A-46-187",
-        "block": "148A",
-        "floor": "46",
-        "unit": "187"
-      },
-      {
-        "id": "148A-32-187",
-        "block": "148A",
-        "floor": "32",
-        "unit": "187"
-      },
-      {
-        "id": "148A-12-187",
-        "block": "148A",
-        "floor": "12",
-        "unit": "187"
-      }
-    ]
+    "date": "2026-08-25",
+    "taken": []
   },
   "queue_tracker": {
     "target_queue_number": 593,
     "latest": {
-      "date": "2026-08-20",
-      "last_queue_number": 38,
-      "remaining": 555,
-      "progress_percent": 6.4,
-      "average_per_working_day": 2.92,
-      "average_per_working_day_exact": 2.923076923076923,
-      "estimated_date": "2027-05-25"
+      "date": "2026-08-21",
+      "last_queue_number": 42,
+      "remaining": 551,
+      "progress_percent": 7.1,
+      "average_per_working_day": 3.0,
+      "average_per_working_day_exact": 3.0,
+      "estimated_date": "2027-05-14"
     },
     "history": [
+      {
+        "date": "2026-08-21",
+        "from_queue_number": 38,
+        "last_queue_number": 42,
+        "progress": 4
+      },
       {
         "date": "2026-08-20",
         "from_queue_number": 38,
@@ -4912,11 +4899,11 @@
     ]
   },
   "dropout_summary": {
-    "date": "2026-08-19",
-    "calculated_at": "2026-08-19T21:10:03+08:00",
-    "queue_number": 38,
-    "flats_taken": 34,
-    "dropout_count": 4
+    "date": "2026-08-21",
+    "calculated_at": "2026-08-21T17:54:38+08:00",
+    "queue_number": 42,
+    "flats_taken": 37,
+    "dropout_count": 5
   },
   "ethnic_quotas": [
     {
