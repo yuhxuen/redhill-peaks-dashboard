@@ -2,17 +2,17 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-26T10:28:26+08:00",
+  "updated_at": "2026-08-26T15:04:35+08:00",
   "summary": {
-    "available": 549,
-    "taken": 44,
+    "available": 546,
+    "taken": 47,
     "total": 593
   },
   "blocks": [
     {
       "block": "146A",
-      "available": 121,
-      "taken": 16,
+      "available": 120,
+      "taken": 17,
       "total": 137
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "block": "148A",
-      "available": 203,
-      "taken": 25,
+      "available": 201,
+      "taken": 27,
       "total": 228
     }
   ],
@@ -35,7 +35,7 @@
       "floor": "49",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-49-155",
@@ -3643,7 +3643,7 @@
       "floor": "31",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-31-189",
@@ -4043,7 +4043,7 @@
       "floor": "21",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-21-189",
@@ -4778,6 +4778,12 @@
     "date": "2026-08-26",
     "taken": [
       {
+        "id": "146A-49-153",
+        "block": "146A",
+        "floor": "49",
+        "unit": "153"
+      },
+      {
         "id": "146A-44-155",
         "block": "146A",
         "floor": "44",
@@ -4808,9 +4814,21 @@
         "unit": "187"
       },
       {
+        "id": "148A-31-187",
+        "block": "148A",
+        "floor": "31",
+        "unit": "187"
+      },
+      {
         "id": "148A-22-187",
         "block": "148A",
         "floor": "22",
+        "unit": "187"
+      },
+      {
+        "id": "148A-21-187",
+        "block": "148A",
+        "floor": "21",
         "unit": "187"
       },
       {
@@ -4963,7 +4981,7 @@
   "ethnic_quotas": [
     {
       "block": "146A",
-      "chinese": 100,
+      "chinese": 99,
       "malay": 29,
       "indian_other": 17
     },
@@ -4975,7 +4993,7 @@
     },
     {
       "block": "148A",
-      "chinese": 168,
+      "chinese": 166,
       "malay": 50,
       "indian_other": 26
     }
