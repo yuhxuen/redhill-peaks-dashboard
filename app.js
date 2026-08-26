@@ -54,7 +54,7 @@ function renderPublicQueue() {
     $("queue-estimate").textContent = "Enter yours";
   }
   $("public-queue-history").innerHTML = (tracker.history || []).map((item) => `
-    <div><time datetime="${escapeHtml(item.date)}">${escapeHtml(dateLabel(item.date, { weekday: "short", day: "numeric", month: "short" }))}</time><span>Queue ${item.from_queue_number}–${item.last_queue_number}</span><b>${item.progress >= 0 ? "+" : ""}${item.progress}</b></div>
+    <div><time datetime="${escapeHtml(item.date)}">${escapeHtml(dateLabel(item.date, { weekday: "short", day: "numeric", month: "short" }))}</time><span>${item.progress > 0 ? `Queue ${item.from_queue_number}–${item.last_queue_number}` : `No movement · queue ${item.last_queue_number}`}</span><b>${item.progress >= 0 ? "+" : ""}${item.progress}</b></div>
   `).join("");
 }
 
