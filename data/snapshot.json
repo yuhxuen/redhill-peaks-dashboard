@@ -2,7 +2,7 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-26T10:05:37+08:00",
+  "updated_at": "2026-08-26T10:06:07+08:00",
   "summary": {
     "available": 550,
     "taken": 43,
@@ -4818,15 +4818,21 @@
   "queue_tracker": {
     "target_queue_number": 593,
     "latest": {
-      "date": "2026-08-24",
-      "last_queue_number": 42,
-      "remaining": 551,
-      "progress_percent": 7.1,
-      "average_per_working_day": 2.8,
-      "average_per_working_day_exact": 2.8,
-      "estimated_date": "2027-06-07"
+      "date": "2026-08-25",
+      "last_queue_number": 49,
+      "remaining": 544,
+      "progress_percent": 8.3,
+      "average_per_working_day": 3.06,
+      "average_per_working_day_exact": 3.0625,
+      "estimated_date": "2027-05-10"
     },
     "history": [
+      {
+        "date": "2026-08-25",
+        "from_queue_number": 42,
+        "last_queue_number": 49,
+        "progress": 7
+      },
       {
         "date": "2026-08-24",
         "from_queue_number": 42,
