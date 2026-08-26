@@ -2,17 +2,17 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-26T10:26:29+08:00",
+  "updated_at": "2026-08-26T10:28:26+08:00",
   "summary": {
-    "available": 550,
-    "taken": 43,
+    "available": 549,
+    "taken": 44,
     "total": 593
   },
   "blocks": [
     {
       "block": "146A",
-      "available": 122,
-      "taken": 15,
+      "available": 121,
+      "taken": 16,
       "total": 137
     },
     {
@@ -755,7 +755,7 @@
       "floor": "17",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-17-155",
@@ -4796,6 +4796,12 @@
         "unit": "155"
       },
       {
+        "id": "146A-17-153",
+        "block": "146A",
+        "floor": "17",
+        "unit": "153"
+      },
+      {
         "id": "148A-38-187",
         "block": "148A",
         "floor": "38",
@@ -4829,7 +4835,7 @@
     "history": [
       {
         "date": "2026-08-25",
-        "from_queue_number": 42,
+        "from_queue_number": 43,
         "last_queue_number": 49,
         "progress": 7
       },
@@ -4841,7 +4847,7 @@
       },
       {
         "date": "2026-08-21",
-        "from_queue_number": 38,
+        "from_queue_number": 39,
         "last_queue_number": 42,
         "progress": 4
       },
@@ -4853,7 +4859,7 @@
       },
       {
         "date": "2026-08-19",
-        "from_queue_number": 34,
+        "from_queue_number": 35,
         "last_queue_number": 38,
         "progress": 4
       },
@@ -4865,49 +4871,49 @@
       },
       {
         "date": "2026-08-17",
-        "from_queue_number": 30,
+        "from_queue_number": 31,
         "last_queue_number": 34,
         "progress": 4
       },
       {
         "date": "2026-08-14",
-        "from_queue_number": 27,
+        "from_queue_number": 28,
         "last_queue_number": 30,
         "progress": 3
       },
       {
         "date": "2026-08-13",
-        "from_queue_number": 23,
+        "from_queue_number": 24,
         "last_queue_number": 27,
         "progress": 4
       },
       {
         "date": "2026-08-12",
-        "from_queue_number": 18,
+        "from_queue_number": 19,
         "last_queue_number": 23,
         "progress": 5
       },
       {
         "date": "2026-08-11",
-        "from_queue_number": 15,
+        "from_queue_number": 16,
         "last_queue_number": 18,
         "progress": 3
       },
       {
         "date": "2026-08-07",
-        "from_queue_number": 12,
+        "from_queue_number": 13,
         "last_queue_number": 15,
         "progress": 3
       },
       {
         "date": "2026-08-06",
-        "from_queue_number": 8,
+        "from_queue_number": 9,
         "last_queue_number": 12,
         "progress": 4
       },
       {
         "date": "2026-08-05",
-        "from_queue_number": 4,
+        "from_queue_number": 5,
         "last_queue_number": 8,
         "progress": 4
       },
@@ -4957,7 +4963,7 @@
   "ethnic_quotas": [
     {
       "block": "146A",
-      "chinese": 101,
+      "chinese": 100,
       "malay": 29,
       "indian_other": 17
     },
