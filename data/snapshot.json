@@ -2,7 +2,7 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-26T19:23:38+08:00",
+  "updated_at": "2026-08-26T20:17:21+08:00",
   "summary": {
     "available": 545,
     "taken": 48,
@@ -4991,7 +4991,7 @@
   },
   "dropout_summary": {
     "date": "2026-08-26",
-    "calculated_at": "2026-08-26T19:23:38+08:00",
+    "calculated_at": "2026-08-26T20:17:21+08:00",
     "queue_number": 55,
     "flats_taken": 48,
     "dropout_count": 7
