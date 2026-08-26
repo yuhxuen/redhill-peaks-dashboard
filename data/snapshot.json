@@ -2,7 +2,7 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-26T19:20:53+08:00",
+  "updated_at": "2026-08-26T19:23:38+08:00",
   "summary": {
     "available": 545,
     "taken": 48,
@@ -4849,19 +4849,19 @@
     "target_queue_number": 593,
     "latest": {
       "date": "2026-08-26",
-      "last_queue_number": 54,
-      "remaining": 539,
-      "progress_percent": 9.1,
-      "average_per_working_day": 3.18,
-      "average_per_working_day_exact": 3.176470588235294,
-      "estimated_date": "2027-04-29"
+      "last_queue_number": 55,
+      "remaining": 538,
+      "progress_percent": 9.3,
+      "average_per_working_day": 3.24,
+      "average_per_working_day_exact": 3.235294117647059,
+      "estimated_date": "2027-04-26"
     },
     "history": [
       {
         "date": "2026-08-26",
         "from_queue_number": 50,
-        "last_queue_number": 54,
-        "progress": 5
+        "last_queue_number": 55,
+        "progress": 6
       },
       {
         "date": "2026-08-25",
@@ -4991,10 +4991,10 @@
   },
   "dropout_summary": {
     "date": "2026-08-26",
-    "calculated_at": "2026-08-26T19:20:53+08:00",
-    "queue_number": 54,
+    "calculated_at": "2026-08-26T19:23:38+08:00",
+    "queue_number": 55,
     "flats_taken": 48,
-    "dropout_count": 6
+    "dropout_count": 7
   },
   "ethnic_quotas": [
     {
