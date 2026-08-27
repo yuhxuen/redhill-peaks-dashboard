@@ -2,10 +2,10 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-27T15:04:09+08:00",
+  "updated_at": "2026-08-27T20:11:01+08:00",
   "summary": {
-    "available": 540,
-    "taken": 53,
+    "available": 539,
+    "taken": 54,
     "total": 593
   },
   "blocks": [
@@ -23,8 +23,8 @@
     },
     {
       "block": "148A",
-      "available": 198,
-      "taken": 30,
+      "available": 197,
+      "taken": 31,
       "total": 228
     }
   ],
@@ -3523,7 +3523,7 @@
       "floor": "34",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-34-189",
@@ -4802,6 +4802,12 @@
         "unit": "187"
       },
       {
+        "id": "148A-34-187",
+        "block": "148A",
+        "floor": "34",
+        "unit": "187"
+      },
+      {
         "id": "148A-32-195",
         "block": "148A",
         "floor": "32",
@@ -4960,10 +4966,10 @@
     ]
   },
   "dropout_summary": {
-    "date": "2026-08-26",
-    "calculated_at": "2026-08-26T20:35:03+08:00",
-    "queue_number": 55,
-    "flats_taken": 48,
+    "date": "2026-08-27",
+    "calculated_at": "2026-08-27T20:11:01+08:00",
+    "queue_number": 61,
+    "flats_taken": 54,
     "dropout_count": 7
   },
   "ethnic_quotas": [
@@ -4981,7 +4987,7 @@
     },
     {
       "block": "148A",
-      "chinese": 164,
+      "chinese": 163,
       "malay": 50,
       "indian_other": 25
     }
