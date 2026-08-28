@@ -2,10 +2,10 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-27T20:11:01+08:00",
+  "updated_at": "2026-08-28T11:48:50+08:00",
   "summary": {
-    "available": 539,
-    "taken": 54,
+    "available": 537,
+    "taken": 56,
     "total": 593
   },
   "blocks": [
@@ -17,14 +17,14 @@
     },
     {
       "block": "147A",
-      "available": 224,
-      "taken": 4,
+      "available": 223,
+      "taken": 5,
       "total": 228
     },
     {
       "block": "148A",
-      "available": 197,
-      "taken": 31,
+      "available": 196,
+      "taken": 32,
       "total": 228
     }
   ],
@@ -1403,7 +1403,7 @@
       "floor": "43",
       "unit": "179",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-42-169",
@@ -3203,7 +3203,7 @@
       "floor": "43",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-43-189",
@@ -4775,58 +4775,40 @@
     }
   ],
   "changes": {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "taken": [
       {
-        "id": "146A-49-163",
-        "block": "146A",
-        "floor": "49",
-        "unit": "163"
-      },
-      {
-        "id": "146A-21-155",
-        "block": "146A",
-        "floor": "21",
-        "unit": "155"
-      },
-      {
-        "id": "147A-48-173",
+        "id": "147A-43-179",
         "block": "147A",
-        "floor": "48",
-        "unit": "173"
+        "floor": "43",
+        "unit": "179"
       },
       {
-        "id": "148A-49-187",
+        "id": "148A-43-187",
         "block": "148A",
-        "floor": "49",
+        "floor": "43",
         "unit": "187"
-      },
-      {
-        "id": "148A-34-187",
-        "block": "148A",
-        "floor": "34",
-        "unit": "187"
-      },
-      {
-        "id": "148A-32-195",
-        "block": "148A",
-        "floor": "32",
-        "unit": "195"
       }
     ]
   },
   "queue_tracker": {
     "target_queue_number": 593,
     "latest": {
-      "date": "2026-08-27",
-      "last_queue_number": 61,
-      "remaining": 532,
-      "progress_percent": 10.3,
-      "average_per_working_day": 3.39,
-      "average_per_working_day_exact": 3.388888888888889,
-      "estimated_date": "2027-04-13"
+      "date": "2026-08-28",
+      "last_queue_number": 65,
+      "remaining": 528,
+      "progress_percent": 11.0,
+      "average_per_working_day": 3.42,
+      "average_per_working_day_exact": 3.4210526315789473,
+      "estimated_date": "2027-04-12"
     },
     "history": [
+      {
+        "date": "2026-08-28",
+        "from_queue_number": 62,
+        "last_queue_number": 65,
+        "progress": 4
+      },
       {
         "date": "2026-08-27",
         "from_queue_number": 56,
@@ -4983,11 +4965,11 @@
       "block": "147A",
       "chinese": 188,
       "malay": 50,
-      "indian_other": 27
+      "indian_other": 26
     },
     {
       "block": "148A",
-      "chinese": 163,
+      "chinese": 162,
       "malay": 50,
       "indian_other": 25
     }
