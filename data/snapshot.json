@@ -2,17 +2,17 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-08-28T19:38:03+08:00",
+  "updated_at": "2026-08-31T11:22:21+08:00",
   "summary": {
-    "available": 535,
-    "taken": 58,
+    "available": 534,
+    "taken": 59,
     "total": 593
   },
   "blocks": [
     {
       "block": "146A",
-      "available": 117,
-      "taken": 20,
+      "available": 116,
+      "taken": 21,
       "total": 137
     },
     {
@@ -59,7 +59,7 @@
       "floor": "48",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-48-155",
@@ -4775,46 +4775,34 @@
     }
   ],
   "changes": {
-    "date": "2026-08-28",
+    "date": "2026-08-31",
     "taken": [
       {
-        "id": "146A-41-155",
+        "id": "146A-48-153",
         "block": "146A",
-        "floor": "41",
-        "unit": "155"
-      },
-      {
-        "id": "147A-43-179",
-        "block": "147A",
-        "floor": "43",
-        "unit": "179"
-      },
-      {
-        "id": "148A-43-187",
-        "block": "148A",
-        "floor": "43",
-        "unit": "187"
-      },
-      {
-        "id": "148A-41-187",
-        "block": "148A",
-        "floor": "41",
-        "unit": "187"
+        "floor": "48",
+        "unit": "153"
       }
     ]
   },
   "queue_tracker": {
     "target_queue_number": 593,
     "latest": {
-      "date": "2026-08-28",
-      "last_queue_number": 65,
-      "remaining": 528,
-      "progress_percent": 11.0,
-      "average_per_working_day": 3.42,
-      "average_per_working_day_exact": 3.4210526315789473,
-      "estimated_date": "2027-04-12"
+      "date": "2026-08-31",
+      "last_queue_number": 69,
+      "remaining": 524,
+      "progress_percent": 11.6,
+      "average_per_working_day": 3.45,
+      "average_per_working_day_exact": 3.45,
+      "estimated_date": "2027-04-08"
     },
     "history": [
+      {
+        "date": "2026-08-31",
+        "from_queue_number": 66,
+        "last_queue_number": 69,
+        "progress": 4
+      },
       {
         "date": "2026-08-28",
         "from_queue_number": 62,
@@ -4969,7 +4957,7 @@
   "ethnic_quotas": [
     {
       "block": "146A",
-      "chinese": 96,
+      "chinese": 95,
       "malay": 29,
       "indian_other": 17
     },
