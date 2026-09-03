@@ -2,7 +2,7 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-09-04T00:48:43+08:00",
+  "updated_at": "2026-09-04T00:58:42+08:00",
   "summary": {
     "available": 497,
     "taken": 96,
@@ -4775,7 +4775,7 @@
     }
   ],
   "changes": {
-    "date": "2026-09-04",
+    "date": "2026-09-03",
     "taken": [
       {
         "id": "146A-38-155",
