@@ -2,29 +2,29 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-09-08T03:42:24+08:00",
+  "updated_at": "2026-09-08T22:47:16+08:00",
   "summary": {
-    "available": 474,
-    "taken": 119,
+    "available": 463,
+    "taken": 130,
     "total": 593
   },
   "blocks": [
     {
       "block": "146A",
-      "available": 93,
-      "taken": 44,
+      "available": 88,
+      "taken": 49,
       "total": 137
     },
     {
       "block": "147A",
-      "available": 213,
-      "taken": 15,
+      "available": 210,
+      "taken": 18,
       "total": 228
     },
     {
       "block": "148A",
-      "available": 168,
-      "taken": 60,
+      "available": 165,
+      "taken": 63,
       "total": 228
     }
   ],
@@ -467,7 +467,7 @@
       "floor": "30",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-30-155",
@@ -539,7 +539,7 @@
       "floor": "27",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-27-155",
@@ -763,7 +763,7 @@
       "floor": "17",
       "unit": "155",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-17-163",
@@ -787,7 +787,7 @@
       "floor": "16",
       "unit": "155",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-16-163",
@@ -979,7 +979,7 @@
       "floor": "08",
       "unit": "155",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-08-163",
@@ -1387,7 +1387,7 @@
       "floor": "43",
       "unit": "173",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-43-175",
@@ -1979,7 +1979,7 @@
       "floor": "27",
       "unit": "171",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-27-173",
@@ -2387,7 +2387,7 @@
       "floor": "16",
       "unit": "173",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-16-175",
@@ -3715,7 +3715,7 @@
       "floor": "29",
       "unit": "185",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-29-187",
@@ -4331,7 +4331,7 @@
       "floor": "13",
       "unit": "189",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-13-191",
@@ -4483,7 +4483,7 @@
       "floor": "09",
       "unit": "187",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-09-189",
@@ -4775,72 +4775,72 @@
     }
   ],
   "changes": {
-    "date": "2026-09-07",
+    "date": "2026-09-08",
     "taken": [
       {
-        "id": "146A-43-153",
+        "id": "146A-30-153",
         "block": "146A",
-        "floor": "43",
+        "floor": "30",
         "unit": "153"
       },
       {
-        "id": "146A-42-153",
+        "id": "146A-27-153",
         "block": "146A",
-        "floor": "42",
+        "floor": "27",
         "unit": "153"
       },
       {
-        "id": "146A-41-153",
+        "id": "146A-17-155",
         "block": "146A",
-        "floor": "41",
-        "unit": "153"
-      },
-      {
-        "id": "146A-18-155",
-        "block": "146A",
-        "floor": "18",
+        "floor": "17",
         "unit": "155"
       },
       {
-        "id": "147A-46-171",
+        "id": "146A-16-155",
+        "block": "146A",
+        "floor": "16",
+        "unit": "155"
+      },
+      {
+        "id": "146A-08-155",
+        "block": "146A",
+        "floor": "08",
+        "unit": "155"
+      },
+      {
+        "id": "147A-43-173",
         "block": "147A",
-        "floor": "46",
+        "floor": "43",
+        "unit": "173"
+      },
+      {
+        "id": "147A-27-171",
+        "block": "147A",
+        "floor": "27",
         "unit": "171"
       },
       {
-        "id": "148A-47-185",
+        "id": "147A-16-173",
+        "block": "147A",
+        "floor": "16",
+        "unit": "173"
+      },
+      {
+        "id": "148A-29-185",
         "block": "148A",
-        "floor": "47",
+        "floor": "29",
         "unit": "185"
       },
       {
-        "id": "148A-43-185",
+        "id": "148A-13-189",
         "block": "148A",
-        "floor": "43",
-        "unit": "185"
+        "floor": "13",
+        "unit": "189"
       },
       {
-        "id": "148A-42-185",
+        "id": "148A-09-187",
         "block": "148A",
-        "floor": "42",
-        "unit": "185"
-      },
-      {
-        "id": "148A-20-185",
-        "block": "148A",
-        "floor": "20",
-        "unit": "185"
-      },
-      {
-        "id": "148A-10-187",
-        "block": "148A",
-        "floor": "10",
-        "unit": "187"
-      },
-      {
-        "id": "148A-08-187",
-        "block": "148A",
-        "floor": "08",
+        "floor": "09",
         "unit": "187"
       }
     ]
@@ -4848,15 +4848,21 @@
   "queue_tracker": {
     "target_queue_number": 593,
     "latest": {
-      "date": "2026-09-07",
-      "last_queue_number": 136,
-      "remaining": 457,
-      "progress_percent": 22.9,
-      "average_per_working_day": 5.44,
-      "average_per_working_day_exact": 5.44,
-      "estimated_date": "2027-01-07"
+      "date": "2026-09-08",
+      "last_queue_number": 149,
+      "remaining": 444,
+      "progress_percent": 25.1,
+      "average_per_working_day": 5.73,
+      "average_per_working_day_exact": 5.730769230769231,
+      "estimated_date": "2026-12-29"
     },
     "history": [
+      {
+        "date": "2026-09-08",
+        "from_queue_number": 137,
+        "last_queue_number": 149,
+        "progress": 13
+      },
       {
         "date": "2026-09-07",
         "from_queue_number": 124,
@@ -5038,29 +5044,29 @@
     ]
   },
   "dropout_summary": {
-    "date": "2026-09-07",
-    "calculated_at": "2026-09-08T03:42:24+08:00",
-    "queue_number": 136,
-    "flats_taken": 119,
-    "dropout_count": 17
+    "date": "2026-09-08",
+    "calculated_at": "2026-09-08T22:47:16+08:00",
+    "queue_number": 149,
+    "flats_taken": 130,
+    "dropout_count": 19
   },
   "ethnic_quotas": [
     {
       "block": "146A",
-      "chinese": 79,
+      "chinese": 74,
       "malay": 28,
       "indian_other": 11
     },
     {
       "block": "147A",
-      "chinese": 178,
+      "chinese": 175,
       "malay": 50,
       "indian_other": 26
     },
     {
       "block": "148A",
-      "chinese": 136,
-      "malay": 50,
+      "chinese": 134,
+      "malay": 49,
       "indian_other": 23
     }
   ],
