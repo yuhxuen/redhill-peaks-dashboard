@@ -43,6 +43,8 @@ function renderPublicQueue() {
   $("queue-percent").textContent = `${percentage}%`;
   $("queue-latest").textContent = `${dateLabel(latest.date)} · latest reported queue ${latest.last_queue_number}`;
   $("queue-average").textContent = Number(latest.average_per_working_day).toFixed(2);
+  const averageEntryCount = Number(latest.average_entry_count || 0);
+  $("queue-average-basis").textContent = `latest ${averageEntryCount} ${averageEntryCount === 1 ? "entry" : "entries"}`;
   if (hasPersonalQueue) {
     $("queue-remaining").textContent = remaining ? `${remaining} queue numbers to go` : "Your queue number has been reached";
     const exactAverage = latest.average_per_working_day_exact || latest.average_per_working_day;
