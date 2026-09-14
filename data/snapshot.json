@@ -2,29 +2,29 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-09-11T22:59:25+08:00",
+  "updated_at": "2026-09-14T16:44:29+08:00",
   "summary": {
-    "available": 421,
-    "taken": 172,
+    "available": 406,
+    "taken": 187,
     "total": 593
   },
   "blocks": [
     {
       "block": "146A",
-      "available": 80,
-      "taken": 57,
+      "available": 73,
+      "taken": 64,
       "total": 137
     },
     {
       "block": "147A",
-      "available": 195,
-      "taken": 33,
+      "available": 190,
+      "taken": 38,
       "total": 228
     },
     {
       "block": "148A",
-      "available": 146,
-      "taken": 82,
+      "available": 143,
+      "taken": 85,
       "total": 228
     }
   ],
@@ -75,7 +75,7 @@
       "floor": "48",
       "unit": "163",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-47-153",
@@ -371,7 +371,7 @@
       "floor": "34",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-34-155",
@@ -419,7 +419,7 @@
       "floor": "32",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-32-155",
@@ -443,7 +443,7 @@
       "floor": "31",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-31-155",
@@ -635,7 +635,7 @@
       "floor": "23",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-23-155",
@@ -811,7 +811,7 @@
       "floor": "15",
       "unit": "155",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-15-163",
@@ -931,7 +931,7 @@
       "floor": "10",
       "unit": "155",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-10-163",
@@ -1139,7 +1139,7 @@
       "floor": "49",
       "unit": "171",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-49-173",
@@ -1315,7 +1315,7 @@
       "floor": "45",
       "unit": "175",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-45-179",
@@ -1363,7 +1363,7 @@
       "floor": "44",
       "unit": "179",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-43-169",
@@ -1659,7 +1659,7 @@
       "floor": "35",
       "unit": "171",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-35-173",
@@ -1859,7 +1859,7 @@
       "floor": "30",
       "unit": "171",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-30-173",
@@ -2971,7 +2971,7 @@
       "floor": "49",
       "unit": "189",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-49-191",
@@ -4187,7 +4187,7 @@
       "floor": "17",
       "unit": "195",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-16-185",
@@ -4355,7 +4355,7 @@
       "floor": "12",
       "unit": "185",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-12-187",
@@ -4775,100 +4775,118 @@
     }
   ],
   "changes": {
-    "date": "2026-09-11",
+    "date": "2026-09-14",
     "taken": [
       {
-        "id": "146A-35-153",
+        "id": "146A-48-163",
         "block": "146A",
-        "floor": "35",
+        "floor": "48",
+        "unit": "163"
+      },
+      {
+        "id": "146A-34-153",
+        "block": "146A",
+        "floor": "34",
         "unit": "153"
       },
       {
-        "id": "146A-33-153",
+        "id": "146A-32-153",
         "block": "146A",
-        "floor": "33",
+        "floor": "32",
         "unit": "153"
       },
       {
-        "id": "147A-49-175",
+        "id": "146A-31-153",
+        "block": "146A",
+        "floor": "31",
+        "unit": "153"
+      },
+      {
+        "id": "146A-23-153",
+        "block": "146A",
+        "floor": "23",
+        "unit": "153"
+      },
+      {
+        "id": "146A-15-155",
+        "block": "146A",
+        "floor": "15",
+        "unit": "155"
+      },
+      {
+        "id": "146A-10-155",
+        "block": "146A",
+        "floor": "10",
+        "unit": "155"
+      },
+      {
+        "id": "147A-49-171",
         "block": "147A",
         "floor": "49",
+        "unit": "171"
+      },
+      {
+        "id": "147A-45-175",
+        "block": "147A",
+        "floor": "45",
         "unit": "175"
       },
       {
-        "id": "147A-47-175",
+        "id": "147A-44-179",
         "block": "147A",
-        "floor": "47",
-        "unit": "175"
+        "floor": "44",
+        "unit": "179"
       },
       {
-        "id": "147A-46-175",
+        "id": "147A-35-171",
         "block": "147A",
-        "floor": "46",
-        "unit": "175"
-      },
-      {
-        "id": "147A-42-171",
-        "block": "147A",
-        "floor": "42",
+        "floor": "35",
         "unit": "171"
       },
       {
-        "id": "147A-42-173",
+        "id": "147A-30-171",
         "block": "147A",
-        "floor": "42",
-        "unit": "173"
-      },
-      {
-        "id": "147A-38-171",
-        "block": "147A",
-        "floor": "38",
+        "floor": "30",
         "unit": "171"
       },
       {
-        "id": "147A-37-171",
-        "block": "147A",
-        "floor": "37",
-        "unit": "171"
-      },
-      {
-        "id": "147A-36-171",
-        "block": "147A",
-        "floor": "36",
-        "unit": "171"
-      },
-      {
-        "id": "147A-31-171",
-        "block": "147A",
-        "floor": "31",
-        "unit": "171"
-      },
-      {
-        "id": "148A-47-189",
+        "id": "148A-49-189",
         "block": "148A",
-        "floor": "47",
+        "floor": "49",
         "unit": "189"
       },
       {
-        "id": "148A-15-189",
+        "id": "148A-17-195",
         "block": "148A",
-        "floor": "15",
-        "unit": "189"
+        "floor": "17",
+        "unit": "195"
+      },
+      {
+        "id": "148A-12-185",
+        "block": "148A",
+        "floor": "12",
+        "unit": "185"
       }
     ]
   },
   "queue_tracker": {
     "target_queue_number": 593,
     "latest": {
-      "date": "2026-09-11",
-      "last_queue_number": 198,
-      "remaining": 395,
-      "progress_percent": 33.4,
-      "average_per_working_day": 6.83,
-      "average_per_working_day_exact": 6.827586206896552,
-      "estimated_date": "2026-12-03"
+      "date": "2026-09-14",
+      "last_queue_number": 215,
+      "remaining": 378,
+      "progress_percent": 36.3,
+      "average_per_working_day": 7.17,
+      "average_per_working_day_exact": 7.166666666666667,
+      "estimated_date": "2026-11-27"
     },
     "history": [
+      {
+        "date": "2026-09-14",
+        "from_queue_number": 199,
+        "last_queue_number": 215,
+        "progress": 17
+      },
       {
         "date": "2026-09-11",
         "from_queue_number": 184,
@@ -5083,20 +5101,20 @@
   "ethnic_quotas": [
     {
       "block": "146A",
-      "chinese": 66,
+      "chinese": 59,
       "malay": 28,
       "indian_other": 11
     },
     {
       "block": "147A",
-      "chinese": 161,
+      "chinese": 156,
       "malay": 50,
       "indian_other": 25
     },
     {
       "block": "148A",
-      "chinese": 115,
-      "malay": 49,
+      "chinese": 113,
+      "malay": 48,
       "indian_other": 23
     }
   ],
