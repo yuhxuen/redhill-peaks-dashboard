@@ -2,29 +2,29 @@
   "schema_version": 4,
   "project": "Redhill Peaks",
   "room_type": "4-room",
-  "updated_at": "2026-09-16T20:43:07+08:00",
+  "updated_at": "2026-09-17T18:09:35+08:00",
   "summary": {
-    "available": 379,
-    "taken": 214,
+    "available": 367,
+    "taken": 226,
     "total": 593
   },
   "blocks": [
     {
       "block": "146A",
-      "available": 68,
-      "taken": 69,
+      "available": 65,
+      "taken": 72,
       "total": 137
     },
     {
       "block": "147A",
-      "available": 178,
-      "taken": 50,
+      "available": 173,
+      "taken": 55,
       "total": 228
     },
     {
       "block": "148A",
-      "available": 133,
-      "taken": 95,
+      "available": 129,
+      "taken": 99,
       "total": 228
     }
   ],
@@ -99,7 +99,7 @@
       "floor": "47",
       "unit": "163",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-46-153",
@@ -195,7 +195,7 @@
       "floor": "43",
       "unit": "163",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-42-153",
@@ -611,7 +611,7 @@
       "floor": "24",
       "unit": "153",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "146A-24-155",
@@ -1371,7 +1371,7 @@
       "floor": "43",
       "unit": "169",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-43-171",
@@ -1483,7 +1483,7 @@
       "floor": "41",
       "unit": "179",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-40-169",
@@ -1499,7 +1499,7 @@
       "floor": "40",
       "unit": "171",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-40-173",
@@ -2139,7 +2139,7 @@
       "floor": "23",
       "unit": "171",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-23-173",
@@ -2619,7 +2619,7 @@
       "floor": "10",
       "unit": "171",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "147A-10-173",
@@ -3027,7 +3027,7 @@
       "floor": "48",
       "unit": "195",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-47-185",
@@ -3731,7 +3731,7 @@
       "floor": "29",
       "unit": "189",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-29-191",
@@ -3771,7 +3771,7 @@
       "floor": "28",
       "unit": "189",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-28-191",
@@ -4115,7 +4115,7 @@
       "floor": "18",
       "unit": "185",
       "room_type": "4-room",
-      "status": "available"
+      "status": "taken"
     },
     {
       "id": "148A-18-187",
@@ -4775,84 +4775,78 @@
     }
   ],
   "changes": {
-    "date": "2026-09-16",
+    "date": "2026-09-17",
     "taken": [
       {
-        "id": "146A-46-163",
+        "id": "146A-47-163",
         "block": "146A",
-        "floor": "46",
+        "floor": "47",
         "unit": "163"
       },
       {
-        "id": "146A-07-155",
+        "id": "146A-43-163",
         "block": "146A",
-        "floor": "07",
-        "unit": "155"
+        "floor": "43",
+        "unit": "163"
       },
       {
-        "id": "147A-44-171",
-        "block": "147A",
-        "floor": "44",
-        "unit": "171"
+        "id": "146A-24-153",
+        "block": "146A",
+        "floor": "24",
+        "unit": "153"
       },
       {
-        "id": "147A-42-179",
+        "id": "147A-43-169",
         "block": "147A",
-        "floor": "42",
+        "floor": "43",
+        "unit": "169"
+      },
+      {
+        "id": "147A-41-179",
+        "block": "147A",
+        "floor": "41",
         "unit": "179"
       },
       {
-        "id": "147A-41-173",
+        "id": "147A-40-171",
         "block": "147A",
-        "floor": "41",
-        "unit": "173"
-      },
-      {
-        "id": "147A-29-171",
-        "block": "147A",
-        "floor": "29",
+        "floor": "40",
         "unit": "171"
       },
       {
-        "id": "147A-15-171",
+        "id": "147A-23-171",
         "block": "147A",
-        "floor": "15",
+        "floor": "23",
         "unit": "171"
       },
       {
-        "id": "148A-49-195",
+        "id": "147A-10-171",
+        "block": "147A",
+        "floor": "10",
+        "unit": "171"
+      },
+      {
+        "id": "148A-48-195",
         "block": "148A",
-        "floor": "49",
+        "floor": "48",
         "unit": "195"
       },
       {
-        "id": "148A-48-191",
+        "id": "148A-29-189",
         "block": "148A",
-        "floor": "48",
-        "unit": "191"
-      },
-      {
-        "id": "148A-47-191",
-        "block": "148A",
-        "floor": "47",
-        "unit": "191"
-      },
-      {
-        "id": "148A-45-189",
-        "block": "148A",
-        "floor": "45",
+        "floor": "29",
         "unit": "189"
       },
       {
-        "id": "148A-13-185",
+        "id": "148A-28-189",
         "block": "148A",
-        "floor": "13",
-        "unit": "185"
+        "floor": "28",
+        "unit": "189"
       },
       {
-        "id": "148A-11-185",
+        "id": "148A-18-185",
         "block": "148A",
-        "floor": "11",
+        "floor": "18",
         "unit": "185"
       }
     ]
@@ -5102,21 +5096,21 @@
   "ethnic_quotas": [
     {
       "block": "146A",
-      "chinese": 55,
+      "chinese": 52,
       "malay": 27,
       "indian_other": 11
     },
     {
       "block": "147A",
-      "chinese": 146,
+      "chinese": 142,
       "malay": 50,
-      "indian_other": 23
+      "indian_other": 22
     },
     {
       "block": "148A",
-      "chinese": 108,
+      "chinese": 105,
       "malay": 47,
-      "indian_other": 19
+      "indian_other": 18
     }
   ],
   "notice": "Availability is informational. Confirm all details directly with HDB."
